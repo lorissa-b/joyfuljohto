@@ -1421,6 +1421,10 @@ static const u8 sLeafTornadoDescription[] = _(
     "Circles the target in sharp leaves \n"
     "that may reduce ACC.");
 
+static const u8 sIceFangDescription[] = _(
+    "Bites the target with cold fangs.\n"
+    "May cause freezing.");
+
 // MOVE_NONE is ignored in this table. Make sure to always subtract 1 before getting the right pointer.
 const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
 {
@@ -1778,5 +1782,6 @@ const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
     [MOVE_WATER_PULSE - 1] = sWaterPulseDescription,
     [MOVE_DOOM_DESIRE - 1] = sDoomDesireDescription,
     [MOVE_PSYCHO_BOOST - 1] = sPsychoBoostDescription,
-    [MOVE_LEAF_TORNADO - 1] = sLeafTornadoDescription
+    [MOVE_LEAF_TORNADO - 1] = sLeafTornadoDescription,
+    [MOVE_ICE_FANG - 1] = sIceFangDescription,
 };

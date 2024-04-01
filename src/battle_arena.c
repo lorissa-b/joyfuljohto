@@ -274,6 +274,7 @@ static const s8 sMindRatings[MOVES_COUNT] =
     [MOVE_DOOM_DESIRE] = 1,
     [MOVE_PSYCHO_BOOST] = 1,
     [MOVE_LEAF_TORNADO] = 1,
+    [MOVE_ICE_FANG] = 1,
 };
 
 static const struct OamData sOam_JudgmentIcon =
