@@ -1070,3 +1070,11 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route31/scripts.inc"
 
 	.include "data/maps/VioletCity/scripts.inc"
+
+	.include "data/maps/PlayerHouse/scripts.inc"
+
+	.include "data/maps/NewBarkTown_PlayerHouse_1F/scripts.inc"
+
+	.include "data/maps/NewBarkTown_PlayerHouse_2F/scripts.inc"
+
+	.include "data/maps/NewBarkTown_ProfessorElmsLab/scripts.inc"

@@ -103,7 +103,10 @@
     "Underwater_Route125"
   ],
   "gMapGroup_IndoorNewBark": [
-
+    "PlayerHouse",
+    "NewBarkTown_PlayerHouse_1F",
+    "NewBarkTown_PlayerHouse_2F",
+    "NewBarkTown_ProfessorElmsLab"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",

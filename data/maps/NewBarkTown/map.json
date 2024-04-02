@@ -28,7 +28,20 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 24,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_NEW_BARK_TOWN_PLAYER_HOUSE_1F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_NEW_BARK_TOWN_PROFESSOR_ELMS_LAB",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

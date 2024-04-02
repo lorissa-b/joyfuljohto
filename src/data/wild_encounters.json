@@ -11790,9 +11790,78 @@
         },
         {
           "map": "MAP_ROUTE29",
-          "base_label": "gRoute290",
+          "base_label": "gRoute29_Morning",
           "land_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_LEDYBA"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_LEDYBA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_CATERPIE"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_CATERPIE"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE29",
+          "base_label": "gRoute29_Day",
+          "land_mons": {
+            "encounter_rate": 20,
             "mons": [
               {
                 "min_level": 2,
@@ -11801,22 +11870,7 @@
               },
               {
                 "min_level": 2,
-                "max_level": 3,
-                "species": "SPECIES_SENTRET"
-              },
-              {
-                "min_level": 2,
                 "max_level": 4,
-                "species": "SPECIES_PIDGEY"
-              },
-              {
-                "min_level": 2,
-                "max_level": 3,
-                "species": "SPECIES_SENTRET"
-              },
-              {
-                "min_level": 2,
-                "max_level": 3,
                 "species": "SPECIES_SENTRET"
               },
               {
@@ -11827,12 +11881,76 @@
               {
                 "min_level": 2,
                 "max_level": 4,
-                "species": "SPECIES_RATTATA"
+                "species": "SPECIES_CATERPIE"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SENTRET"
               },
               {
                 "min_level": 2,
                 "max_level": 4,
                 "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_RATTATA"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE29",
+          "base_label": "gRoute29_Evening",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_WEEDLE"
               },
               {
                 "min_level": 2,
@@ -11841,8 +11959,67 @@
               },
               {
                 "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_SEEDOT"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_WEEDLE"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_HOPPIP"
+                "species": "SPECIES_WEEDLE"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE29",
+          "base_label": "gRoute29_Night",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_WEEDLE"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_HOOTHOOT"
               },
               {
                 "min_level": 2,
@@ -11850,9 +12027,591 @@
                 "species": "SPECIES_RATTATA"
               },
               {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SEEDOT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 4,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_SEEDOT"
+              },
+              {
+                "min_level": 2,
+                "max_level": 4,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_SEEDOT"
+              },
+              {
                 "min_level": 3,
                 "max_level": 3,
+                "species": "SPECIES_HOOTHOOT"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE31",
+          "base_label": "gRoute31_Morning",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
                 "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_PHANPY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_WOOPER"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 6,
+                "max_level": 7,
+                "species": "SPECIES_WOOPER"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE31",
+          "base_label": "gRoute31_Day",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_AZURILL"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 6,
+                "max_level": 7,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE31",
+          "base_label": "gRoute31_Evening",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_AZURILL"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_BELLSPROUT"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_PHANPY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_AZURILL"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_ZUBAT"
+              },
+              {
+                "min_level": 6,
+                "max_level": 7,
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_ZUBAT"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE31",
+          "base_label": "gRoute31_Night",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_ZUBAT"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_WOOPER"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_BELLSPROUT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_WOOPER"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_BELLSPROUT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 4,
+                "max_level": 6,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 6,
+                "max_level": 7,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_RATTATA"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE30",
+          "base_label": "gRoute30_Morning",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_LEDYBA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_CATERPIE"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_LEDYBA"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_HOPPIP"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE30",
+          "base_label": "gRoute30_Day",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_CATERPIE"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_HOPPIP"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SUNKERN"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_LEDYBA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_LEDYBA"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE30",
+          "base_label": "gRoute30_Evening",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_ODDISH"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_PIDGEY"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_ZUBAT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_SENTRET"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_ZUBAT"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_ROUTE30",
+          "base_label": "gRoute30_Night",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_ODDISH"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_ZUBAT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_ZUBAT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
+                "species": "SPECIES_POLIWAG"
+              },
+              {
+                "min_level": 5,
+                "max_level": 6,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 4,
+                "max_level": 5,
+                "species": "SPECIES_POLIWAG"
               }
             ]
           }
