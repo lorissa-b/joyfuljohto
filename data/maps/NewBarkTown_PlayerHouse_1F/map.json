@@ -52,7 +52,33 @@
     }
   ],
   "coord_events": [
-
+    {
+      "type": "trigger",
+      "x": 14,
+      "y": 5,
+      "elevation": 0,
+      "var": "VAR_NEW_BARK_INTRO_STATE",
+      "var_value": "0",
+      "script": "NewBarkTown_PlayerHouse_1F_Text_Introduction"
+    },
+    {
+      "type": "trigger",
+      "x": 15,
+      "y": 6,
+      "elevation": 0,
+      "var": "VAR_NEW_BARK_INTRO_STATE",
+      "var_value": "0",
+      "script": "NewBarkTown_PlayerHouse_1F_Text_Introduction"
+    },
+    {
+      "type": "trigger",
+      "x": 16,
+      "y": 5,
+      "elevation": 0,
+      "var": "VAR_NEW_BARK_INTRO_STATE",
+      "var_value": "0",
+      "script": "NewBarkTown_PlayerHouse_1F_Text_Introduction"
+    }
   ],
   "bg_events": [
 
