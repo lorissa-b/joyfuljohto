@@ -3,7 +3,7 @@
   "name": "NewBarkTown_PlayerHouse_1F",
   "layout": "LAYOUT_NEW_BARK_TOWN_PLAYER_HOUSE_1F",
   "music": "MUS_DUMMY",
-  "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
+  "region_map_section": "MAPSEC_NEW_BARK_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
   "map_type": "MAP_TYPE_INDOOR",
@@ -31,21 +31,21 @@
   "warp_events": [
     {
       "x": 8,
-      "y": 10,
+      "y": 11,
       "elevation": 0,
       "dest_map": "MAP_NEW_BARK_TOWN",
       "dest_warp_id": "0"
     },
     {
       "x": 9,
-      "y": 10,
+      "y": 11,
       "elevation": 0,
       "dest_map": "MAP_NEW_BARK_TOWN",
       "dest_warp_id": "0"
     },
     {
       "x": 15,
-      "y": 4,
+      "y": 5,
       "elevation": 0,
       "dest_map": "MAP_NEW_BARK_TOWN_PLAYER_HOUSE_2F",
       "dest_warp_id": "0"
@@ -55,15 +55,6 @@
     {
       "type": "trigger",
       "x": 14,
-      "y": 5,
-      "elevation": 0,
-      "var": "VAR_NEW_BARK_INTRO_STATE",
-      "var_value": "0",
-      "script": "NewBarkTown_PlayerHouse_1F_Text_Introduction"
-    },
-    {
-      "type": "trigger",
-      "x": 15,
       "y": 6,
       "elevation": 0,
       "var": "VAR_NEW_BARK_INTRO_STATE",
@@ -72,8 +63,17 @@
     },
     {
       "type": "trigger",
+      "x": 15,
+      "y": 7,
+      "elevation": 0,
+      "var": "VAR_NEW_BARK_INTRO_STATE",
+      "var_value": "0",
+      "script": "NewBarkTown_PlayerHouse_1F_Text_Introduction"
+    },
+    {
+      "type": "trigger",
       "x": 16,
-      "y": 5,
+      "y": 6,
       "elevation": 0,
       "var": "VAR_NEW_BARK_INTRO_STATE",
       "var_value": "0",

@@ -22,15 +22,16 @@ NewBarkTown_PlayerHouse_1F_Text_Introduction::
 	setflag FLAG_ADDED_MATCH_CALL_TO_POKENAV
 	setflag FLAG_HAS_MATCH_CALL
 	setvar VAR_NEW_BARK_INTRO_STATE, 1
+	setvar VAR_BIRCH_LAB_STATE, 1
 	releaseall
 	end
 
 NewBarkTown_PlayerHouse_1F_Text_YoureUp::
 	.string "Oh good you're up, {PLAYER}! Professor\n"
-	.string "Elm was looking for you. He said he\n"
-	.string "wanted you to do something for him.\l"
+	.string "Elm was looking for you. He said he\l"
+	.string "wanted you to do something for him.\p"
 	.string "Oh! I almost forgot! Your Pokenav\n"
-	.string "is back from the repair shop. Here\n"
+	.string "is back from the repair shop. Here\l"
 	.string "you go!$"
 
 NewBarkTown_PlayerHouse_1F_Text_ReceivedPokenav::
@@ -48,7 +49,7 @@ NewBarkTown_PlayerHouse_1F_Text_ResetClock::
 NewBarkTown_PlayerHouse_1F_Text_PhoneTutorial::
 	.string "By the way, do you know how to use\n"
 	.string "the phone? Either way, I'll read the\l"
-	.string "instructions. Turn the Pokenav on and select\n"
-	.string "the Call item. Phone numbers are stored\n"
-	.string "in memory. Just choose the name you want\n"
+	.string "instructions. Turn the Pokenav on and select\l"
+	.string "the Call item. Phone numbers are stored\l"
+	.string "in memory. Just choose the name you want\l"
 	.string "to call. Gee, isn't that convenient?$"
