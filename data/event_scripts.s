@@ -1078,3 +1078,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/NewBarkTown_PlayerHouse_2F/scripts.inc"
 
 	.include "data/maps/NewBarkTown_ProfessorElmsLab/scripts.inc"
+
+	.include "data/maps/CherrygroveCity_PokemonCentre_1F/scripts.inc"
+
+	.include "data/maps/CherrygroveCity_Mart_/scripts.inc"

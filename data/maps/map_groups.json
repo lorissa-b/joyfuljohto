@@ -2,6 +2,7 @@
   "group_order": [
     "gMapGroup_TownsAndRoutes",
     "gMapGroup_IndoorNewBark",
+    "gMapGroup_IndoorCherrygrove",
     "gMapGroup_IndoorLittleroot",
     "gMapGroup_IndoorOldale",
     "gMapGroup_IndoorDewford",
@@ -107,6 +108,10 @@
     "NewBarkTown_PlayerHouse_1F",
     "NewBarkTown_PlayerHouse_2F",
     "NewBarkTown_ProfessorElmsLab"
+  ],
+  "gMapGroup_IndoorCherrygrove": [
+    "CherrygroveCity_PokemonCentre_1F",
+    "CherrygroveCity_Mart_"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
