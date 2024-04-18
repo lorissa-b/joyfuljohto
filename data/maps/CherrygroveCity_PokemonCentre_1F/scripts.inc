@@ -1,14 +1,14 @@
 .set LOCALID_NURSE, 1
 
 CherrygroveCity_PokemonCentre_1F_MapScripts::
-	map_script MAP_SCRIPT_ON_TRANSITION, CherrygroveCity_PokemonCenter_1F_OnTransition
+	map_script MAP_SCRIPT_ON_TRANSITION, CherrygroveCity_PokemonCentre_1F_OnTransition
 	.byte 0
 
 CherrygroveCity_PokemonCentre_1F_OnTransition::
 	setrespawn HEAL_LOCATION_CHERRYGROVE_CITY
 	end
 
-CherrygroveCity_PokemonCenter_1F_EventScript_Nurse::
+CherrygroveCity_PokemonCentre_1F_EventScript_Nurse::
 	setvar VAR_0x800B, LOCALID_NURSE
 	call Common_EventScript_PkmnCenterNurse
 	waitmessage
@@ -17,7 +17,7 @@ CherrygroveCity_PokemonCenter_1F_EventScript_Nurse::
 	end
 
 CherrygroveCity_PokemonCentre_1F_EventScript_BugCatcher::
-	msgbox CherrygroveCity_PokemonCenter_1F_Text_PokemonCentersAreGreat, MSGBOX_NPC
+	msgbox CherrygroveCity_PokemonCentre_1F_Text_PokemonCentersAreGreat, MSGBOX_NPC
 	release
 	end
 
