@@ -22,16 +22,18 @@ OakGivePokedex::
 # 13 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	setflag FLAG_ADVENTURE_STARTED
 # 14 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	msgbox OakGivePokedex_Text_2
+	setvar VAR_NEW_BARK_INTRO_STATE, 2
 # 15 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	msgbox OakGivePokedex_Text_2
+# 16 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	releaseall
 	return
 
 
 ReturningToElm::
-# 19 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	msgbox ReturningToElm_Text_0
 # 20 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	msgbox ReturningToElm_Text_0
+# 21 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	msgbox ReturningToElm_Text_1
 	return
 
@@ -83,7 +85,7 @@ OakGivePokedex_Text_1:
 	.string "{PLAYER} received a Pokedex!$"
 
 OakGivePokedex_Text_2:
-# 14 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 15 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	.string "Go meet many kinds of Pokemon and\n"
 	.string "complete that Pokedex! But I've stayed\l"
 	.string "too long. I have to get to Goldenrod\l"
@@ -91,11 +93,11 @@ OakGivePokedex_Text_2:
 	.string "{PLAYER}, I'm counting on you!$"
 
 ReturningToElm_Text_0:
-# 19 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 20 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	.string "You are returning to Professor Elm?\n"
 	.string "Here. Your Pokemon should have some\l"
 	.string "rest.$"
 
 ReturningToElm_Text_1:
-# 20 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 21 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	.string "I'm depending on you!$"

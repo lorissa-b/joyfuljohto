@@ -1,6 +1,12 @@
 mapscripts Route30_MapScripts {
     MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
     MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+    MAP_SCRIPT_ON_FRAME_TABLE [
+        VAR_NEW_BARK_INTRO_STATE, 3 {
+            pokenavcall(format("H-hello? {PLAYER}? It's a disaster! Uh, um, it's just terrible! What should I do? It... Oh, no... Please get back here now!"))
+            setvar(VAR_NEW_BARK_INTRO_STATE, 4)
+        }
+    ]
 }
 
 script Route30_RouteMarker {

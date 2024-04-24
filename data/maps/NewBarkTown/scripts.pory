@@ -1,3 +1,10 @@
+// VAR_NEW_BARK_INTRO_STATE statuses
+// 0 -> New Game
+// 1 -> Got Pokenav
+// 2 -> Got Mysterious Egg
+// 3 -> Received Elm phone call
+// 4 -> Returned to the scene of the crime
+
 mapscripts NewBarkTown_MapScripts {}
 
 script NewBarkTown_Sign {
