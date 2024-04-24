@@ -1082,3 +1082,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/CherrygroveCity_PokemonCentre_1F/scripts.inc"
 
 	.include "data/maps/CherrygroveCity_Mart_/scripts.inc"
+
+	.include "data/maps/Route30_BerryHouse/scripts.inc"
+
+	.include "data/maps/Route30_MrPokemonsHouse/scripts.inc"

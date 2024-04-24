@@ -1,0 +1,121 @@
+const GUIDE_GENT_ID = 1
+
+mapscripts CherrygroveCity_MapScripts {}
+
+script CherrygroveCity_Sign {
+    msgbox(format("CHERRYGROVE CITY\nThe City of Fragrant Flowers"))
+    release
+}
+
+script CherrygroveCity_GuideGentHouse_Sign {
+    msgbox(format("Guide Gent's House"))
+    release
+}
+
+script CherrygroveCity_WanderingLady {
+    msgbox(format("Did you talk to the old man by the Pokemon Center? He'll give you a snazzy pair of running shoes!"))
+    release
+}
+
+script CherrygroveCity_WanderingBoy {
+    msgbox(format("Mr. Pokemon's house is still farther up ahead."))
+    release
+}
+
+script CherrygroveCity_GuideGent {
+    msgbox(format("You're a rookie trainer, aren't you? I can tell! That's okay, everyone is a rookie at some point! If you'd like, I can teach you a few things."), MSGBOX_YESNO)
+    release
+    if (var(VAR_RESULT) == 0) {
+        msgbox(format("Oh... it's something I enjoy doing... Fine. Come see me when you like."))
+        release
+        end
+    }
+    else {
+        msgbox(format("Okay then! Follow me!"))
+        release
+        applymovement(GUIDE_GENT_ID, GuideGent_ToPC)
+        applymovement(OBJ_EVENT_ID_PLAYER, Player_ToPC)
+        waitmovement(0)
+        msgbox(format("This is a Pokemon Center. They heal your Pokemon in no time at all. You'll be relying on them a lot, so you better learn about them."))
+        release
+        applymovement(GUIDE_GENT_ID, GuideGent_Player_ToMart)
+        applymovement(OBJ_EVENT_ID_PLAYER, GuideGent_Player_ToMart)
+        waitmovement(0)
+        msgbox(format("This is a Pokemon Mart.\pThey sell balls for catching wild Pokemon and other useful items."))
+        release
+        applymovement(GUIDE_GENT_ID, GuideGent_Player_ToRoute30)
+        applymovement(OBJ_EVENT_ID_PLAYER, GuideGent_Player_ToRoute30)
+        waitmovement(0)
+        msgbox(format("Route 30 is out this way.\pTrainers will be battling their prized Pokemon there."))
+        release
+        applymovement(GUIDE_GENT_ID, GuideGent_ToSea)
+        applymovement(OBJ_EVENT_ID_PLAYER, Player_ToSea)
+        waitmovement(0)
+        msgbox(format("This is the sea, as you can see. Some Pokemon are found only in water."))
+        release
+        applymovement(GUIDE_GENT_ID, GuideGent_ToHouse)
+        applymovement(OBJ_EVENT_ID_PLAYER, Player_ToHouse)
+        waitmovement(0)
+        msgbox(format("Here... It's my house! Thanks for your company.\pLet me give you a small gift."))
+        release
+        msgbox(format("{PLAYER} received the running shoes!"))
+        setflag(FLAG_RECEIVED_RUNNING_SHOES)
+        release
+        msgbox(format("Hold B to run. I wish you luck on your journey!"))
+        release
+    }
+}
+
+movement GuideGent_ToPC {
+    walk_left * 5
+    walk_up
+}
+
+movement Player_ToPC {
+    walk_left * 4
+    walk_up * 2
+}
+
+movement GuideGent_Player_ToMart {
+    walk_left * 6
+    face_up
+}
+
+movement GuideGent_Player_ToRoute30 {
+    walk_left * 7
+    face_up
+}
+
+movement GuideGent_ToSea {
+    walk_left * 3
+    walk_down * 4
+    walk_left * 7
+}
+
+movement Player_ToSea {
+    walk_left * 4
+    walk_down * 3
+    walk_left * 7
+}
+
+movement GuideGent_ToHouse {
+    walk_right * 7
+    walk_down * 4
+    walk_right * 10
+    walk_down * 2
+    walk_right * 6
+    walk_down * 3
+    walk_right * 3
+    face_left
+}
+
+movement Player_ToHouse {
+    walk_right * 7
+    walk_down * 5
+    walk_right * 10
+    walk_down * 2
+    walk_right * 6
+    walk_down * 3
+    walk_right * 2
+    face_right
+}

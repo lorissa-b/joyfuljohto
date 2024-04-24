@@ -1,0 +1,26 @@
+mapscripts NewBarkTown_MapScripts {}
+
+script NewBarkTown_Sign {
+    msgbox(format("NEW BARK TOWN\nWinds of a New Beginning"))
+    release
+}
+
+script ElmsLaboratory_Sign {
+    msgbox(format("Professor Elm's Pokemon Laboratory"))
+    release
+}
+
+script PlayersHouse_Sign {
+    msgbox(format("{PLAYER}'s House"))
+    release
+}
+
+script ProfElmsHouse_Sign {
+    msgbox(format("Professor Elm's House"))
+    release
+}
+
+script RivalAtWindow {
+    msgbox(format("... ... ...\pSo this is the famous Elm Laboratory...\pWhat are you staring at? Get lost!"))
+    release
+}

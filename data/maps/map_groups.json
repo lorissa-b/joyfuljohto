@@ -19,6 +19,7 @@
     "gMapGroup_IndoorMossdeep",
     "gMapGroup_IndoorSootopolis",
     "gMapGroup_IndoorEverGrande",
+    "gMapGroup_IndoorRoute30",
     "gMapGroup_IndoorRoute104",
     "gMapGroup_IndoorRoute111",
     "gMapGroup_IndoorRoute112",
@@ -313,6 +314,10 @@
     "EverGrandeCity_PokemonCenter_1F",
     "EverGrandeCity_PokemonCenter_2F",
     "EverGrandeCity_PokemonLeague_2F"
+  ],
+  "gMapGroup_IndoorRoute30": [
+    "Route30_BerryHouse",
+    "Route30_MrPokemonsHouse"
   ],
   "gMapGroup_IndoorRoute104": [
     "Route104_MrBrineysHouse",

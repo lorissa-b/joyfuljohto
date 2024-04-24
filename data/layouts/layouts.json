@@ -4540,6 +4540,26 @@
       "secondary_tileset": "gTileset_Shop",
       "border_filepath": "data/layouts/CherrygroveCity_Mart_/border.bin",
       "blockdata_filepath": "data/layouts/CherrygroveCity_Mart_/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30_BERRY_HOUSE",
+      "name": "Route30_BerryHouse_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route30_BerryHouse/border.bin",
+      "blockdata_filepath": "data/layouts/Route30_BerryHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30_MR_POKEMONS_HOUSE",
+      "name": "Route30_MrPokemonsHouse_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route30_MrPokemonsHouse/border.bin",
+      "blockdata_filepath": "data/layouts/Route30_MrPokemonsHouse/map.bin"
     }
   ]
 }

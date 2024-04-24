@@ -1,34 +1,66 @@
-@ State descriptions for VAR_NEW_BARK_INTRO_STATE
-@ 1: Set clock
-
 NewBarkTown_MapScripts::
 	.byte 0
 
-NewBarkTown_EventScript_TownSign::
-	msgbox NewBarkTown_Text_TownSign, MSGBOX_DEFAULT
+
+NewBarkTown_Sign::
+# 4 "data/maps/NewBarkTown/scripts.pory"
+	msgbox NewBarkTown_Sign_Text_0
+# 5 "data/maps/NewBarkTown/scripts.pory"
+	release
 	return
 
-NewBarkTown_EventScript_ProfElmsLabSign::
-	msgbox NewBarkTown_Text_ProfElmsLab, MSGBOX_DEFAULT
+
+ElmsLaboratory_Sign::
+# 9 "data/maps/NewBarkTown/scripts.pory"
+	msgbox ElmsLaboratory_Sign_Text_0
+# 10 "data/maps/NewBarkTown/scripts.pory"
+	release
 	return
 
-NewBarkTown_EventScript_PlayersHouseSign::
-	msgbox NewBarkTown_Text_PlayersHouse, MSGBOX_DEFAULT
+
+PlayersHouse_Sign::
+# 14 "data/maps/NewBarkTown/scripts.pory"
+	msgbox PlayersHouse_Sign_Text_0
+# 15 "data/maps/NewBarkTown/scripts.pory"
+	release
 	return
 
-NewBarkTown_EventScript_ProfElmsHouse::
-	msgbox NewBarkTown_Text_TownSign, MSGBOX_DEFAULT
+
+ProfElmsHouse_Sign::
+# 19 "data/maps/NewBarkTown/scripts.pory"
+	msgbox ProfElmsHouse_Sign_Text_0
+# 20 "data/maps/NewBarkTown/scripts.pory"
+	release
 	return
 
-NewBarkTown_Text_TownSign:
+
+RivalAtWindow::
+# 24 "data/maps/NewBarkTown/scripts.pory"
+	msgbox RivalAtWindow_Text_0
+# 25 "data/maps/NewBarkTown/scripts.pory"
+	release
+	return
+
+
+NewBarkTown_Sign_Text_0:
+# 4 "data/maps/NewBarkTown/scripts.pory"
 	.string "NEW BARK TOWN\n"
-	.string "“Winds of a New Beginning”$"
+	.string "Winds of a New Beginning$"
 
-NewBarkTown_Text_ProfElmsLab:
-	.string "PROF. ELM'S POKéMON LAB$"
+ElmsLaboratory_Sign_Text_0:
+# 9 "data/maps/NewBarkTown/scripts.pory"
+	.string "Professor Elm's Pokemon Laboratory$"
 
-NewBarkTown_Text_PlayersHouse:
-	.string "{PLAYER}'s HOUSE$"
+PlayersHouse_Sign_Text_0:
+# 14 "data/maps/NewBarkTown/scripts.pory"
+	.string "{PLAYER}'s House$"
 
-NewBarkTown_Text_ProfElmsHouse:
-	.string "PROF. ELM'S HOUSE$"
+ProfElmsHouse_Sign_Text_0:
+# 19 "data/maps/NewBarkTown/scripts.pory"
+	.string "Professor Elm's House$"
+
+RivalAtWindow_Text_0:
+# 24 "data/maps/NewBarkTown/scripts.pory"
+	.string "... ... ...\p"
+	.string "So this is the famous Elm Laboratory...\p"
+	.string "What are you staring at? Get lost!$"

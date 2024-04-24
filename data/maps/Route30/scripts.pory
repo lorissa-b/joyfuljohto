@@ -1,0 +1,47 @@
+mapscripts Route30_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
+    MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+}
+
+script Route30_RouteMarker {
+    msgbox(format("ROUTE 30\nCherrygrove City to Violet City"))
+    release
+}
+
+script Route30_MrPokemonsHouseDirection {
+    msgbox(format("Mr. Pokemon's House straight ahead!"))
+    release
+}
+
+script Route30_TrainerTips {
+    msgbox(format("Trainer Tips\nNo stealing other people's Pokémon! Poké Balls are to be thrown only at wild Pokémon!"))
+    release
+}
+
+script Route30_MrPokemonsHouse {
+    msgbox(format("Mr. Pokemon's House"))
+    release
+}
+
+script Route30_ItemAntidote {
+    finditem(ITEM_ANTIDOTE)
+}
+
+script Route30_WanderingBoy {
+    msgbox(format("Mr. Pokemon's house? It's a bit farther ahead."))
+    release
+}
+
+script Route30_YoungsterJoey {
+    msgbox(format("Go, Rattata! Tackle!\pWhat? This is a big battle! Leave me alone!"))
+    release
+}
+
+script Route30_WanderingGirl {
+    msgbox(format("I've never been in a trainer battle before... It sounds scary."))
+    release
+}
+
+script Route30_ReplaceTrainers {
+    clearflag(FLAG_ROUTE30_TRAINERS)
+}
