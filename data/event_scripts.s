@@ -1056,3 +1056,45 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+
+	.include "data/maps/NewBarkTown/scripts.inc"
+
+	.include "data/maps/Route28/scripts.inc"
+
+	.include "data/maps/Route29/scripts.inc"
+
+	.include "data/maps/CherrygroveCity/scripts.inc"
+
+	.include "data/maps/Route30/scripts.inc"
+
+	.include "data/maps/Route31/scripts.inc"
+
+	.include "data/maps/VioletCity/scripts.inc"
+
+	.include "data/maps/PlayerHouse/scripts.inc"
+
+	.include "data/maps/NewBarkTown_PlayerHouse_1F/scripts.inc"
+
+	.include "data/maps/NewBarkTown_PlayerHouse_2F/scripts.inc"
+
+	.include "data/maps/NewBarkTown_ProfessorElmsLab/scripts.inc"
+
+	.include "data/maps/CherrygroveCity_PokemonCentre_1F/scripts.inc"
+
+	.include "data/maps/CherrygroveCity_Mart_/scripts.inc"
+
+	.include "data/maps/Route30_BerryHouse/scripts.inc"
+
+	.include "data/maps/Route30_MrPokemonsHouse/scripts.inc"
+
+	.include "data/maps/VioletCity_PokemonCenter_1F/scripts.inc"
+
+	.include "data/maps/VioletCity_Mart/scripts.inc"
+
+	.include "data/maps/VioletCity_PokemonSchool/scripts.inc"
+
+	.include "data/maps/VioletCity_SproutTower_1F/scripts.inc"
+
+	.include "data/maps/VioletCity_SproutTower_2F/scripts.inc"
+
+	.include "data/maps/VioletCity_SproutTower_3F/scripts.inc"

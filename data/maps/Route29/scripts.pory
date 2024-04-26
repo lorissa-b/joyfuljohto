@@ -1,0 +1,50 @@
+mapscripts Route29_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
+    MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+}
+
+script Route29_Item_Potion {
+    finditem(ITEM_POTION)
+}
+
+script Route29_RouteMarker {
+    msgbox(format("ROUTE 29\nNew Bark Town to Cherrygrove City"))
+    release
+}
+
+script Route29_ReverseMarker {
+    msgbox(format("ROUTE 29\nCherrygrove City to New Bark Town"))
+    release
+}
+
+script PokemonCatchingTutorial {
+    if(!flag(FLAG_ADVENTURE_STARTED)) {
+        msgbox(format("Pokemon hide in the grass. Who knows when they'll pop out..."))
+        release
+    }
+    else {
+        msgbox(format("Hey! You look like you could use some Pokeballs. Here!"))
+        giveitem(ITEM_POKE_BALL, 5)
+        release
+    }
+}
+
+script Route29_WanderingBoy {
+    msgbox(format("Yo. How are your Pokemon? If they're weak and not ready for battle, keep out of the grass."))
+    release
+}
+
+script Route29_FatMan {
+    msgbox(format("I wanted to take a break, so I saved to record my progress."))
+    release
+}
+
+script Route29_GirlByTree {
+    msgbox(format("I'm waiting for Pokemon that appear only at night."))
+    release
+}
+
+script Route29_LedgeLady {
+    msgbox(format("See those ledges? It's scary to jump off them. But you can go to New Bark without walking through the grass."))
+    release
+}

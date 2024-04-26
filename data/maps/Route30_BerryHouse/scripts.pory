@@ -1,0 +1,16 @@
+mapscripts Route30_BerryHouse_MapScripts {}
+
+script Route30_BerryMaster {
+    msgbox(format("Have you heard about the power of berries? They're fantastic!"))
+    if(!flag(FLAG_RECEIVED_WAILMER_PAIL)) {
+        msgbox(format("Oh, you don't even have a Wailmer Pail! You can't understand the power of berries without a Wailmer Pail! Here, take this one."))
+        giveitem(ITEM_WAILMER_PAIL)
+        setflag(FLAG_RECEIVED_WAILMER_PAIL)
+        msgbox(format("Berries only grow on trees that thrive in soft, loamy soil. If you take some berries, be sure to plant one in the loamy soil again. A planted berry will soon sprout, grow into a plant, flower beautifully, then grow berries again."))
+        releaseall
+    }
+    else {
+        msgbox(format("If you pick any berries, be sure to plant one again!"))
+        release
+    }
+}

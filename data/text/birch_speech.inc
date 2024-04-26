@@ -49,6 +49,11 @@ gText_Birch_YourePlayer::
 	.string "I get it now!\p"
 	.string "$"
 
+gText_Birch_SetTime::
+	.string "Before your adventure begins, I need\n"
+	.string "you to set the time.\p"
+	.string "$"
+
 gText_Birch_AreYouReady::
 	.string "All right, are you ready?\p"
 	.string "Your very own adventure is about\n"

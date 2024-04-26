@@ -215,6 +215,12 @@
 #define MAPSEC_NAVEL_ROCK                   0xD3
 #define MAPSEC_TRAINER_HILL                 0xD4
 #define MAPSEC_NONE                         0xD5
+#define MAPSEC_NEW_BARK_TOWN                0xD6
+#define MAPSEC_CHERRYGROVE_CITY             0xD7
+#define MAPSEC_VIOLET_CITY                  0xD8
+#define MAPSEC_ROUTE_29                     0xD9
+#define MAPSEC_ROUTE_30                     0xDA
+#define MAPSEC_ROUTE_31                     0xDB
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE

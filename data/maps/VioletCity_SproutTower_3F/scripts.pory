@@ -1,0 +1,5 @@
+mapscripts VioletCity_SproutTower_3F_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
+    MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+}
+
