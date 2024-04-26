@@ -5,12 +5,12 @@ Grass | Chlorophyll | Evolves with Sun Stone
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 30 | 30 | 30 | 30 | 30 | 30 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Absorb |
 | 1 | Growth |
 | 4 | Ingrain |
@@ -61,12 +61,12 @@ Grass | Chlorophyll | Final Evolution
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 75 | 75 | 55 | 30 | 105 | 85 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Absorb |
 | 1 | Growth |
 | 7 | Ingrain |

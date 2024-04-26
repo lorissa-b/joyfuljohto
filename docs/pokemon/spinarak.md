@@ -5,12 +5,12 @@ Bug / Dark | Insomnia & Swarm | Evolves at 22
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 40 | 60 | 40 | 30 | 40 | 40 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Poison Sting |
 | 1 | String Shot |
 | 5 | Spider Web |
@@ -59,12 +59,12 @@ Bug / Dark | Insomnia & Swarm | Final Evolution
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 70 | 90 | 70 | 40 | 60 | 60 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Poison Sting |
 | 1 | String Shot |
 | 5 | Spider Web |

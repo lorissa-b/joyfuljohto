@@ -5,12 +5,12 @@ Normal / Flying | Keen Eye | Evolves at 18
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 40 | 45 | 40 | 56 | 35 | 35 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Scratch |
 | 1 | Sand Attack |
 | 5 | Gust |
@@ -55,12 +55,12 @@ Normal / Flying | Keen Eye | Evolves at 36
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 63 | 60 | 55 | 71 | 50 | 50 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Scratch |
 | 1 | Sand Attack |
 | 5 | Gust |
@@ -105,12 +105,12 @@ Normal / Flying | Keen Eye | Final Evolution
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 83 | 80 | 75 | 91 | 70 | 70 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Scratch |
 | 1 | Sand Attack |
 | 5 | Gust |

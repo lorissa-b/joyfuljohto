@@ -5,12 +5,12 @@ Normal / Flying | Insomnia & Keen Eye | Evolves at 20
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 60 | 30 | 30 | 50 | 36 | 56 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Tackle |
 | 1 | Foresight |
 | 5 | Gust |
@@ -61,12 +61,12 @@ Normal / Flying | Insomnia & Keen Eye | Final Evolution
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 100 | 50 | 50 | 70 | 86 | 96 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Tackle |
 | 1 | Foresight |
 | 5 | Gust |

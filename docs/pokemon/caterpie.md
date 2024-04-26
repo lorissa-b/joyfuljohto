@@ -5,12 +5,12 @@ Bug | Shield Dust | Evolves at 7
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 45 | 30 | 35 | 45 | 20 | 20 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Tackle |
 | 1 | String Shot |
 | 9 | Struggle Bug |
@@ -27,7 +27,7 @@ Bug | Shed Skin | Evolves at 10
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 50 | 20 | 55 | 30 | 25 | 25 |
 
 ### Level Up Moves
@@ -50,12 +50,12 @@ Bug / Flying | Compound Eyes | Final Evolution
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 50 | 20 | 55 | 30 | 25 | 25 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Tackle |
 | 1 | String Shot |
 | 1 | Gust |

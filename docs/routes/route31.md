@@ -2,7 +2,7 @@
 
 ## Encounters
 | Pokemon | Location | Levels | Morning | Day | Evening | Night |
-|--|--|--|--|--|--|--|
+|---|---|---|---|---|---|---|
 | Sunkern | Grass | 1-1 | 30% | 30% | 0% | 0% |
 | Pidgey | Grass | 1-1 | 20% | 15% | 0% | 0% |
 | Hoppip | Grass | 1-1 | 15% | 10% | 0% | 0% |
@@ -18,12 +18,12 @@
 
 ## Items
 | Item | Location |
-|--|--|
+|---|---|
 
 ## Trainers
 ### Bug Catcher Wade
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
-|--|--|--|--|--|--|--|
+|---|---|---|---|---|---|---|
 | Start | Caterpie lv2 | Caterpie lv2 | Weedle lv2 | Caterpie lv2 | | |
 | Goldenrod | Metapod lv9 | Metapod lv9 | Kakuna lv9 | Metapod lv9 | | |
 | Mahogany | Butterfree lv14 | Butterfree lv14 | Beedrill lv14 | Butterfree lv14 | | |

@@ -5,12 +5,12 @@ Grass / Flying | Chlorophyll | Evolves at 18
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 35 | 35 | 50 | 50 | 35 | 55 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Absorb |
 | 1 | Charm |
 | 6 | Gust |
@@ -59,12 +59,12 @@ Grass / Flying | Chlorophyll | Evolves at 27
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 55 | 45 | 50 | 80 | 45 | 65 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Absorb |
 | 1 | Charm |
 | 6 | Gust |
@@ -113,12 +113,12 @@ Grass / Flying | Chlorophyll | Final Evolution
 
 ### Stats
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|---|---|---|---|---|---|
 | 75 | 55 | 70 | 110 | 55 | 85 |
 
 ### Level Up Moves
 | Level | Move |
-|--|--|
+|---|---|
 | 1 | Absorb |
 | 1 | Charm |
 | 6 | Gust |
