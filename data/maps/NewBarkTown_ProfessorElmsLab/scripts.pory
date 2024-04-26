@@ -1,9 +1,11 @@
 const PROF_ELM_ID = 1
 const AIDE_ID = 5
+const POLICE_ID = 6
 
 mapscripts NewBarkTown_ProfessorElmsLab_MapScripts {
     MAP_SCRIPT_ON_FRAME_TABLE [
         VAR_BIRCH_LAB_STATE, 1: FirstEnter
+        VAR_NEW_BARK_INTRO_STATE, 4: TalkToPolice
     ]
 }
 
@@ -51,6 +53,41 @@ script GivePotions {
         release
         setflag(FLAG_BIRCH_AIDE_MET)
     }
+    else {
+        msgbox(format("Working for Professor Elm is great."))
+        release
+    }
+}
+
+script TalkToPolice {
+    applymovement(OBJ_EVENT_ID_PLAYER, EnterLab)
+    waitmovement(0)
+    msgbox(format("I heard a Pokemon was stolen here... I was just getting some information from Professor Elm. Apparently, it was a young male with long, red hair... What?\pYou battled a trainer like that? Okay, so his name was Silver. Thanks for helping my investigation!"))
+    applymovement(POLICE_ID, PoliceExitLab)
+    waitmovement(0)
+    setvar(VAR_BIRCH_LAB_STATE, 3)
+    setvar(VAR_NEW_BARK_INTRO_STATE, 5)
+    setflag(FLAG_POLICE_IN_NEWBARK)
+    removeobject(POLICE_ID, MAP_NEW_BARK_TOWN)
+    releaseall
+}
+
+script TalkToElm {
+    if(var(VAR_BIRCH_LAB_STATE) == 3) {
+        msgbox(format("{PLAYER}, this is terrible... Oh, yes, what was Mr. Pokemon's big discovery?"))
+        msgbox(format("{PLAYER} handed the Mysterious Egg to Professor Elm"))
+        applymovement(PROF_ELM_ID, ElmBackUp)
+        waitmovement(0)
+        msgbox(format("This?"))
+        applymovement(PROF_ELM_ID, ElmReturnToPlayer)
+        waitmovement(0)
+        msgbox(format("But... Is it a Pokemon egg? If it is, it is a great discovery!\pWhat?!?\nProfessor Oak gave you a Pokedex? {PLAYER}, is that true? Th-that's incredible! He is superb at seeing the potential of people as trainers. Wow, {PLAYER}. You may have what it takes to become the Champion. You seem to be getting on great with Pokemon too. You should take the Pokemon Gym challenge. The closest gym would be the one in Violet City. ... {PLAYER}. The road to the championship will be a long one. Before you leave, make sure that you talk to your mom."))
+        setvar(VAR_BIRCH_LAB_STATE, 4)
+        setflag(FLAG_ROUTE30_TRAINERS)
+    } else {
+        msgbox(format("It's nice to see you again, {PLAYER}"))
+    }
+    releaseall
 }
 
 movement EnterLab {
@@ -71,4 +108,17 @@ movement WalkToPokeballs {
 movement FacePlayer {
     lock
     face_player
+}
+
+movement PoliceExitLab {
+    walk_down * 7
+}
+
+movement ElmBackUp {
+    lock_facing_direction
+    walk_up
+}
+
+movement ElmReturnToPlayer {
+    walk_down
 }

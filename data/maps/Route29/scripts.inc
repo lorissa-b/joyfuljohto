@@ -31,7 +31,13 @@ Route29_ReverseMarker::
 PokemonCatchingTutorial::
 # 21 "data/maps/Route29/scripts.pory"
 	goto_if_unset FLAG_ADVENTURE_STARTED, PokemonCatchingTutorial_1
-	end
+# 26 "data/maps/Route29/scripts.pory"
+	msgbox PokemonCatchingTutorial_Text_1
+# 27 "data/maps/Route29/scripts.pory"
+	giveitem ITEM_POKE_BALL, 5
+# 28 "data/maps/Route29/scripts.pory"
+	release
+	return
 
 PokemonCatchingTutorial_1:
 # 22 "data/maps/Route29/scripts.pory"
@@ -42,33 +48,33 @@ PokemonCatchingTutorial_1:
 
 
 Route29_WanderingBoy::
-# 31 "data/maps/Route29/scripts.pory"
+# 33 "data/maps/Route29/scripts.pory"
 	msgbox Route29_WanderingBoy_Text_0
-# 32 "data/maps/Route29/scripts.pory"
+# 34 "data/maps/Route29/scripts.pory"
 	release
 	return
 
 
 Route29_FatMan::
-# 36 "data/maps/Route29/scripts.pory"
+# 38 "data/maps/Route29/scripts.pory"
 	msgbox Route29_FatMan_Text_0
-# 37 "data/maps/Route29/scripts.pory"
+# 39 "data/maps/Route29/scripts.pory"
 	release
 	return
 
 
 Route29_GirlByTree::
-# 41 "data/maps/Route29/scripts.pory"
+# 43 "data/maps/Route29/scripts.pory"
 	msgbox Route29_GirlByTree_Text_0
-# 42 "data/maps/Route29/scripts.pory"
+# 44 "data/maps/Route29/scripts.pory"
 	release
 	return
 
 
 Route29_LedgeLady::
-# 46 "data/maps/Route29/scripts.pory"
+# 48 "data/maps/Route29/scripts.pory"
 	msgbox Route29_LedgeLady_Text_0
-# 47 "data/maps/Route29/scripts.pory"
+# 49 "data/maps/Route29/scripts.pory"
 	release
 	return
 
@@ -88,24 +94,29 @@ PokemonCatchingTutorial_Text_0:
 	.string "Pokemon hide in the grass. Who knows\n"
 	.string "when they'll pop out...$"
 
+PokemonCatchingTutorial_Text_1:
+# 26 "data/maps/Route29/scripts.pory"
+	.string "Hey! You look like you could use some\n"
+	.string "Pokeballs. Here!$"
+
 Route29_WanderingBoy_Text_0:
-# 31 "data/maps/Route29/scripts.pory"
+# 33 "data/maps/Route29/scripts.pory"
 	.string "Yo. How are your Pokemon? If they're\n"
 	.string "weak and not ready for battle, keep out\l"
 	.string "of the grass.$"
 
 Route29_FatMan_Text_0:
-# 36 "data/maps/Route29/scripts.pory"
+# 38 "data/maps/Route29/scripts.pory"
 	.string "I wanted to take a break, so I saved to\n"
 	.string "record my progress.$"
 
 Route29_GirlByTree_Text_0:
-# 41 "data/maps/Route29/scripts.pory"
+# 43 "data/maps/Route29/scripts.pory"
 	.string "I'm waiting for Pokemon that appear\n"
 	.string "only at night.$"
 
 Route29_LedgeLady_Text_0:
-# 46 "data/maps/Route29/scripts.pory"
+# 48 "data/maps/Route29/scripts.pory"
 	.string "See those ledges? It's scary to jump\n"
 	.string "off them. But you can go to New Bark\l"
 	.string "without walking through the grass.$"

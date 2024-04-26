@@ -4560,6 +4560,66 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/Route30_MrPokemonsHouse/border.bin",
       "blockdata_filepath": "data/layouts/Route30_MrPokemonsHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_POKEMON_CENTER_1F",
+      "name": "VioletCity_PokemonCenter_1F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/VioletCity_PokemonCenter_1F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_PokemonCenter_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_MART",
+      "name": "VioletCity_Mart_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/VioletCity_Mart/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_Mart/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_POKEMON_SCHOOL",
+      "name": "VioletCity_PokemonSchool_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonSchool",
+      "border_filepath": "data/layouts/VioletCity_PokemonSchool/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_PokemonSchool/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_1F",
+      "name": "VioletCity_SproutTower_1F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_TrickHousePuzzle",
+      "border_filepath": "data/layouts/VioletCity_SproutTower_1F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_SproutTower_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_2F",
+      "name": "VioletCity_SproutTower_2F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_TrickHousePuzzle",
+      "border_filepath": "data/layouts/VioletCity_SproutTower_2F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_SproutTower_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_3F",
+      "name": "VioletCity_SproutTower_3F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_TrickHousePuzzle",
+      "border_filepath": "data/layouts/VioletCity_SproutTower_3F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_SproutTower_3F/map.bin"
     }
   ]
 }

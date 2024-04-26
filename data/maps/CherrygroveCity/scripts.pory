@@ -69,41 +69,57 @@ script CherrygroveCity_GuideGent {
 }
 
 script Cherrygrove_RivalBattleTop {
-    clearflag(FLAG_CHERRYGROVE_RIVAL)
-    applymovement(RIVAL_TOP_ID, Cherrygrove_Rival_ToPlayerTop)
-    waitmovement(0)
-    msgbox((format("... ... ...\pYou got a Pokemon at the lab. What a waste. A wimp like you.\p... ... ...\pDon't you get what I'm saying? Well I, too, have a good Pokemon. I'll show you what I mean!")))
-    switch(var(VAR_STARTER_MON)) {
-        case 0:
-            trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CHIKORITA, format("Humph. Are you happy you won?"))
-        case 1:
-            trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CYNDAQUIL, format("Humph. Are you happy you won?"))
-        case 2:
-            trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_TOTODILE, format("Humph. Are you happy you won?"))
+    if(!flag(FLAG_CHERRYGROVE_RIVAL) && var(VAR_NEW_BARK_INTRO_STATE) == 3) {
+        removeobject(RIVAL_TOP_ID, MAP_CHERRYGROVE_CITY)
+        applymovement(RIVAL_BOTTOM_ID, Cherrygrove_Rival_ToPlayerTop)
+        waitmovement(0)
+        msgbox((format("... ... ...\pYou got a Pokemon at the lab. What a waste. A wimp like you.\p... ... ...\pDon't you get what I'm saying? Well I, too, have a good Pokemon. I'll show you what I mean!")))
+        switch(var(VAR_STARTER_MON)) {
+            case 0:
+                trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CHIKORITA, format("Humph. Are you happy you won?"))
+            case 1:
+                trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CYNDAQUIL, format("Humph. Are you happy you won?"))
+            case 2:
+                trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_TOTODILE, format("Humph. Are you happy you won?"))
+        }
+        msgbox(format("... ... ...\pMy name's Silver. I'm going to be the world's greatest Pokemon trainer."))
+        releaseall
+        applymovement(RIVAL_BOTTOM_ID, Cherrygrove_Rival_Offscreen)
+        waitmovement(0)
+        removeobject(RIVAL_BOTTOM_ID, MAP_CHERRYGROVE_CITY)
+        setflag(FLAG_CHERRYGROVE_RIVAL)
+        setvar(VAR_NEW_BARK_INTRO_STATE, 4)
     }
-    msgbox(format("... ... ...\pMy name's Silver. I'm going to be the world's greatest Pokemon trainer."))
-    releaseall
-    applymovement(RIVAL_TOP_ID, Cherrygrove_Rival_Offscreen)
-    setflag(FLAG_CHERRYGROVE_RIVAL)
+    else {
+        end
+    }
 }
 
 script Cherrygrove_RivalBattleBottom {
-    clearflag(FLAG_CHERRYGROVE_RIVAL)
-    applymovement(RIVAL_BOTTOM_ID, Cherrygrove_Rival_ToPlayerBottom)
-    waitmovement(0)
-    msgbox((format("... ... ...\pYou got a Pokemon at the lab. What a waste. A wimp like you.\p... ... ...\pDon't you get what I'm saying? Well I, too, have a good Pokemon. I'll show you what I mean!")))
-    switch(var(VAR_STARTER_MON)) {
-        case 0:
-            trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CHIKORITA, format("Humph. Are you happy you won?"))
-        case 1:
-            trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CYNDAQUIL, format("Humph. Are you happy you won?"))
-        case 2:
-            trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_TOTODILE, format("Humph. Are you happy you won?"))
+    if(!flag(FLAG_CHERRYGROVE_RIVAL) && var(VAR_NEW_BARK_INTRO_STATE) == 3) {
+        removeobject(RIVAL_BOTTOM_ID, MAP_CHERRYGROVE_CITY)
+        applymovement(RIVAL_TOP_ID, Cherrygrove_Rival_ToPlayerBottom)
+        waitmovement(0)
+        msgbox((format("... ... ...\pYou got a Pokemon at the lab. What a waste. A wimp like you.\p... ... ...\pDon't you get what I'm saying? Well I, too, have a good Pokemon. I'll show you what I mean!")))
+        switch(var(VAR_STARTER_MON)) {
+            case 0:
+                trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CHIKORITA, format("Humph. Are you happy you won?"))
+            case 1:
+                trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_CYNDAQUIL, format("Humph. Are you happy you won?"))
+            case 2:
+                trainerbattle_no_intro(TRAINER_RIVAL_CHERRYGROVE_TOTODILE, format("Humph. Are you happy you won?"))
+        }
+        msgbox(format("... ... ...\pMy name's Silver. I'm going to be the world's greatest Pokemon trainer."))
+        releaseall
+        applymovement(RIVAL_TOP_ID, Cherrygrove_Rival_Offscreen)
+        waitmovement(0)
+        removeobject(RIVAL_TOP_ID, MAP_CHERRYGROVE_CITY)
+        setflag(FLAG_CHERRYGROVE_RIVAL)
+        setvar(VAR_NEW_BARK_INTRO_STATE, 4)
     }
-    msgbox(format("... ... ...\pMy name's Silver. I'm going to be the world's greatest Pokemon trainer."))
-    releaseall
-    applymovement(RIVAL_BOTTOM_ID, Cherrygrove_Rival_Offscreen)
-    setflag(FLAG_CHERRYGROVE_RIVAL)
+    else {
+        end
+    }
 }
 
 movement GuideGent_ToPC {
@@ -128,13 +144,13 @@ movement GuideGent_Player_ToRoute30 {
 
 movement GuideGent_ToSea {
     walk_left * 3
-    walk_down * 4
+    walk_down * 3
     walk_left * 7
 }
 
 movement Player_ToSea {
     walk_left * 4
-    walk_down * 3
+    walk_down * 2
     walk_left * 7
 }
 
@@ -161,13 +177,13 @@ movement Player_ToHouse {
 }
 
 movement Cherrygrove_Rival_ToPlayerTop {
-    walk_left * 4
-    face_down
+    walk_left * 8
+    face_up
 }
 
 movement Cherrygrove_Rival_ToPlayerBottom {
-    walk_left * 4
-    face_up
+    walk_left * 8
+    face_down
 }
 
 movement Cherrygrove_Rival_Offscreen {

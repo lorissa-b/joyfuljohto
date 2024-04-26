@@ -118,196 +118,166 @@ CherrygroveCity_GuideGent_1:
 
 Cherrygrove_RivalBattleTop::
 # 72 "data/maps/CherrygroveCity/scripts.pory"
-	clearflag FLAG_CHERRYGROVE_RIVAL
-# 73 "data/maps/CherrygroveCity/scripts.pory"
-	applymovement 4, Cherrygrove_Rival_ToPlayerTop
-# 74 "data/maps/CherrygroveCity/scripts.pory"
-	waitmovement 0
-# 75 "data/maps/CherrygroveCity/scripts.pory"
-	msgbox Cherrygrove_RivalBattleTop_Text_0
-# 76 "data/maps/CherrygroveCity/scripts.pory"
-	switch VAR_STARTER_MON
-# 77 "data/maps/CherrygroveCity/scripts.pory"
-	case 0, Cherrygrove_RivalBattleTop_3
-# 79 "data/maps/CherrygroveCity/scripts.pory"
-	case 1, Cherrygrove_RivalBattleTop_4
-# 81 "data/maps/CherrygroveCity/scripts.pory"
-	case 2, Cherrygrove_RivalBattleTop_5
+	goto_if_unset FLAG_CHERRYGROVE_RIVAL, Cherrygrove_RivalBattleTop_3
+Cherrygrove_RivalBattleTop_2:
+	end
+
 Cherrygrove_RivalBattleTop_1:
-# 84 "data/maps/CherrygroveCity/scripts.pory"
-	msgbox Cherrygrove_RivalBattleTop_Text_2
+# 73 "data/maps/CherrygroveCity/scripts.pory"
+	removeobject 4, MAP_CHERRYGROVE_CITY
+# 74 "data/maps/CherrygroveCity/scripts.pory"
+	applymovement 5, Cherrygrove_Rival_ToPlayerTop
+# 75 "data/maps/CherrygroveCity/scripts.pory"
+	waitmovement 0
+# 76 "data/maps/CherrygroveCity/scripts.pory"
+	msgbox Cherrygrove_RivalBattleTop_Text_0
+# 77 "data/maps/CherrygroveCity/scripts.pory"
+	switch VAR_STARTER_MON
+# 78 "data/maps/CherrygroveCity/scripts.pory"
+	case 0, Cherrygrove_RivalBattleTop_8
+# 80 "data/maps/CherrygroveCity/scripts.pory"
+	case 1, Cherrygrove_RivalBattleTop_9
+# 82 "data/maps/CherrygroveCity/scripts.pory"
+	case 2, Cherrygrove_RivalBattleTop_10
+Cherrygrove_RivalBattleTop_6:
 # 85 "data/maps/CherrygroveCity/scripts.pory"
-	releaseall
+	msgbox Cherrygrove_RivalBattleTop_Text_2
 # 86 "data/maps/CherrygroveCity/scripts.pory"
-	applymovement 4, Cherrygrove_Rival_Offscreen
+	releaseall
 # 87 "data/maps/CherrygroveCity/scripts.pory"
+	applymovement 5, Cherrygrove_Rival_Offscreen
+# 88 "data/maps/CherrygroveCity/scripts.pory"
+	waitmovement 0
+# 89 "data/maps/CherrygroveCity/scripts.pory"
+	removeobject 5, MAP_CHERRYGROVE_CITY
+# 90 "data/maps/CherrygroveCity/scripts.pory"
 	setflag FLAG_CHERRYGROVE_RIVAL
+# 91 "data/maps/CherrygroveCity/scripts.pory"
+	setvar VAR_NEW_BARK_INTRO_STATE, 4
 	return
 
 Cherrygrove_RivalBattleTop_3:
-# 78 "data/maps/CherrygroveCity/scripts.pory"
+# 72 "data/maps/CherrygroveCity/scripts.pory"
+	compare VAR_NEW_BARK_INTRO_STATE, 3
+	goto_if_eq Cherrygrove_RivalBattleTop_1
+	goto Cherrygrove_RivalBattleTop_2
+
+Cherrygrove_RivalBattleTop_8:
+# 79 "data/maps/CherrygroveCity/scripts.pory"
 	trainerbattle_no_intro TRAINER_RIVAL_CHERRYGROVE_CHIKORITA, Cherrygrove_RivalBattleTop_Text_1
-	goto Cherrygrove_RivalBattleTop_1
+	goto Cherrygrove_RivalBattleTop_6
 
-Cherrygrove_RivalBattleTop_4:
-# 80 "data/maps/CherrygroveCity/scripts.pory"
+Cherrygrove_RivalBattleTop_9:
+# 81 "data/maps/CherrygroveCity/scripts.pory"
 	trainerbattle_no_intro TRAINER_RIVAL_CHERRYGROVE_CYNDAQUIL, Cherrygrove_RivalBattleTop_Text_1
-	goto Cherrygrove_RivalBattleTop_1
+	goto Cherrygrove_RivalBattleTop_6
 
-Cherrygrove_RivalBattleTop_5:
-# 82 "data/maps/CherrygroveCity/scripts.pory"
+Cherrygrove_RivalBattleTop_10:
+# 83 "data/maps/CherrygroveCity/scripts.pory"
 	trainerbattle_no_intro TRAINER_RIVAL_CHERRYGROVE_TOTODILE, Cherrygrove_RivalBattleTop_Text_1
-	goto Cherrygrove_RivalBattleTop_1
+	goto Cherrygrove_RivalBattleTop_6
 
 
 Cherrygrove_RivalBattleBottom::
-# 91 "data/maps/CherrygroveCity/scripts.pory"
-	clearflag FLAG_CHERRYGROVE_RIVAL
-# 92 "data/maps/CherrygroveCity/scripts.pory"
-	applymovement 5, Cherrygrove_Rival_ToPlayerBottom
-# 93 "data/maps/CherrygroveCity/scripts.pory"
-	waitmovement 0
-# 94 "data/maps/CherrygroveCity/scripts.pory"
-	msgbox Cherrygrove_RivalBattleTop_Text_0
-# 95 "data/maps/CherrygroveCity/scripts.pory"
-	switch VAR_STARTER_MON
-# 96 "data/maps/CherrygroveCity/scripts.pory"
-	case 0, Cherrygrove_RivalBattleBottom_3
-# 98 "data/maps/CherrygroveCity/scripts.pory"
-	case 1, Cherrygrove_RivalBattleBottom_4
-# 100 "data/maps/CherrygroveCity/scripts.pory"
-	case 2, Cherrygrove_RivalBattleBottom_5
+# 99 "data/maps/CherrygroveCity/scripts.pory"
+	goto_if_unset FLAG_CHERRYGROVE_RIVAL, Cherrygrove_RivalBattleBottom_3
+Cherrygrove_RivalBattleBottom_2:
+	end
+
 Cherrygrove_RivalBattleBottom_1:
+# 100 "data/maps/CherrygroveCity/scripts.pory"
+	removeobject 5, MAP_CHERRYGROVE_CITY
+# 101 "data/maps/CherrygroveCity/scripts.pory"
+	applymovement 4, Cherrygrove_Rival_ToPlayerBottom
+# 102 "data/maps/CherrygroveCity/scripts.pory"
+	waitmovement 0
 # 103 "data/maps/CherrygroveCity/scripts.pory"
-	msgbox Cherrygrove_RivalBattleTop_Text_2
+	msgbox Cherrygrove_RivalBattleTop_Text_0
 # 104 "data/maps/CherrygroveCity/scripts.pory"
-	releaseall
+	switch VAR_STARTER_MON
 # 105 "data/maps/CherrygroveCity/scripts.pory"
-	applymovement 5, Cherrygrove_Rival_Offscreen
-# 106 "data/maps/CherrygroveCity/scripts.pory"
+	case 0, Cherrygrove_RivalBattleBottom_8
+# 107 "data/maps/CherrygroveCity/scripts.pory"
+	case 1, Cherrygrove_RivalBattleBottom_9
+# 109 "data/maps/CherrygroveCity/scripts.pory"
+	case 2, Cherrygrove_RivalBattleBottom_10
+Cherrygrove_RivalBattleBottom_6:
+# 112 "data/maps/CherrygroveCity/scripts.pory"
+	msgbox Cherrygrove_RivalBattleTop_Text_2
+# 113 "data/maps/CherrygroveCity/scripts.pory"
+	releaseall
+# 114 "data/maps/CherrygroveCity/scripts.pory"
+	applymovement 4, Cherrygrove_Rival_Offscreen
+# 115 "data/maps/CherrygroveCity/scripts.pory"
+	waitmovement 0
+# 116 "data/maps/CherrygroveCity/scripts.pory"
+	removeobject 4, MAP_CHERRYGROVE_CITY
+# 117 "data/maps/CherrygroveCity/scripts.pory"
 	setflag FLAG_CHERRYGROVE_RIVAL
+# 118 "data/maps/CherrygroveCity/scripts.pory"
+	setvar VAR_NEW_BARK_INTRO_STATE, 4
 	return
 
 Cherrygrove_RivalBattleBottom_3:
-# 97 "data/maps/CherrygroveCity/scripts.pory"
-	trainerbattle_no_intro TRAINER_RIVAL_CHERRYGROVE_CHIKORITA, Cherrygrove_RivalBattleTop_Text_1
-	goto Cherrygrove_RivalBattleBottom_1
-
-Cherrygrove_RivalBattleBottom_4:
 # 99 "data/maps/CherrygroveCity/scripts.pory"
+	compare VAR_NEW_BARK_INTRO_STATE, 3
+	goto_if_eq Cherrygrove_RivalBattleBottom_1
+	goto Cherrygrove_RivalBattleBottom_2
+
+Cherrygrove_RivalBattleBottom_8:
+# 106 "data/maps/CherrygroveCity/scripts.pory"
+	trainerbattle_no_intro TRAINER_RIVAL_CHERRYGROVE_CHIKORITA, Cherrygrove_RivalBattleTop_Text_1
+	goto Cherrygrove_RivalBattleBottom_6
+
+Cherrygrove_RivalBattleBottom_9:
+# 108 "data/maps/CherrygroveCity/scripts.pory"
 	trainerbattle_no_intro TRAINER_RIVAL_CHERRYGROVE_CYNDAQUIL, Cherrygrove_RivalBattleTop_Text_1
-	goto Cherrygrove_RivalBattleBottom_1
+	goto Cherrygrove_RivalBattleBottom_6
 
-Cherrygrove_RivalBattleBottom_5:
-# 101 "data/maps/CherrygroveCity/scripts.pory"
+Cherrygrove_RivalBattleBottom_10:
+# 110 "data/maps/CherrygroveCity/scripts.pory"
 	trainerbattle_no_intro TRAINER_RIVAL_CHERRYGROVE_TOTODILE, Cherrygrove_RivalBattleTop_Text_1
-	goto Cherrygrove_RivalBattleBottom_1
+	goto Cherrygrove_RivalBattleBottom_6
 
 
-# 109 "data/maps/CherrygroveCity/scripts.pory"
+# 125 "data/maps/CherrygroveCity/scripts.pory"
 GuideGent_ToPC:
-# 110 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 110 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 110 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 110 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 110 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 111 "data/maps/CherrygroveCity/scripts.pory"
-	walk_up
-	step_end
-
-# 114 "data/maps/CherrygroveCity/scripts.pory"
-Player_ToPC:
-# 115 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 115 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 115 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 115 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 116 "data/maps/CherrygroveCity/scripts.pory"
-	walk_up
-# 116 "data/maps/CherrygroveCity/scripts.pory"
-	walk_up
-	step_end
-
-# 119 "data/maps/CherrygroveCity/scripts.pory"
-GuideGent_Player_ToMart:
-# 120 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 120 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 120 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 120 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 120 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 120 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 121 "data/maps/CherrygroveCity/scripts.pory"
-	face_up
-	step_end
-
-# 124 "data/maps/CherrygroveCity/scripts.pory"
-GuideGent_Player_ToRoute30:
-# 125 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 125 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 125 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 125 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 125 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 125 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 125 "data/maps/CherrygroveCity/scripts.pory"
+# 126 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
 # 126 "data/maps/CherrygroveCity/scripts.pory"
-	face_up
+	walk_left
+# 126 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 126 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 126 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 127 "data/maps/CherrygroveCity/scripts.pory"
+	walk_up
 	step_end
 
-# 129 "data/maps/CherrygroveCity/scripts.pory"
-GuideGent_ToSea:
 # 130 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 130 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 130 "data/maps/CherrygroveCity/scripts.pory"
+Player_ToPC:
+# 131 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
 # 131 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
+	walk_left
 # 131 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
+	walk_left
 # 131 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 131 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 132 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
 # 132 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
+	walk_up
 # 132 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 132 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 132 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 132 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 132 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
+	walk_up
 	step_end
 
 # 135 "data/maps/CherrygroveCity/scripts.pory"
-Player_ToSea:
+GuideGent_Player_ToMart:
+# 136 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 136 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
 # 136 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
 # 136 "data/maps/CherrygroveCity/scripts.pory"
@@ -317,226 +287,304 @@ Player_ToSea:
 # 136 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
 # 137 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 137 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 137 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 138 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 138 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 138 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 138 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 138 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 138 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 138 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-	step_end
-
-# 141 "data/maps/CherrygroveCity/scripts.pory"
-GuideGent_ToHouse:
-# 142 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 142 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 142 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 142 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 142 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 142 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 142 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 143 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 143 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 143 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 143 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 144 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 145 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 145 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 146 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 146 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 146 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 146 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 146 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 146 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 147 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 147 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 147 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 148 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 148 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 148 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 149 "data/maps/CherrygroveCity/scripts.pory"
-	face_left
-	step_end
-
-# 152 "data/maps/CherrygroveCity/scripts.pory"
-Player_ToHouse:
-# 153 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 153 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 153 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 153 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 153 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 153 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 153 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 154 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 154 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 154 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 154 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 154 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 155 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 156 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 156 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 157 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 157 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 157 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 157 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 157 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 157 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 158 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 158 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 158 "data/maps/CherrygroveCity/scripts.pory"
-	walk_down
-# 159 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 159 "data/maps/CherrygroveCity/scripts.pory"
-	walk_right
-# 160 "data/maps/CherrygroveCity/scripts.pory"
-	face_right
-	step_end
-
-# 163 "data/maps/CherrygroveCity/scripts.pory"
-Cherrygrove_Rival_ToPlayerTop:
-# 164 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 164 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 164 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 164 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 165 "data/maps/CherrygroveCity/scripts.pory"
-	face_down
-	step_end
-
-# 168 "data/maps/CherrygroveCity/scripts.pory"
-Cherrygrove_Rival_ToPlayerBottom:
-# 169 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 169 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 169 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 169 "data/maps/CherrygroveCity/scripts.pory"
-	walk_left
-# 170 "data/maps/CherrygroveCity/scripts.pory"
 	face_up
 	step_end
 
+# 140 "data/maps/CherrygroveCity/scripts.pory"
+GuideGent_Player_ToRoute30:
+# 141 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 141 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 141 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 141 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 141 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 141 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 141 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 142 "data/maps/CherrygroveCity/scripts.pory"
+	face_up
+	step_end
+
+# 145 "data/maps/CherrygroveCity/scripts.pory"
+GuideGent_ToSea:
+# 146 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 146 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 146 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 147 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 147 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 147 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 148 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 148 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 148 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 148 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 148 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 148 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 148 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+	step_end
+
+# 151 "data/maps/CherrygroveCity/scripts.pory"
+Player_ToSea:
+# 152 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 152 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 152 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 152 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 153 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 153 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 154 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 154 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 154 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 154 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 154 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 154 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 154 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+	step_end
+
+# 157 "data/maps/CherrygroveCity/scripts.pory"
+GuideGent_ToHouse:
+# 158 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 158 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 158 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 158 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 158 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 158 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 158 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 159 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 159 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 159 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 159 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 160 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 161 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 161 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 162 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 162 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 162 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 162 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 162 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 162 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 163 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 163 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 163 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 164 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 164 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 164 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 165 "data/maps/CherrygroveCity/scripts.pory"
+	face_left
+	step_end
+
+# 168 "data/maps/CherrygroveCity/scripts.pory"
+Player_ToHouse:
+# 169 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 169 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 169 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 169 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 169 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 169 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 169 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 170 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 170 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 170 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 170 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 170 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 171 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 172 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 172 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
 # 173 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 173 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 173 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 173 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 173 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 173 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 174 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 174 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 174 "data/maps/CherrygroveCity/scripts.pory"
+	walk_down
+# 175 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 175 "data/maps/CherrygroveCity/scripts.pory"
+	walk_right
+# 176 "data/maps/CherrygroveCity/scripts.pory"
+	face_right
+	step_end
+
+# 179 "data/maps/CherrygroveCity/scripts.pory"
+Cherrygrove_Rival_ToPlayerTop:
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 180 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 181 "data/maps/CherrygroveCity/scripts.pory"
+	face_up
+	step_end
+
+# 184 "data/maps/CherrygroveCity/scripts.pory"
+Cherrygrove_Rival_ToPlayerBottom:
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 185 "data/maps/CherrygroveCity/scripts.pory"
+	walk_left
+# 186 "data/maps/CherrygroveCity/scripts.pory"
+	face_down
+	step_end
+
+# 189 "data/maps/CherrygroveCity/scripts.pory"
 Cherrygrove_Rival_Offscreen:
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
-# 174 "data/maps/CherrygroveCity/scripts.pory"
+# 190 "data/maps/CherrygroveCity/scripts.pory"
 	walk_left
 	step_end
 
@@ -616,7 +664,7 @@ CherrygroveCity_GuideGent_Text_9:
 	.string "journey!$"
 
 Cherrygrove_RivalBattleTop_Text_0:
-# 75 "data/maps/CherrygroveCity/scripts.pory"
+# 76 "data/maps/CherrygroveCity/scripts.pory"
 	.string "... ... ...\p"
 	.string "You got a Pokemon at the lab. What a\n"
 	.string "waste. A wimp like you.\p"
@@ -626,11 +674,11 @@ Cherrygrove_RivalBattleTop_Text_0:
 	.string "what I mean!$"
 
 Cherrygrove_RivalBattleTop_Text_1:
-# 78 "data/maps/CherrygroveCity/scripts.pory"
+# 79 "data/maps/CherrygroveCity/scripts.pory"
 	.string "Humph. Are you happy you won?$"
 
 Cherrygrove_RivalBattleTop_Text_2:
-# 84 "data/maps/CherrygroveCity/scripts.pory"
+# 85 "data/maps/CherrygroveCity/scripts.pory"
 	.string "... ... ...\p"
 	.string "My name's Silver. I'm going to be the\n"
 	.string "world's greatest Pokemon trainer.$"

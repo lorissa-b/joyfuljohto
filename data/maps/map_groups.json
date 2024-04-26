@@ -3,6 +3,7 @@
     "gMapGroup_TownsAndRoutes",
     "gMapGroup_IndoorNewBark",
     "gMapGroup_IndoorCherrygrove",
+    "gMapGroup_IndoorViolet",
     "gMapGroup_IndoorLittleroot",
     "gMapGroup_IndoorOldale",
     "gMapGroup_IndoorDewford",
@@ -20,6 +21,7 @@
     "gMapGroup_IndoorSootopolis",
     "gMapGroup_IndoorEverGrande",
     "gMapGroup_IndoorRoute30",
+    "gMapGroup_IndoorRoute31",
     "gMapGroup_IndoorRoute104",
     "gMapGroup_IndoorRoute111",
     "gMapGroup_IndoorRoute112",
@@ -113,6 +115,14 @@
   "gMapGroup_IndoorCherrygrove": [
     "CherrygroveCity_PokemonCentre_1F",
     "CherrygroveCity_Mart_"
+  ],
+  "gMapGroup_IndoorViolet": [
+    "VioletCity_PokemonCenter_1F",
+    "VioletCity_Mart",
+    "VioletCity_PokemonSchool",
+    "VioletCity_SproutTower_1F",
+    "VioletCity_SproutTower_2F",
+    "VioletCity_SproutTower_3F"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
@@ -318,6 +328,9 @@
   "gMapGroup_IndoorRoute30": [
     "Route30_BerryHouse",
     "Route30_MrPokemonsHouse"
+  ],
+  "gMapGroup_IndoorRoute31": [
+
   ],
   "gMapGroup_IndoorRoute104": [
     "Route104_MrBrineysHouse",

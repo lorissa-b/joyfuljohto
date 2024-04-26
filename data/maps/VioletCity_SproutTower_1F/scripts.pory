@@ -1,0 +1,9 @@
+mapscripts VioletCity_SproutTower_1F_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
+    MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+}
+
+script SproutTower_1F_NicoTrainer {
+    trainerbattle_single(TRAINER_NICO, format(""), format(""))
+    release
+}

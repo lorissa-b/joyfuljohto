@@ -3,7 +3,8 @@
 // 1 -> Got Pokenav
 // 2 -> Got Mysterious Egg
 // 3 -> Received Elm phone call
-// 4 -> Returned to the scene of the crime
+// 4 -> Fought rival
+// 5 -> Returned to the scene of the crime
 
 mapscripts NewBarkTown_MapScripts {}
 

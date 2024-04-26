@@ -1,56 +1,67 @@
 Route30_MrPokemonsHouse_MapScripts::
+# 2 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	map_script MAP_SCRIPT_ON_FRAME_TABLE, Route30_MrPokemonsHouse_MapScripts_MAP_SCRIPT_ON_FRAME_TABLE
 	.byte 0
+
+Route30_MrPokemonsHouse_MapScripts_MAP_SCRIPT_ON_FRAME_TABLE:
+# 3 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	map_script_2 VAR_NEW_BARK_INTRO_STATE, 1, DeliverEggFromElm
+	.2byte 0
 
 
 DeliverEggFromElm::
-# 4 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 8 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	msgbox DeliverEggFromElm_Text_0
-# 5 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 9 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	giveitem ITEM_MYSTERY_EGG
+# 10 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	msgbox DeliverEggFromElm_Text_1
-# 6 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	msgbox DeliverEggFromElm_Text_2
-# 7 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 11 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	call OakGivePokedex
+# 12 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	releaseall
 	return
 
 
 OakGivePokedex::
-# 11 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	msgbox OakGivePokedex_Text_0
-# 12 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	msgbox OakGivePokedex_Text_1
-# 13 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	setflag FLAG_ADVENTURE_STARTED
-# 14 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	setvar VAR_NEW_BARK_INTRO_STATE, 2
-# 15 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	msgbox OakGivePokedex_Text_2
 # 16 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	msgbox OakGivePokedex_Text_0
+# 17 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	msgbox OakGivePokedex_Text_1
+# 18 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	setflag FLAG_ADVENTURE_STARTED
+# 19 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	setflag FLAG_SYS_POKEDEX_GET
+# 20 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	setvar VAR_NEW_BARK_INTRO_STATE, 2
+# 21 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	msgbox OakGivePokedex_Text_2
+# 22 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	call ReturningToElm
+# 23 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	releaseall
 	return
 
 
 ReturningToElm::
-# 20 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 27 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	msgbox ReturningToElm_Text_0
-# 21 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 28 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	call Common_EventScript_OutOfCenterPartyHeal
+# 29 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	msgbox ReturningToElm_Text_1
 	return
 
 
 DeliverEggFromElm_Text_0:
-# 4 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	.string "Hello, hello! You must be {PLAYER}. It\n"
-	.string "was I who sent an email to Professor Elm\l"
-	.string "earlier. This is what I want him to\l"
-	.string "examine.$"
+# 8 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	.string "Mr. Pokemon: Hello, hello! You must be\n"
+	.string "{PLAYER}. It was I who sent an email\l"
+	.string "to Professor Elm earlier. This is what I\l"
+	.string "want him to examine.$"
 
 DeliverEggFromElm_Text_1:
-# 5 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	.string "{PLAYER} reveived Mysterious Egg!$"
-
-DeliverEggFromElm_Text_2:
-# 6 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 10 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	.string "A friend of mine from Ecruteak gave it\n"
 	.string "to me. I bet you can't find this kind of\l"
 	.string "egg in Johto! I thought Professor Elm\l"
@@ -60,13 +71,14 @@ DeliverEggFromElm_Text_2:
 	.string "Pokemon evolution'.$"
 
 OakGivePokedex_Text_0:
-# 11 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	.string "Aha! So you're {PLAYER}! I'm Professor\n"
-	.string "Oak, a Pokemon researcher. I was just\l"
-	.string "visiting my old friend Mr. Pokemon. I\l"
-	.string "heard you were running an errand for\l"
-	.string "Professor Elm, so I waited here. Oh?\l"
-	.string "What's this? A rare Pokemon! Let's see...\p"
+# 16 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	.string "Oak: Aha! So you're {PLAYER}! I'm\n"
+	.string "Professor Oak, a Pokemon researcher. I\l"
+	.string "was just visiting my old friend Mr.\l"
+	.string "Pokemon. I heard you were running an\l"
+	.string "errand for Professor Elm, so I waited\l"
+	.string "here. Oh? What's this? A rare Pokemon!\l"
+	.string "Let's see...\p"
 	.string "Hm, I see!\p"
 	.string "I understand why Professor Elm gave\n"
 	.string "you a Pokemon for this errand. To\l"
@@ -81,23 +93,23 @@ OakGivePokedex_Text_0:
 	.string "It's a hi-tech encyclopedia!$"
 
 OakGivePokedex_Text_1:
-# 12 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 17 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	.string "{PLAYER} received a Pokedex!$"
 
 OakGivePokedex_Text_2:
-# 15 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	.string "Go meet many kinds of Pokemon and\n"
+# 21 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	.string "Oak: Go meet many kinds of Pokemon and\n"
 	.string "complete that Pokedex! But I've stayed\l"
 	.string "too long. I have to get to Goldenrod\l"
 	.string "City for my usual radio show.\l"
 	.string "{PLAYER}, I'm counting on you!$"
 
 ReturningToElm_Text_0:
-# 20 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
-	.string "You are returning to Professor Elm?\n"
-	.string "Here. Your Pokemon should have some\l"
-	.string "rest.$"
+# 27 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+	.string "Mr. Pokemon: You are returning to\n"
+	.string "Professor Elm? Here. Your Pokemon\l"
+	.string "should have some rest.$"
 
 ReturningToElm_Text_1:
-# 21 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
+# 29 "data/maps/Route30_MrPokemonsHouse/scripts.pory"
 	.string "I'm depending on you!$"

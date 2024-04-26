@@ -35,7 +35,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "CherrygroveCity_GuideGent",
       "flag": "FLAG_RECEIVED_RUNNING_SHOES"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAGMA_MEMBER_M",
-      "x": 53,
+      "x": 55,
       "y": 10,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
@@ -79,7 +79,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAGMA_MEMBER_M",
-      "x": 53,
+      "x": 55,
       "y": 11,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
@@ -110,16 +110,7 @@
   "coord_events": [
     {
       "type": "trigger",
-      "x": 46,
-      "y": 11,
-      "elevation": 0,
-      "var": "FLAG_RECEIVED_RUNNING_SHOES",
-      "var_value": "0",
-      "script": "CherrygroveCity_GuideGent"
-    },
-    {
-      "type": "trigger",
-      "x": 49,
+      "x": 47,
       "y": 10,
       "elevation": 0,
       "var": "VAR_NEW_BARK_INTRO_STATE",
@@ -128,7 +119,7 @@
     },
     {
       "type": "trigger",
-      "x": 49,
+      "x": 47,
       "y": 11,
       "elevation": 0,
       "var": "VAR_NEW_BARK_INTRO_STATE",

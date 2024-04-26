@@ -23,7 +23,9 @@ script PokemonCatchingTutorial {
         release
     }
     else {
-        end
+        msgbox(format("Hey! You look like you could use some Pokeballs. Here!"))
+        giveitem(ITEM_POKE_BALL, 5)
+        release
     }
 }
 

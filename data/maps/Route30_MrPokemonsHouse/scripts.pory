@@ -1,22 +1,30 @@
-mapscripts Route30_MrPokemonsHouse_MapScripts {}
+mapscripts Route30_MrPokemonsHouse_MapScripts {
+    MAP_SCRIPT_ON_FRAME_TABLE [
+        VAR_NEW_BARK_INTRO_STATE, 1: DeliverEggFromElm
+    ]
+}
 
 script DeliverEggFromElm {
-    msgbox(format("Hello, hello! You must be {PLAYER}. It was I who sent an email to Professor Elm earlier. This is what I want him to examine."))
-    msgbox(format("{PLAYER} reveived Mysterious Egg!"))
+    msgbox(format("Mr. Pokemon: Hello, hello! You must be {PLAYER}. It was I who sent an email to Professor Elm earlier. This is what I want him to examine."))
+    giveitem(ITEM_MYSTERY_EGG)
     msgbox(format("A friend of mine from Ecruteak gave it to me. I bet you can't find this kind of egg in Johto! I thought Professor Elm might eb able to tell me what this is. To quote Professor Oak, 'He's the best when it comes to the research of Pokemon evolution'."))
+    call(OakGivePokedex)
     releaseall
 }
 
 script OakGivePokedex {
-    msgbox(format("Aha! So you're {PLAYER}! I'm Professor Oak, a Pokemon researcher. I was just visiting my old friend Mr. Pokemon. I heard you were running an errand for Professor Elm, so I waited here. Oh? What's this? A rare Pokemon! Let's see...\pHm, I see!\pI understand why Professor Elm gave you a Pokemon for this errand. To researchers like Professor Elm and I, Pokemon are our friends. He saw that you would treat your Pokemon with love and care. ... Ah! You seem to be dependable. How would you like to help me out? See? This is the latest version of a Pokedex. It automatically records data on Pokemon you've seen or caught. It's a hi-tech encyclopedia!"))
+    msgbox(format("Oak: Aha! So you're {PLAYER}! I'm Professor Oak, a Pokemon researcher. I was just visiting my old friend Mr. Pokemon. I heard you were running an errand for Professor Elm, so I waited here. Oh? What's this? A rare Pokemon! Let's see...\pHm, I see!\pI understand why Professor Elm gave you a Pokemon for this errand. To researchers like Professor Elm and I, Pokemon are our friends. He saw that you would treat your Pokemon with love and care. ... Ah! You seem to be dependable. How would you like to help me out? See? This is the latest version of a Pokedex. It automatically records data on Pokemon you've seen or caught. It's a hi-tech encyclopedia!"))
     msgbox(format("{PLAYER} received a Pokedex!"))
     setflag(FLAG_ADVENTURE_STARTED)
+    setflag(FLAG_SYS_POKEDEX_GET)
     setvar(VAR_NEW_BARK_INTRO_STATE, 2)
-    msgbox(format("Go meet many kinds of Pokemon and complete that Pokedex! But I've stayed too long. I have to get to Goldenrod City for my usual radio show. {PLAYER}, I'm counting on you!"))
+    msgbox(format("Oak: Go meet many kinds of Pokemon and complete that Pokedex! But I've stayed too long. I have to get to Goldenrod City for my usual radio show. {PLAYER}, I'm counting on you!"))
+    call(ReturningToElm)
     releaseall
 }
 
 script ReturningToElm {
-    msgbox(format("You are returning to Professor Elm? Here. Your Pokemon should have some rest."))
+    msgbox(format("Mr. Pokemon: You are returning to Professor Elm? Here. Your Pokemon should have some rest."))
+    call(Common_EventScript_OutOfCenterPartyHeal)
     msgbox(format("I'm depending on you!"))
 }

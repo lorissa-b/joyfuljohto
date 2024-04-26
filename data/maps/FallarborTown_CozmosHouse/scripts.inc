@@ -5,7 +5,7 @@ FallarborTown_CozmosHouse_EventScript_ProfCozmo::
 	lock
 	faceplayer
 	goto_if_set FLAG_RECEIVED_TM_RETURN, FallarborTown_CozmosHouse_EventScript_GaveMeteorite
-	checkitem ITEM_METEORITE
+	checkitem ITEM_MYSTERY_EGG
 	goto_if_eq VAR_RESULT, TRUE, FallarborTown_CozmosHouse_EventScript_PlayerHasMeteorite
 	msgbox FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow, MSGBOX_DEFAULT
 	release
@@ -18,7 +18,7 @@ FallarborTown_CozmosHouse_EventScript_PlayerHasMeteorite::
 	msgbox FallarborTown_CozmosHouse_Text_PleaseUseThisTM, MSGBOX_DEFAULT
 	giveitem ITEM_TM_RETURN
 	goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
-	setvar VAR_0x8004, ITEM_METEORITE
+	setvar VAR_0x8004, ITEM_MYSTERY_EGG
 	call Common_EventScript_PlayerHandedOverTheItem
 	setflag FLAG_RECEIVED_TM_RETURN
 	msgbox FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch, MSGBOX_DEFAULT

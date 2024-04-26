@@ -1,0 +1,34 @@
+mapscripts Route31_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
+    MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+}
+
+script Route31_RouteMarker {
+    msgbox(format("ROUTE 31\nViolet City to Cherrygrove City"))
+    release
+}
+
+script Route31_DarkCaveWarning {
+    msgbox(format("DARK CAVE\nWarning, bright lights needed!"))
+    release
+}
+
+script Route31_BugCatcherWadeTrainer {
+    trainerbattle_single(TRAINER_WADE_1, format("Aren't bug Pokemon so cool?"), format("They're cool even though I lost."))
+    release
+}
+
+script Route31_Camper {
+    msgbox(format("Good luck getting through this cave without something to light the way. It's pitch black in there!"))
+    release
+}
+
+script Route31_FatMan {
+    msgbox(format("... ... ...\pI'm so sleepy... I'm waiting on a letter from my friend..."))
+    release
+}
+
+script Route31_Picknicker {
+    msgbox(format("I'm so glad I'm almost at Violet City! The walk has been exhausting."))
+    release
+}

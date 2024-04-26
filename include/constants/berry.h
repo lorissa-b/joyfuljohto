@@ -130,6 +130,7 @@
 #define BERRY_TREE_ROUTE_29_RAWST     93
 #define BERRY_TREE_ROUTE_30_PECHA     94
 #define BERRY_TREE_ROUTE_30_ORAN      95
+#define BERRY_TREE_ROUTE_31_CHERI     96
 
 // Remainder are unused
 

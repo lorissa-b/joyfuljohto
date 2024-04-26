@@ -24,7 +24,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "TalkToElm",
       "flag": "0"
     },
     {
@@ -76,8 +76,21 @@
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "GivePotions",
       "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_MYSTERY_GIFT_MAN",
+      "x": 12,
+      "y": 7,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "FLAG_POLICE_IN_NEWBARK"
     }
   ],
   "warp_events": [
@@ -97,24 +110,7 @@
     }
   ],
   "coord_events": [
-    {
-      "type": "trigger",
-      "x": 11,
-      "y": 15,
-      "elevation": 0,
-      "var": "VAR_TEMP_0",
-      "var_value": "0",
-      "script": "GivePotions"
-    },
-    {
-      "type": "trigger",
-      "x": 12,
-      "y": 15,
-      "elevation": 0,
-      "var": "VAR_TEMP_0",
-      "var_value": "0",
-      "script": "GivePotions"
-    }
+
   ],
   "bg_events": [
 

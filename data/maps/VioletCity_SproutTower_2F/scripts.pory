@@ -1,0 +1,9 @@
+mapscripts VioletCity_SproutTower_2F_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
+    MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+}
+
+script SproutTower_2F_ChowTrainer {
+    trainerbattle_single(TRAINER_CHOW, format(""), format(""))
+    release
+}

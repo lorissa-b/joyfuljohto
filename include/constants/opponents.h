@@ -11,10 +11,10 @@
 #define TRAINER_GRUNT_SEAFLOOR_CAVERN_2       7
 #define TRAINER_GRUNT_SEAFLOOR_CAVERN_3       8
 #define TRAINER_GABRIELLE_1                   9
-#define TRAINER_GRUNT_PETALBURG_WOODS        10
-#define TRAINER_MARCEL                       11
-#define TRAINER_ALBERTO                      12
-#define TRAINER_ED                           13
+#define TRAINER_NICO                         10 // sprout tower 1f
+#define TRAINER_MIKEY                        11 // route 30
+#define TRAINER_DON                          12 // route 30
+#define TRAINER_CHOW                         13 // sprout tower 2f
 #define TRAINER_GRUNT_SEAFLOOR_CAVERN_4      14
 #define TRAINER_DECLAN                       15
 #define TRAINER_GRUNT_RUSTURF_TUNNEL         16
@@ -45,13 +45,13 @@
 #define TRAINER_ROSE_3                       41
 #define TRAINER_ROSE_4                       42
 #define TRAINER_ROSE_5                       43
-#define TRAINER_DUSTY_1                      44
+#define TRAINER_WADE_1                       44 // route 31
 #define TRAINER_CHIP                         45
 #define TRAINER_FOSTER                       46
-#define TRAINER_DUSTY_2                      47
-#define TRAINER_DUSTY_3                      48
-#define TRAINER_DUSTY_4                      49
-#define TRAINER_DUSTY_5                      50
+#define TRAINER_WADE_2                       47 // route 31 rematch 1
+#define TRAINER_WADE_3                       48 // route 31 rematch 2
+#define TRAINER_WADE_4                       49 // route 31 rematch 3
+#define TRAINER_WADE_5                       50 // route 31 rematch 4
 #define TRAINER_GABBY_AND_TY_1               51
 #define TRAINER_GABBY_AND_TY_2               52
 #define TRAINER_GABBY_AND_TY_3               53
@@ -274,13 +274,13 @@
 #define TRAINER_WINONA_1                    270
 #define TRAINER_TATE_AND_LIZA_1             271
 #define TRAINER_JUAN_1                      272
-#define TRAINER_JERRY_1                     273
+#define TRAINER_JOEY_1                      273 // route 30
 #define TRAINER_TED                         274
 #define TRAINER_PAUL                        275
-#define TRAINER_JERRY_2                     276
-#define TRAINER_JERRY_3                     277
-#define TRAINER_JERRY_4                     278
-#define TRAINER_JERRY_5                     279
+#define TRAINER_JOEY_2                      276 // route 30 rematch 1
+#define TRAINER_JOEY_3                      277 // route 30 rematch 2
+#define TRAINER_JOEY_4                      278 // route 30 rematch 3
+#define TRAINER_JOEY_5                      279 // route 30 rematch 4
 #define TRAINER_KAREN_1                     280
 #define TRAINER_GEORGIA                     281
 #define TRAINER_KAREN_2                     282
@@ -323,7 +323,7 @@
 #define TRAINER_BILLY                       319
 #define TRAINER_JOSH                        320
 #define TRAINER_TOMMY                       321
-#define TRAINER_JOEY                        322
+#define TRAINER_JOIE                        322
 #define TRAINER_BEN                         323
 #define TRAINER_QUINCY                      324
 #define TRAINER_KATELYNN                    325
@@ -345,7 +345,7 @@
 #define TRAINER_DALE                        341
 #define TRAINER_NOLAN                       342
 #define TRAINER_BARNY                       343
-#define TRAINER_WADE                        344
+#define TRAINER_WADING                        344
 #define TRAINER_CARTER                      345
 #define TRAINER_ELLIOT_2                    346
 #define TRAINER_ELLIOT_3                    347

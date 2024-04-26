@@ -204,7 +204,7 @@ Route118_EventScript_Barny::
 	end
 
 Route118_EventScript_Wade::
-	trainerbattle_single TRAINER_WADE, Route118_Text_WadeIntro, Route118_Text_WadeDefeat
+	trainerbattle_single TRAINER_WADING, Route118_Text_WadeIntro, Route118_Text_WadeDefeat
 	msgbox Route118_Text_WadePostBattle, MSGBOX_AUTOCLOSE
 	end
 

@@ -2,9 +2,13 @@ mapscripts Route30_MapScripts {
     MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
     MAP_SCRIPT_ON_RESUME: SetTimeEncounters
     MAP_SCRIPT_ON_FRAME_TABLE [
-        VAR_NEW_BARK_INTRO_STATE, 3 {
+        VAR_NEW_BARK_INTRO_STATE, 2 {
+            lockall
             pokenavcall(format("H-hello? {PLAYER}? It's a disaster! Uh, um, it's just terrible! What should I do? It... Oh, no... Please get back here now!"))
-            setvar(VAR_NEW_BARK_INTRO_STATE, 4)
+            setvar(VAR_NEW_BARK_INTRO_STATE, 3)
+            clearflag(FLAG_POLICE_IN_NEWBARK)
+            clearflag(FLAG_CHERRYGROVE_RIVAL)
+            releaseall
         }
     ]
 }
@@ -48,6 +52,14 @@ script Route30_WanderingGirl {
     release
 }
 
-script Route30_ReplaceTrainers {
-    clearflag(FLAG_ROUTE30_TRAINERS)
+script Route30_YoungsterJoeyTrainer {
+    trainerbattle_single(TRAINER_JOEY_1, format("I just lost, so I'm trying to find more Pokemon. Wait! You look weak! Come on, let's battle!"), format("Darn it, I lost again!"))
+}
+
+script Route30_BugCatcherMikeyTrainer {
+    trainerbattle_single(TRAINER_MIKEY, format("Go, my beautiful bug Pokemon!"), format("My bugs weren't strong enough..."))
+}
+
+script Route30_BugCatcherDonTrianer {
+    trainerbattle_single(TRAINER_DON, format("The power of bugs is unbelievable!"), format("But your power is even more unbelievable."))
 }
