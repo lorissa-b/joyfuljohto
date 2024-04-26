@@ -371,7 +371,9 @@ gBattleAnims_Moves::
 	.4byte Move_WATER_PULSE
 	.4byte Move_DOOM_DESIRE
 	.4byte Move_PSYCHO_BOOST
-	.4byte Move_COUNT @ cannot be reached, because last move is Psycho Boost
+	.4byte Move_LEAF_TORNADO
+	.4byte Move_ICE_FANG
+	.4byte Move_COUNT @ cannot be reached, because last move is Leaf Tornado
 
 	.align 2
 gBattleAnims_StatusConditions::
@@ -5298,6 +5300,7 @@ Move_BITE:
 	end
 
 Move_CRUNCH:
+Move_ICE_FANG:
 	loadspritegfx ANIM_TAG_SHARP_TEETH
 	loadspritegfx ANIM_TAG_IMPACT
 	monbg ANIM_TARGET
@@ -6824,6 +6827,7 @@ Move_PETAL_DANCE:
 	end
 
 Move_RAZOR_LEAF:
+Move_LEAF_TORNADO:
 	loadspritegfx ANIM_TAG_LEAF
 	loadspritegfx ANIM_TAG_RAZOR_LEAF
 	loadspritegfx ANIM_TAG_IMPACT
