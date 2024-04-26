@@ -6,3 +6,15 @@ plugins:
 title: Joyful Johto
 description: Making Johto a truly pleasant region
 markdown: GFM
+
+aux_links:
+  "QOL Changes":
+    - "//qol_changes"
+  "Moves":
+    - "//moves/moves"
+  "Pokemon":
+    - "//pokemon/main"
+  "Routes and Cities":
+    - "//routes/main"
+
+nav_enabled: true
