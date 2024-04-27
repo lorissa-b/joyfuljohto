@@ -1,11 +1,12 @@
 ---
 category: Pokemon
 ---
-*
-{:toc}
 # Pokemon Updates
 {:.no_toc}
 Main link hub for Pokemon updates, in national dex order.
+
+*
+{:toc}
 
 ## Kanto
 [Caterpie, Metapod, Butterfree](/joyfuljohto/pokemon/caterpie)  
