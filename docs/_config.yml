@@ -1,7 +1,9 @@
-remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: olivier3lanc/Jekyll-LibDoc
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Joyful Johto
 description: Making Johto a truly pleasant region
+url: https://lorissa-b.github.io
+baseurl: /joyfuljohto/
 markdown: GFM
