@@ -23,14 +23,15 @@ title: Route 31
 
 | Item | Location |
 |---:|:---|
+| Potion | Test Location |
 
 ## Trainers
 ### Bug Catcher Wade
 
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Start | Caterpie lv2 | Caterpie lv2 | Weedle lv2 | Caterpie lv2 | | |
-| Goldenrod | Metapod lv9 | Metapod lv9 | Kakuna lv9 | Metapod lv9 | | |
-| Mahogany | Butterfree lv14 | Butterfree lv14 | Beedrill lv14 | Butterfree lv14 | | |
-| Goldenrod Radio Tower | Butterfree lv24 | Butterfree lv24 | Beedrill lv24 | Butterfree lv24 | | |
-| Champion | Butterfree lv30 | Butterfree lv30 | Beedrill lv30 | Butterfree lv30 | | |
+| Start | Caterpie <br /> lv2 | Caterpie <br /> lv2 | Weedle <br /> lv2 | Caterpie <br /> lv2 | | |
+| Goldenrod | Metapod <br /> lv9 | Metapod <br /> lv9 | Kakuna <br /> lv9 | Metapod <br /> lv9 | | |
+| Mahogany | Butterfree <br /> lv14 | Butterfree <br /> lv14 | Beedrill <br /> lv14 | Butterfree <br /> lv14 | | |
+| Goldenrod Radio Tower | Butterfree <br /> lv24 | Butterfree <br /> lv24 | Beedrill <br /> lv24 | Butterfree <br /> lv24 | | |
+| Champion | Butterfree <br /> lv30 | Butterfree <br /> lv30 | Beedrill <br /> lv30 | Butterfree <br /> lv30 | | |
