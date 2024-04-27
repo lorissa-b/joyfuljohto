@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Rattata and Raticate
 
 ## Rattata

@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Weedle, Kakuna, and Beedrill
 
 ## Weedle

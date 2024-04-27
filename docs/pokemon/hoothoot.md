@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Hoothoot and Noctowl
 
 ## Hoothoot

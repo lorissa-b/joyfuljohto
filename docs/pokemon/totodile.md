@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Totodile, Croconaw, and Feraligatr
 
 ## Totodile

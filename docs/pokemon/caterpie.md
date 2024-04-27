@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Caterpie, Metapod, and Butterfree
 
 ## Caterpie

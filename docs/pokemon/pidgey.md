@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Pidgey, Pidgeotto, and Pidgeot
 
 ## Pidgey

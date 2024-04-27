@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Ledyba and Ledian
 
 ## Ledyba

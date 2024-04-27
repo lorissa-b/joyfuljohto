@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Spinarak and Ariados
 
 ## Spinarak

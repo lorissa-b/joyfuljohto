@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Hoppip, Skiploom, and Jumpluff
 
 ## Hoppip

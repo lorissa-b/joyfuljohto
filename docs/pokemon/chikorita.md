@@ -1,14 +1,19 @@
+---
+category: Pokemon
+---
 # Chikorita, Bayleef, and Meganium
 
 ## Chikorita
 Grass | Overgrow | Evolves at 16
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
 |---|---|---|---|---|---|
 | 45 | 49 | 65 | 45 | 49 | 65 |
 
 ### Level Up Moves
+
 | Level | Move |
 |---|---|
 | 1 | Tackle |
@@ -63,11 +68,13 @@ Grass | Overgrow | Evolves at 16
 Grass | Overgrow | Evolves at 32
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
 |---|---|---|---|---|---|
 | 60 | 62 | 80 | 60 | 80 | 63 |
 
 ### Level Up Moves
+
 | Level | Move |
 |---|---|
 | 1 | Tackle |
@@ -124,11 +131,13 @@ Grass | Overgrow | Evolves at 32
 Grass | Overgrow | Final Evolution
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
 |---|---|---|---|---|---|
 | 80 | 82 | 100 | 80 | 100 | 83 |
 
 ### Level Up Moves
+
 | Level | Move |
 |---|---|
 | 1 | Tackle |

@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Seedot, Nuzleaf, and Shiftry
 
 ## Seedot

@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Sunkern and Sunflora
 
 ## Sunkern

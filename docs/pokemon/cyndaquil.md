@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Cyndaquil, Quilava, and Typhlosion
 
 ## Cyndaquil

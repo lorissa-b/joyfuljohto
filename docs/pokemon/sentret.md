@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Sentret and Furret
 
 ## Sentret
