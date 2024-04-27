@@ -5,21 +5,21 @@ category: Pokemon
 Main link hub for Pokemon updates, in national dex order.
 
 ## Kanto
-[Caterpie, Metapod, Butterfree](/pokemon/caterpie)  
-[Weedle, Kakuna, Beedrill](/pokemon/weedle)  
-[Pidgey, Pidgeotto, Pidgeot](/pokemon/pidgey)  
-[Rattata, Raticate](/pokemon/rattata)
+[Caterpie, Metapod, Butterfree](/joyfuljohto/pokemon/caterpie)  
+[Weedle, Kakuna, Beedrill](/joyfuljohto/pokemon/weedle)  
+[Pidgey, Pidgeotto, Pidgeot](/joyfuljohto/pokemon/pidgey)  
+[Rattata, Raticate](/joyfuljohto/pokemon/rattata)
 
 ## Johto
-[Chikorita, Bayleef, Meganium](/pokemon/chikorita)  
-[Cyndaquil, Quilava, Typhlosion](/pokemon/cyndaquil)  
-[Totodile, Croconaw, Feraligatr](/pokemon/totodile)  
-[Sentret, Furret](/pokemon/sentret)  
-[Hoothoot, Noctowl](/pokemon/hoothoot)  
-[Ledyba, Ledian](/pokemon/ledyba)  
-[Spinarak, Ariados](/pokemon/spinarak)  
-[Hoppip, Skiploom, Jumpluff](/pokemon/hoppip)  
-[Sunkern, Sunflora](/pokemon/sunkern)
+[Chikorita, Bayleef, Meganium](/joyfuljohto/pokemon/chikorita)  
+[Cyndaquil, Quilava, Typhlosion](/joyfuljohto/pokemon/cyndaquil)  
+[Totodile, Croconaw, Feraligatr](/joyfuljohto/pokemon/totodile)  
+[Sentret, Furret](/joyfuljohto/pokemon/sentret)  
+[Hoothoot, Noctowl](/joyfuljohto/pokemon/hoothoot)  
+[Ledyba, Ledian](/joyfuljohto/pokemon/ledyba)  
+[Spinarak, Ariados](/joyfuljohto/pokemon/spinarak)  
+[Hoppip, Skiploom, Jumpluff](/joyfuljohto/pokemon/hoppip)  
+[Sunkern, Sunflora](/joyfuljohto/pokemon/sunkern)
 
 ## Hoenn
-[Seedot, Nuzleaf, Shiftry](/pokemon/seedot)
+[Seedot, Nuzleaf, Shiftry](/joyfuljohto/pokemon/seedot)

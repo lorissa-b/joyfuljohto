@@ -5,4 +5,4 @@ category: Routes
 The main hub for links to route pages.
 
 ## Johto
-[Route 31](/routes/route31)
+[Route 31](/joyfuljohto/routes/route31)
