@@ -1,10 +1,7 @@
-*
-{:toc}
 ---
 unlisted: true
+title: Chikorita, Bayleef, and Meganium
 ---
-# Chikorita, Bayleef, and Meganium
-
 ## Chikorita
 Grass | Overgrow | Evolves at 16
 
