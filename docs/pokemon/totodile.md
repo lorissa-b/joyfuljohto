@@ -1,5 +1,4 @@
 ---
-category: Pokemon
 unlisted: true
 ---
 # Totodile, Croconaw, and Feraligatr

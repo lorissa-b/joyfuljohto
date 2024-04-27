@@ -1,5 +1,4 @@
 ---
-category: Pokemon
 unlisted: true
 ---
 # Sentret and Furret

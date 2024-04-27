@@ -1,5 +1,4 @@
 ---
-category: Pokemon
 unlisted: true
 ---
 # Sunkern and Sunflora

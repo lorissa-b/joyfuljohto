@@ -1,5 +1,4 @@
 ---
-category: Routes
 unlisted: true
 ---
 # Route 31

@@ -1,5 +1,4 @@
 ---
-category: Pokemon
 unlisted: true
 ---
 # Hoppip, Skiploom, and Jumpluff

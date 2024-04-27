@@ -1,5 +1,4 @@
 ---
-category: Pokemon
 unlisted: true
 ---
 # Cyndaquil, Quilava, and Typhlosion
