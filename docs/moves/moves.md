@@ -3,6 +3,10 @@ category: Moves
 title: Move Updates
 order: 2
 ---
+**Green Text**{: style="color: green"} shows that a value has been adjusted up.
+**Red Text**{: style="color: red"} shows that a value has been adjusted down.
+**Orange Text**{: style="color: orange"} shows that a value is newly added.
+
 ## Bug
 
 | Name | PP | Att. | Acc. | Effect |
@@ -52,8 +56,8 @@ order: 2
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
-| <span style="color: green">Leaf Tornado</span> | 10 | 65 | 90 | Circles the target in sharp leaves that may reduce ACC. |
-| <span tyle="color: green">Leaf Blade</span> | 15 | 90 | 100 | Uses a leaf like a sword to make critical hits easier. |
+| **Leaf Tornado**{: style="color: orange"} | 10 | 65 | 90 | Circles the target in sharp leaves that may reduce ACC. |
+| **Leaf Blade**{: style="color: orange"} | 15 | 90 | 100 | Uses a leaf like a sword to make critical hits easier. |
 
 ## Ground
 
