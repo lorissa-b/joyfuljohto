@@ -1,3 +1,6 @@
+---
+category: Routes
+---
 # Routes
 The main hub for links to route pages.
 

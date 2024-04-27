@@ -1,5 +1,6 @@
 ---
 category: Pokemon
+unlisted: true
 ---
 # Ledyba and Ledian
 

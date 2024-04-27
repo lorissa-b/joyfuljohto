@@ -1,5 +1,6 @@
 ---
 category: Pokemon
+unlisted: true
 ---
 # Rattata and Raticate
 

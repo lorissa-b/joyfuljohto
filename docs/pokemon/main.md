@@ -1,3 +1,6 @@
+---
+category: Pokemon
+---
 # Pokemon Updates
 Main link hub for Pokemon updates, in national dex order.
 

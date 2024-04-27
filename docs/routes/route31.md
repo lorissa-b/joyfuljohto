@@ -1,3 +1,7 @@
+---
+category: Routes
+unlisted: true
+---
 # Route 31
 
 ## Encounters

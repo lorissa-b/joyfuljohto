@@ -1,5 +1,6 @@
 ---
 category: Pokemon
+unlisted: true
 ---
 # Weedle, Kakuna, and Beedrill
 
