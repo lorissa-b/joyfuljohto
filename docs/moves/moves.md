@@ -36,9 +36,37 @@ order: 2
 | Thief | 10 | 40 | 100 | While attacking, it may steal the foe's held item. |
 | Torment | 15 |  | 100 | Torments the foe and stops successive use of a move. |
 
+## Dragon
+
+## Electric
+
+## Fighting
+
+## Fire
+
+## Flying
+
+## Ghost
+
 ## Grass
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
-| Leaf Tornado | 10 | 65 | 90 | Circles the target in sharp leaves that may reduce ACC. |
-| Leaf Blade | 15 | 90 | 100 | Uses a leaf like a sword to make critical hits easier. |
+| <span style="color: green">Leaf Tornado</span> | 10 | 65 | 90 | Circles the target in sharp leaves that may reduce ACC. |
+| <span tyle="color: green">Leaf Blade</span> | 15 | 90 | 100 | Uses a leaf like a sword to make critical hits easier. |
+
+## Ground
+
+## Ice
+
+## Normal
+
+## Poison
+
+## Psychic
+
+## Rock
+
+## Steel
+
+## Water

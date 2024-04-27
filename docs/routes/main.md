@@ -1,5 +1,4 @@
 ---
-category: Routes
 title: Routes and Towns Hub
 unlisted: true
 ---
