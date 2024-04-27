@@ -3,8 +3,9 @@ category: Moves
 ---
 # Moves
 ## Bug
+
 | Name | PP | Att. | Acc. | Effect |
-|---|---|---|---|---|
+|---:|:---:|:---:|:---:|---:|
 | Fury Cutter | 20 | 10 | 95 | An attack that intensifies on each successive hit. |
 | Leech Life | 15 | 20 | 100 | An attack that steals half the damage inflicted. |
 | Megahorn | 10 | 120 | 85 | A brutal ramming attack using out-thrust horns. |
@@ -17,8 +18,9 @@ category: Moves
 | Twineedle | 20 | 25 | 100 | Stingers on the forelegs jab the foe twice. |
 
 ## Dark
+
 | Name | PP | Att. | Acc. | Effect |
-|---|---|---|---|---|
+|---:|:---:|:---:|:---:|---:|
 | Beat Up | 10 | 10 | 100 | Summons party POKéMON to join in the attack. |
 | Bite | 25 | 60 | 100 | Bites with vicious fangs. May cause flinching. |
 | Crunch | 15 | 80 | 100 | Crunches with sharp fangs. May lower SP. DEF. |
@@ -34,7 +36,8 @@ category: Moves
 | Torment | 15 | -- | 100 | Torments the foe and stops successive use of a move. |
 
 ## Grass
+
 | Name | PP | Att. | Acc. | Effect |
-|---|---|---|---|---|
+|---:|:---:|:---:|:---:|---:|
 | Leaf Tornado | 10 | 65 | 90 | Circles the target in sharp leaves that may reduce ACC. |
 | Leaf Blade | 15 | 90 | 100 | Uses a leaf like a sword to make critical hits easier. |
