@@ -1,19 +1,18 @@
 ---
 category: Pokemon
 ---
+{:toc}
 # Pokemon Updates
 {:.no_toc}
 Main link hub for Pokemon updates, in national dex order.
 
 ## Kanto
-{:toc}
 [Caterpie, Metapod, Butterfree](/joyfuljohto/pokemon/caterpie)  
 [Weedle, Kakuna, Beedrill](/joyfuljohto/pokemon/weedle)  
 [Pidgey, Pidgeotto, Pidgeot](/joyfuljohto/pokemon/pidgey)  
 [Rattata, Raticate](/joyfuljohto/pokemon/rattata)
 
 ## Johto
-{:toc}
 [Chikorita, Bayleef, Meganium](/joyfuljohto/pokemon/chikorita)  
 [Cyndaquil, Quilava, Typhlosion](/joyfuljohto/pokemon/cyndaquil)  
 [Totodile, Croconaw, Feraligatr](/joyfuljohto/pokemon/totodile)  
@@ -25,5 +24,4 @@ Main link hub for Pokemon updates, in national dex order.
 [Sunkern, Sunflora](/joyfuljohto/pokemon/sunkern)
 
 ## Hoenn
-{:toc}
 [Seedot, Nuzleaf, Shiftry](/joyfuljohto/pokemon/seedot)
