@@ -1,0 +1,45 @@
+const MOM_ID = 1
+const PLAYER_ID = 255
+
+mapscripts NewBarkTown_PlayerHouse_1F_MapScripts {
+    MAP_SCRIPT_ON_FRAME_TABLE [
+        VAR_NEW_BARK_INTRO_STATE, 0: GetPokenav
+    ]
+}
+
+script GetPokenav {
+    msgbox(format("Oh good! You're up {PLAYER}! Professor Elm was looking for you. He said that he wanted you to do something for him."))
+    applymovement(OBJ_EVENT_ID_PLAYER, WalkToMom)
+    applymovement(MOM_ID, faceUp)
+    msgbox(format("Oh! I almost forgot! Your Pokenav is back from the repair shop. Here you go!"))
+    release
+    playfanfare(MUS_OBTAIN_ITEM)
+    waitfanfare
+    setflag(FLAG_SYS_POKENAV_GET)
+    setflag(FLAG_RECEIVED_POKENAV)
+    msgbox(format("{PLAYER} received a Pokenav."))
+    release
+    msgbox(format("Your Pokenav is essential if you want to be a good trainer. Oh! The time isn't set! You can't forget that."))
+    release
+    special(StartWallClock)
+    waitstate
+    setflag(FLAG_SET_WALL_CLOCK)
+    msgbox(format("Come home if you ever need to reset the clock."))
+    msgbox(format("Do you know how to use the phone?"), MSGBOX_YESNO)
+    msgbox(format("Turn the Pokenav on and select the Call item. Phone numbers are stored in memory. Just choose the name you want to call! Gee, isn't that convenient?"))
+    setvar(VAR_NEW_BARK_INTRO_STATE, 1)
+    setvar(VAR_BIRCH_LAB_STATE, 1)
+    setflag(FLAG_ADDED_MATCH_CALL_TO_POKENAV)
+    setflag(FLAG_HAS_MATCH_CALL)
+    releaseall
+}
+
+movement WalkToMom {
+    walk_down
+    walk_left * 3
+    face_down
+}
+
+movement faceUp {
+    face_up
+}

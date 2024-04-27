@@ -1,0 +1,124 @@
+const PROF_ELM_ID = 1
+const AIDE_ID = 5
+const POLICE_ID = 6
+
+mapscripts NewBarkTown_ProfessorElmsLab_MapScripts {
+    MAP_SCRIPT_ON_FRAME_TABLE [
+        VAR_BIRCH_LAB_STATE, 1: FirstEnter
+        VAR_NEW_BARK_INTRO_STATE, 4: TalkToPolice
+    ]
+}
+
+script FirstEnter {
+    applymovement(OBJ_EVENT_ID_PLAYER, EnterLab)
+    waitmovement(0)
+    msgbox(format("{PLAYER}! There you are!\pI needed to ask you a favor. I'm conducting new Pokemon research right now, and I was wondering if you could help me with it.\pYou see...\pI'm writing a paper that I want to present at a conference. But there are some things I don't quite understand yet. So!\pI'd like you to raise a Pokemon that I've recently caught."))
+    msgbox(format("Will you do this for me?"), MSGBOX_YESNO)
+    while (var(VAR_RESULT) != 1) {
+        msgbox(format("Are you sure? I'd really like you to raise one."), MSGBOX_YESNO)
+    }
+    msgbox(format("Thanks, {PLAYER}! You're a great help! When I announce my findings I'm sure we'll delve a bit deeper into the many mysteries of Pokemon. You can count on it!"))
+    release
+    applymovement(PROF_ELM_ID, WalkToPC)
+    waitmovement(0)
+    msgbox(format("Oh, hey! I got an email!\p... ... ... ...\pHm... Uh-huh... ...\pOkay...\pHey, listen. I have an acquaintance called Mr. Pokemon. He keeps finding weird things and raving about his discoveries. Anyway, I just got an e-mail from him saying that this time it's real. It is intriguing, but we're busy with our Pokemon research...\pWait! I know!\p{PLAYER}, can you go in our place? I want you to raise one of the Pokemon contained in these balls. You'll be that Pokemon's first partner, {PLAYER}. Go on. Pick one!"))
+    release
+    applymovement(OBJ_EVENT_ID_PLAYER, WalkToPokeballs)
+    waitmovement(0)
+    special(ChooseStarter)
+    waitstate
+    msgbox(format("Do you want to give a nickname to your new partner?"), MSGBOX_YESNO)
+    if (var(VAR_RESULT) == 1) {
+        call(Common_EventScript_NameReceivedPartyMon)
+    }
+    setvar(VAR_BIRCH_LAB_STATE, 2)
+    setflag(FLAG_SYS_POKEMON_GET)
+    msgbox(format("Mr. Pokemon lives a bit beyong Cherrygrove, the next city over. It's almost a direct route there, so you can't miss it. But just in case, here's my phone number. Call me if anything comes up!"))
+    release
+    playfanfare(MUS_REGISTER_MATCH_CALL)
+	msgbox(format("Registered Prof. Elm in the Pokenav!"))
+	waitfanfare
+	closemessage
+	delay(30)
+    setflag(FLAG_ENABLE_PROF_BIRCH_MATCH_CALL)
+    msgbox(format("If your Pokemon is hurt, you should heal it with this machine. Feel free to use it anytime! {PLAYER}, I'm counting on you."))
+    releaseall
+}
+
+script GivePotions {
+    if(var(VAR_BIRCH_LAB_STATE) >= 2 && !flag(FLAG_BIRCH_AIDE_MET)) {
+        applymovement(AIDE_ID, FacePlayer)
+        msgbox(format("Wait! Take these potions with you!"))
+        giveitem(ITEM_POTION, 5)
+        release
+        setflag(FLAG_BIRCH_AIDE_MET)
+    }
+    else {
+        msgbox(format("Working for Professor Elm is great."))
+        release
+    }
+}
+
+script TalkToPolice {
+    applymovement(OBJ_EVENT_ID_PLAYER, EnterLab)
+    waitmovement(0)
+    msgbox(format("I heard a Pokemon was stolen here... I was just getting some information from Professor Elm. Apparently, it was a young male with long, red hair... What?\pYou battled a trainer like that? Okay, so his name was Silver. Thanks for helping my investigation!"))
+    applymovement(POLICE_ID, PoliceExitLab)
+    waitmovement(0)
+    setvar(VAR_BIRCH_LAB_STATE, 3)
+    setvar(VAR_NEW_BARK_INTRO_STATE, 5)
+    setflag(FLAG_POLICE_IN_NEWBARK)
+    removeobject(POLICE_ID, MAP_NEW_BARK_TOWN)
+    releaseall
+}
+
+script TalkToElm {
+    if(var(VAR_BIRCH_LAB_STATE) == 3) {
+        msgbox(format("{PLAYER}, this is terrible... Oh, yes, what was Mr. Pokemon's big discovery?"))
+        msgbox(format("{PLAYER} handed the Mysterious Egg to Professor Elm"))
+        applymovement(PROF_ELM_ID, ElmBackUp)
+        waitmovement(0)
+        msgbox(format("This?"))
+        applymovement(PROF_ELM_ID, ElmReturnToPlayer)
+        waitmovement(0)
+        msgbox(format("But... Is it a Pokemon egg? If it is, it is a great discovery!\pWhat?!?\nProfessor Oak gave you a Pokedex? {PLAYER}, is that true? Th-that's incredible! He is superb at seeing the potential of people as trainers. Wow, {PLAYER}. You may have what it takes to become the Champion. You seem to be getting on great with Pokemon too. You should take the Pokemon Gym challenge. The closest gym would be the one in Violet City. ... {PLAYER}. The road to the championship will be a long one. Before you leave, make sure that you talk to your mom."))
+        setvar(VAR_BIRCH_LAB_STATE, 4)
+        setflag(FLAG_ROUTE30_TRAINERS)
+    } else {
+        msgbox(format("It's nice to see you again, {PLAYER}"))
+    }
+    releaseall
+}
+
+movement EnterLab {
+    walk_up * 8
+}
+
+movement WalkToPC {
+    walk_left
+    walk_down * 2
+    walk_left * 2
+}
+
+movement WalkToPokeballs {
+    walk_right * 3
+    walk_up
+}
+
+movement FacePlayer {
+    lock
+    face_player
+}
+
+movement PoliceExitLab {
+    walk_down * 7
+}
+
+movement ElmBackUp {
+    lock_facing_direction
+    walk_up
+}
+
+movement ElmReturnToPlayer {
+    walk_down
+}

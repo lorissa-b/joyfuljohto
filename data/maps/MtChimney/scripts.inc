@@ -447,7 +447,7 @@ MtChimney_EventScript_MeteoriteMachine::
 	msgbox MtChimney_Text_RemoveTheMeteorite, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, MtChimney_EventScript_LeaveMeteoriteAlone
 	msgbox MtChimney_Text_PlayerRemovedMeteorite, MSGBOX_DEFAULT
-	giveitem ITEM_METEORITE
+	giveitem ITEM_MYSTERY_EGG
 	setflag FLAG_RECEIVED_METEORITE
 	releaseall
 	end

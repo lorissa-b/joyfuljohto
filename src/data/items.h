@@ -3403,10 +3403,10 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
     },
 
-    [ITEM_METEORITE] =
+    [ITEM_MYSTERY_EGG] =
     {
         .name = _("METEORITE"),
-        .itemId = ITEM_METEORITE,
+        .itemId = ITEM_MYSTERY_EGG,
         .price = 0,
         .description = sMeteoriteDesc,
         .importance = 1,

@@ -2417,7 +2417,7 @@
       "width": 58,
       "height": 26,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "0",
+      "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/UnusedOutdoorArea/border.bin",
       "blockdata_filepath": "data/layouts/UnusedOutdoorArea/map.bin"
     },
@@ -4410,6 +4410,216 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_BARK_TOWN",
+      "name": "NewBarkTown_Layout",
+      "width": 34,
+      "height": 34,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/NewBarkTown/border.bin",
+      "blockdata_filepath": "data/layouts/NewBarkTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE28",
+      "name": "Route28_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route28/border.bin",
+      "blockdata_filepath": "data/layouts/Route28/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE29",
+      "name": "Route29_Layout",
+      "width": 60,
+      "height": 28,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route29/border.bin",
+      "blockdata_filepath": "data/layouts/Route29/map.bin"
+    },
+    {
+      "id": "LAYOUT_CHERRYGROVE_CITY",
+      "name": "CherrygroveCity_Layout",
+      "width": 54,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CherrygroveCity/border.bin",
+      "blockdata_filepath": "data/layouts/CherrygroveCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30",
+      "name": "Route30_Layout",
+      "width": 36,
+      "height": 56,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route30/border.bin",
+      "blockdata_filepath": "data/layouts/Route30/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE31",
+      "name": "Route31_Layout",
+      "width": 50,
+      "height": 24,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route31/border.bin",
+      "blockdata_filepath": "data/layouts/Route31/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY",
+      "name": "VioletCity_Layout",
+      "width": 52,
+      "height": 46,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/VioletCity/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_PLAYER_HOUSE",
+      "name": "PlayerHouse_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/PlayerHouse/border.bin",
+      "blockdata_filepath": "data/layouts/PlayerHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_BARK_TOWN_PLAYER_HOUSE_1F",
+      "name": "NewBarkTown_PlayerHouse_1F_Layout",
+      "width": 24,
+      "height": 18,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/NewBarkTown_PlayerHouse_1F/border.bin",
+      "blockdata_filepath": "data/layouts/NewBarkTown_PlayerHouse_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_BARK_TOWN_PLAYER_HOUSE_2F",
+      "name": "NewBarkTown_PlayerHouse_2F_Layout",
+      "width": 22,
+      "height": 18,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/NewBarkTown_PlayerHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/NewBarkTown_PlayerHouse_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_BARK_TOWN_PROFESSOR_ELMS_LAB",
+      "name": "NewBarkTown_ProfessorElmsLab_Layout",
+      "width": 24,
+      "height": 22,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Lab",
+      "border_filepath": "data/layouts/NewBarkTown_ProfessorElmsLab/border.bin",
+      "blockdata_filepath": "data/layouts/NewBarkTown_ProfessorElmsLab/map.bin"
+    },
+    {
+      "id": "LAYOUT_CHERRYGROVE_CITY_POKEMON_CENTRE_1F",
+      "name": "CherrygroveCity_PokemonCentre_1F_Layout",
+      "width": 30,
+      "height": 26,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/CherrygroveCity_PokemonCentre_1F/border.bin",
+      "blockdata_filepath": "data/layouts/CherrygroveCity_PokemonCentre_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_CHERRYGROVE_CITY_MART_",
+      "name": "CherrygroveCity_Mart__Layout",
+      "width": 27,
+      "height": 17,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/CherrygroveCity_Mart_/border.bin",
+      "blockdata_filepath": "data/layouts/CherrygroveCity_Mart_/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30_BERRY_HOUSE",
+      "name": "Route30_BerryHouse_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route30_BerryHouse/border.bin",
+      "blockdata_filepath": "data/layouts/Route30_BerryHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30_MR_POKEMONS_HOUSE",
+      "name": "Route30_MrPokemonsHouse_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route30_MrPokemonsHouse/border.bin",
+      "blockdata_filepath": "data/layouts/Route30_MrPokemonsHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_POKEMON_CENTER_1F",
+      "name": "VioletCity_PokemonCenter_1F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/VioletCity_PokemonCenter_1F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_PokemonCenter_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_MART",
+      "name": "VioletCity_Mart_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/VioletCity_Mart/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_Mart/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_POKEMON_SCHOOL",
+      "name": "VioletCity_PokemonSchool_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonSchool",
+      "border_filepath": "data/layouts/VioletCity_PokemonSchool/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_PokemonSchool/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_1F",
+      "name": "VioletCity_SproutTower_1F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_TrickHousePuzzle",
+      "border_filepath": "data/layouts/VioletCity_SproutTower_1F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_SproutTower_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_2F",
+      "name": "VioletCity_SproutTower_2F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_TrickHousePuzzle",
+      "border_filepath": "data/layouts/VioletCity_SproutTower_2F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_SproutTower_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_3F",
+      "name": "VioletCity_SproutTower_3F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_TrickHousePuzzle",
+      "border_filepath": "data/layouts/VioletCity_SproutTower_3F/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_SproutTower_3F/map.bin"
     }
   ]
 }
