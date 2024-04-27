@@ -1,24 +1,22 @@
 ---
 category: Routes and Cities
 title: Route 31
-order: 13
+order: 11
 ---
 ## Encounters
 
 | Pokemon | Location | Levels | Morning | Day | Evening | Night |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sunkern | Grass | 1-1 | 30% | 30% | 0% | 0% |
-| Pidgey | Grass | 1-1 | 20% | 15% | 0% | 0% |
-| Hoppip | Grass | 1-1 | 15% | 10% | 0% | 0% |
-| Phanpy | Grass | 1-1 | 10% | 0% | 10% | 0% |
-| Sentret | Grass | 1-1 | 15% | 30% | 5% | 0% |
-| Surskit | Grass | 1-1 | 5% | 5% | 5% | 5% |
-| Wooper | Grass | 1-1 | 5% | 0% | 10% | 30% |
-| Azurill | Grass | 1-1 | 0% | 10% | 30% | 0% |
-| Rattata | Grass | 1-1 | 0% | 0% | 30% | 10% |
-| Bellsprout | Grass | 1-1 | 0% | 0% | 10% | 20% |
-| Gastly | Grass | 1-1 | 0% | 10% | 5% | 15% |
-| Zubat | Grass | 1-1 | 0% | 10% | 5% | 20% |
+| Ledyba | Grass | 2 - 4 | 30% |  |  |  |
+| Sentret | Grass | 2 - 5 | 35% | 35% |  |  |
+| Hoppip | Grass | 2 - 4 | 15% | 5% |  |  |
+| Pidgey | Grass | 2 - 4 | 15% | 30% | 20% |  |
+| Caterpie | Grass | 2 - 4 | 5% | 10% |  |  |
+| Sunkern | Grass | 2 - 4 |  | 15% | 15% |  |
+| Rattata | Grass | 2 - 4 |  | 5% | 30% | 30% |
+| Weedle | Grass | 2 - 4 |  |  | 15% | 10% |
+| Spinarak | Grass | 2 - 4 |  |  | 5% | 25% |
+| Hoothoot | Grass | 2 - 5 |  |  | 5% | 25% |
 
 ## Items
 
