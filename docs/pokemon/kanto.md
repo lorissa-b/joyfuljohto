@@ -1,6 +1,7 @@
 ---
 category: Pokemon
 title: Kanto
+order: 4
 ---
 Link hub for Kanto Pokemon updates, in national dex order.
 

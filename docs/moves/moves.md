@@ -1,6 +1,7 @@
 ---
 category: Moves
 title: Move Updates
+order: 2
 ---
 ## Bug
 

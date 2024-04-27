@@ -1,6 +1,7 @@
 ---
 category: Miscellaneous
 title: Quality of Life Changes
+order: 1
 ---
 [ ] Make key items that cannot be used in the field not show a use or register option
 [x] Make the bag able to hold 120 items instead of 30
