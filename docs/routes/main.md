@@ -1,6 +1,7 @@
 ---
 category: Routes
 title: Routes and Towns Hub
+unlisted: true
 ---
 The main hub for links to route pages.
 
