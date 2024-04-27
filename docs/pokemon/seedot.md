@@ -1,19 +1,20 @@
 ---
 unlisted: true
+title: Seedot, Nuzleaf, and Shiftry
 ---
-# Seedot, Nuzleaf, and Shiftry
-
 ## Seedot
 Grass | Chlorophyll & Early Bird | Evolves at 14
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 40 | 40 | 50 | 30 | 30 | 30 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Bide |
 | 1 | Harden |
 | 6 | Growth |
@@ -62,13 +63,15 @@ Grass | Chlorophyll & Early Bird | Evolves at 14
 Grass / Dark | Chlorophyll & Early Bird | Evolves with Leaf Stone
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 70 | 70 | 40 | 60 | 60 | 40 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Bide |
 | 1 | Harden |
 | 6 | Growth |
@@ -117,13 +120,15 @@ Grass / Dark | Chlorophyll & Early Bird | Evolves with Leaf Stone
 Grass / Dark | Chlorophyll & Early Bird | Final Evolution
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 90 | 100 | 60 | 80 | 90 | 60 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Magical Leaf |
 | 1 | Night Slash |
 | 1 | Swagger |

@@ -1,7 +1,7 @@
 ---
 category: Moves
+title: Move Updates
 ---
-# Moves
 ## Bug
 
 | Name | PP | Att. | Acc. | Effect |

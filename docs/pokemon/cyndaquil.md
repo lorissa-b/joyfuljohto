@@ -1,8 +1,7 @@
 ---
 unlisted: true
+title: Cyndaquil, Quilava, and Typhlosion
 ---
-# Cyndaquil, Quilava, and Typhlosion
-
 ## Cyndaquil
 Fire | Blaze | Evolves at 14
 

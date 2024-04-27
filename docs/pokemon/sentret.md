@@ -1,19 +1,20 @@
 ---
 unlisted: true
+title: Sentret and Furret
 ---
-# Sentret and Furret
-
 ## Sentret
 Normal | Run Away & Pickup | Evolves at 15
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 35 | 46 | 34 | 20 | 35 | 45 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Scratch |
 | 1 | Defense Curl |
 | 6 | Quick Attack |
@@ -70,13 +71,15 @@ Normal | Run Away & Pickup | Evolves at 15
 Normal | Run Away & Pickup | Final Evolution
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 85 | 76 | 64 | 90 | 45 | 55 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Scratch |
 | 1 | Defense Curl |
 | 6 | Quick Attack |

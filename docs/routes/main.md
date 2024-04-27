@@ -1,7 +1,7 @@
 ---
 category: Routes
+title: Routes and Towns Hub
 ---
-# Routes
 The main hub for links to route pages.
 
 ## Johto

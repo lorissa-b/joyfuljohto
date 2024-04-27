@@ -1,19 +1,20 @@
 ---
 unlisted: true
+title: Totodile, Croconaw, and Feraligatr
 ---
-# Totodile, Croconaw, and Feraligatr
-
 ## Totodile
 Water | Torrent | Evolves at 18
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 50 | 65 | 64 | 43 | 44 | 48 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Scratch |
 | 1 | Leer |
 | 7 | Water Gun |
@@ -69,13 +70,15 @@ Water | Torrent | Evolves at 18
 Water | Torrent | Evolves at 30
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 65 | 80 | 80 | 58 | 59 | 63 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Scratch |
 | 1 | Leer |
 | 7 | Water Gun |
@@ -133,13 +136,15 @@ Water | Torrent | Evolves at 30
 Water | Torrent | Final Evolution
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 85 | 105 | 100 | 78 | 79 | 83 |
 
 ### Level Up Moves
+
 | Level | Move |
-|---|---|
+|---:|:---|
 | 1 | Scratch |
 | 1 | Leer |
 | 7 | Water Gun |
