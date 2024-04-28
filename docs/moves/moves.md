@@ -8,7 +8,7 @@ order: 2
 **Red Text**{: style="color: red"} shows that a value has been adjusted down.  
 **Orange Text**{: style="color: orange"} shows that a value is newly added.  
 
-## Bug
+## Bug 🪲
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -23,7 +23,7 @@ order: 2
 | Tail Glow | 20 |  | 100 | Flashes a light that sharply raises SP. ATK. |
 | Twineedle | 20 | 25 | 100 | Stingers on the forelegs jab the foe twice. |
 
-## Dark
+## Dark 🌑
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -41,7 +41,7 @@ order: 2
 | Thief | 10 | 40 | 100 | While attacking, it may steal the foe's held item. |
 | Torment | 15 |  | 100 | Torments the foe and stops successive use of a move. |
 
-## Dragon
+## Dragon 🌀
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -52,7 +52,7 @@ order: 2
 | Outrage | 15 | 90 | 100 | A rampage of 2 to 3 turns that confuses the user. |
 | Twister | 20 | 40 | 100 | Whips up a vicious twister to tear at the foe. |
 
-## Electric
+## Electric ⚡
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -67,7 +67,7 @@ order: 2
 | Volt Tackle | 15 | 120 | 100 | A life-risking tackle that slightly hurts the user. |
 | Zap Cannon | 5 | 100 | 50 | Powerful and sure to cause paralysis, but inaccurate. |
 
-## Fighting
+## Fighting 💥
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -96,7 +96,7 @@ order: 2
 | Triple Kick | 10 | 10 | 90 | Kicks the foe 3 times in a row with rising intensity. |
 | Vital Throw | 10 | 70 | 100 | Makes the user's move last, but it never misses. |
 
-## Fire
+## Fire 🔥
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -115,29 +115,163 @@ order: 2
 | Sunny Day | 5 |  |  | Boosts the power of FIRE- type moves for 5 turns. |
 | Will-o-Wisp | 15 |  | 75 | Inflicts a burn on the foe with intense fire. |
 
-## Flying
-
-## Ghost
-
-## Grass
+## Flying 🪽
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
+| Aerial Ace | 20 | 60 |  | An extremely speedy and unavoidable attack. |
+| Aeroblast | 5 | 100 | 95 | Launches a vacuumed blast. High critical-hit ratio. |
+| Air Cutter | 25 | 55 | 95 | Hacks with razorlike wind. High critical-hit ratio. |
+| Bounce | 5 | 85 | 85 | Bounces up, then down the next turn. May paralyze. |
+| Drill Peck | 20 | 80 | 100 | A corkscrewing attack with the beak acting as a drill. |
+| Featherdance | 15 |  | 100 | Envelops the foe with down to sharply reduce ATTACK. |
+| Fly | 15 | 70 | 95 | Flies up on the first turn, then strikes the next turn. |
+| Gust | 35 | 40 | 100 | Strikes the foe with a gust of wind whipped up by wings. |
+| Mirror Move | 20 |  |  | Counters the foe's attack with the same move. |
+| Peck | 35 | 35 | 100 | Attacks the foe with a jabbing beak, etc. |
+| Sky Attack | 5 | 140 | 90 | Searches out weak spots, then strikes the next turn. |
+| Wing Attack | 35 | 60 | 100 | Strikes the foe with wings spread wide. |
+
+## Ghost 👻
+
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Astonish | 15 | 30 | 100 | An attack that may shock the foe into flinching. |
+| Confuse Ray | 10 |  | 100 | A sinister ray that confuses the foe. |
+| Destiny Bond | 5 |  |  | If the user faints, the foe is also made to faint. |
+| Grudge | 5 |  | 100 | If the user faints, deletes the PP of the final move. |
+| Lick | 30 | 20 | 100 | Licks with a long tongue to injure. May also paralyze. |
+| Night Shade | 15 |  | 100 | Inflicts damage identical to the user's level. |
+| Nightmare | 15 |  | 100 | Inflicts 1/4 damage on a sleeping foe every turn. |
+| Shadow Ball | 15 | 80 | 100 | Hurls a black blob that may lower the foe's SP. DEF. |
+| Shadow Punch | 20 | 60 |  | An unavoidable punch that is thrown from shadows. |
+| Spite | 10 |  | 100 | Spitefully cuts the PP of the foe's last move. |
+
+## Grass 🌱
+
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Absorb | 20 | 20 | 100 |  	An attack that absorbs half the damage inflicted. |
+| Aromatherapy | 5 |  |  | Heals all status problems with a soothing scent. |
+| Bullet Seed | 30 | 10 | 100 | Shoots 2 to 5 seeds in a row to strike the foe. |
+| Cotton Spore | 40 |  | 85 | Spores cling to the foe, sharply reducing SPEED. |
+| Frenzy Plant | 5 | 150 | 90 | Powerful, but leaves the user immobile the next turn. |
+| Giga Drain | 5 | 60 | 100 | An attack that steals half the damage inflicted. |
+| Grasswhistle | 15 |  | 55 | Lulls the foe into sleep with a pleasant melody. |
+| Ingrain | 20 |  | 100 | Lays roots that restore HP. The user can't switch out. |
+| **Leaf Blade**{: style="color: green"} | 15 | 90{: style="color: green"} | 100 | Slashes with a sharp leaf. High critical-hit ratio. |
 | **Leaf Tornado**{: style="color: orange"} | 10 | 65 | 90 | Circles the target in sharp leaves that may reduce ACC. |
-| **Leaf Blade**{: style="color: orange"} | 15 | 90 | 100 | Uses a leaf like a sword to make critical hits easier. |
+| Leech Seed | 10 |  | 90 |  	Plants a seed on the foe to steal HP on every turn. |
+| Magical Leaf | 20 | 60 |  | Attacks with a strange leaf that cannot be evaded. |
+| Mega Drain | 10 | 40 | 100 | An attack that absorbs half the damage inflicted. |
+| Needle Arm | 15 | 60 | 100 | Attacks with thorny arms. May cause flinching. |
+| Petal Dance | 20 | 70 | 100 | A rampage of 2 to 3 turns that confuses the user. |
+| Razor Leaf | 25 | 55 | 95 | Cuts the enemy with leaves. High critical-hit ratio. |
+| Sleep Powder | 15 |  | 75 | Scatters a powder that may cause the foe to sleep. |
+| Solarbeam | 10 | 120 | 100 | Absorbs light in one turn, then attacks next turn. |
+| Spore | 15 |  | 100 | Scatters a cloud of spores that always induce sleep. |
+| Stun Spore | 30 |  | 75 | Scatters a powder that may paralyze the foe. |
+| Synthesis | 5 |  |  | Restores HP. The amount varies with the weather. |
+| Vine Whip | 10 | 35 | 100 | Strikes the foe with slender, whiplike vines. |
 
-## Ground
+## Ground ⛰️
 
-## Ice
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Bone Club | 20 | 65 | 85 | Clubs the foe with a bone. May cause flinching. |
+| Bone Rush | 10 | 25 | 80 | Strikes the foe with a bone in hand 2 to 5 times. |
+| Bonemerang | 10 | 50 | 90 | Throws a bone boomerang that strikes twice. |
+| Dig | 10 | 60 | 100 | Digs underground the first turn and strikes next turn. |
+| Earthquake | 10 | 100 | 100 | A powerful quake, but has no effect on flying foes. |
+| Fissure | 5 |  | 30 | A one-hit KO move that drops the foe in a fissure. |
+| Magnitude | 30 |  | 100 | A ground-shaking attack of random intensity. |
+| Mud Shot | 15 | 55 | 95 | Hurls mud at the foe and reduces SPEED. |
+| Mud Sport | 15 |  | 100 | Covers the user in mud to raise electrical resistance. |
+| Mud-Slap | 10 | 20 | 100 | Hurls mud in the foe's face to reduce its accuracy. |
+| Sand Tomb | 15 | 15 | 70 | Traps and hurts the foe in quicksand for 2 to 5 turns. |
+| Sand-Attack | 15 |  | 100 | Reduces the foe's accuracy by hurling sand in its face. |
+| Spikes | 20 |  |  | Sets spikes that hurt a foe switching out. |
 
-## Normal
+## Ice ❄️
 
-## Poison
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Aurora Beam | 20 | 65 | 100 | Fires a rainbow-colored beam that may lower ATTACK. |
+| Blizzard | 5 | 120 | 70 | Hits the foe with an icy storm that may freeze it. |
+| Hail | 10 |  |  | Summons a hailstorm that strikes every turn. |
+| Haze | 30 |  |  | Creates a black haze that eliminates all stat changes. |
+| Ice Ball | 20 | 30 | 90 | A 5-turn attack that gains power on successive hits. |
+| Ice Beam | 10 | 95 | 100 | Blasts the foe with an icy beam that may freeze it. |
+| Ice Punch | 15 | 75 | 100 | An icy punch that may freeze the foe. |
+| Icicle Spear | 30 | 10 | 100 | Attacks the foe by firing 2 to 5 icicles in a row. |
+| Icy Wind | 15 | 55 | 95 | A chilling attack that lowers the foe's SPEED. |
+| Mist | 30 |  |  | Creates a mist that stops reduction of abilities. |
+| Powder Snow | 25 | 40 | 100 | Blasts the foe with a snowy gust. May cause freezing. |
+| Sheer Cold | 5 |  | 30 | A chilling attack that causes fainting if it hits. |
 
-## Psychic
+## Normal ⚪
 
-## Rock
+## Poison ☠️
 
-## Steel
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Acid | 30 | 40 | 100 | Sprays a hide-melting acid. May lower DEFENSE. |
+| Acid Armor | 40 |  |  | Liquifies the user's body to sharply raise DEFENSE. |
+| Posion Fang | 15 | 50 | 100 | A sharp-fanged attack. May badly poison the foe. |
+| Poison Gas | 40 |  | 55 | Envelops the foe in a toxic gas that may poison. |
+| Poison Sting | 35 | 15 | 100 | A toxic attack with barbs, etc., that may poison. |
+| Poison Tail | 25 | 50 | 100 | Has a high critical-hit ratio. May also poison. |
+| Poisonpowder | 35 |  | 75 | Scatters a toxic powder that may poison the foe. |
+| Sludge | 10 | 90 | 100 | Sludge is hurled to inflict damage. May also poison. |
+| Sludge Bomb | 10 | 90 | 100 | Sludge is hurled to inflict damage. May also poison. |
+| Smog | 20 | 20 | 70 | An exhaust-gas attack that may also poison. |
+| Toxic | 10 |  | 85 | Poisons the foe with an intensifying toxin. |
 
-## Water
+## Psychic 🌸
+
+## Rock 🪨
+
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Ancientpower | 5 | 60 | 100 | An attack that may raise all stats. |
+| Rock Blast | 10 | 25 | 80 | Hurls boulders at the foe 2 to 5 times in a row. |
+| Rock Slide | 10 | 75 | 90 | Large boulders are hurled. May cause flinching. |
+| Rock Throw | 15 | 50 | 90 | Throws small rocks to strike the foe. |
+| Rock Tomb | 10 | 50 | 80 | Stops the foe from moving with rocks and cuts SPEED. |
+| Rollout | 20 | 30 | 90 | An attack lasting 5 turns with rising intensity. |
+| Sandstorm | 10 |  |  | Causes a sandstorm that rages for several turns. |
+
+## Steel ⚙️
+
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Doom Desire | 5 | 120 | 85 | Summons strong sunlight to attack 2 turns later. |
+| Iron Defense | 15 |  |  | Hardens the body's surface to sharply raise DEFENSE. |
+| Iron Tail | 15 | 100 | 75 | Attacks with a rock-hard tail. May lower DEFENSE. |
+| Metal Claw | 35 | 50 | 95 | A claw attack that may raise the user's ATTACK. |
+| Metal Sound | 40 |  | 85 | Emits a horrible screech that sharply lowers SP. DEF. |
+| Meteor Mash | 10 | 100 | 85 | Fires a meteor-like punch. May raise ATTACK. |
+| Steel Wing | 25 | 70 | 90 | Strikes the foe with hard wings spread wide. |
+
+## Water 💧
+
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| Bubble | 30 | 20 | 100 | An attack using bubbles. May lower the foe's SPEED. |
+| Bubblebeam | 20 | 65 | 100 | Forcefully sprays bubbles that may lower SPEED. |
+| Clamp | 10 | 35 | 75 | Traps and squeezes the foe for 2 to 5 turns. |
+| Crabhammer | 10 | 90 | 85 | Hammers with a pincer. Has a high critical-hit ratio. |
+| Dive | 10 | 60 | 100 | Dives underwater the first turn and strikes next turn. |
+| Hydro Cannon | 5 | 150 | 90 | Powerful, but leaves the user immobile the next turn. |
+| Hydro Pump | 5 | 120 | 80 | Blasts water at high power to strike the foe. |
+| Muddy Water | 10 | 95 | 85 | Attacks with muddy water. May lower accuracy. |
+| Octazooka | 10 | 65 | 85 | Fires a lump of ink to damage and cut accuracy. |
+| Rain Dance | 5 |  |  | Boosts the power of WATER- type moves for 5 turns. |
+| Surf | 15 | 95 | 100 | Creates a huge wave, then crashes it down on the foe. |
+| Water Gun | 25 | 40 | 100 | Squirts water to attack the foe. |
+| Water Pulse | 20 | 60 | 100 | Attacks with ultrasonic waves. May confuse the foe |
+| Water Sport | 15 |  | 100 | The user becomes soaked to raise resistance to fire. |
+| Water Spout | 5 | 150 | 100 | Inflicts more damage if the user's HP is high. |
+| Waterfall | 15 | 80 | 100 | Charges the foe with speed to climb waterfalls. |
+| Whirlpool | 15 | 15 | 70 | Traps and hurts the foe in a whirlpool for 2 to 5 turns. |
+| Withdraw | 40 |  |  | Withdraws the body into its hard shell to raise DEFENSE. |
