@@ -1,7 +1,7 @@
 ---
 category: Routes and Cities
 title: Route 31
-order: 13
+order: 20
 ---
 ## Encounters
 

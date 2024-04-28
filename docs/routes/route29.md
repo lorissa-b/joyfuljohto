@@ -1,7 +1,7 @@
 ---
 category: Routes and Cities
 title: Route 29
-order: 11
+order: 18
 ---
 ## Encounters
 

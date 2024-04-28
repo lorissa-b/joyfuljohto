@@ -1,7 +1,7 @@
 ---
 category: Routes and Cities
 title: Route 30
-order: 12
+order: 19
 ---
 ## Encounters
 
