@@ -159,7 +159,7 @@ order: 2
 | Giga Drain | 5 | 60 | 100 | An attack that steals half the damage inflicted. |
 | Grasswhistle | 15 |  | 55 | Lulls the foe into sleep with a pleasant melody. |
 | Ingrain | 20 |  | 100 | Lays roots that restore HP. The user can't switch out. |
-| **Leaf Blade**{: style="color: green"} | 15 | 90{: style="color: green"} | 100 | Slashes with a sharp leaf. High critical-hit ratio. |
+| **Leaf Blade**{: style="color: green"} | 15 | **90**{: style="color: green"} | 100 | Slashes with a sharp leaf. High critical-hit ratio. |
 | **Leaf Tornado**{: style="color: orange"} | 10 | 65 | 90 | Circles the target in sharp leaves that may reduce ACC. |
 | Leech Seed | 10 |  | 90 |  	Plants a seed on the foe to steal HP on every turn. |
 | Magical Leaf | 20 | 60 |  | Attacks with a strange leaf that cannot be evaded. |
@@ -202,6 +202,7 @@ order: 2
 | Haze | 30 |  |  | Creates a black haze that eliminates all stat changes. |
 | Ice Ball | 20 | 30 | 90 | A 5-turn attack that gains power on successive hits. |
 | Ice Beam | 10 | 95 | 100 | Blasts the foe with an icy beam that may freeze it. |
+| **Ice Fang**{: style="color: orange"} | 15 | 65 | 95 | Bites the target with cold fangs. May cause freezing. |
 | Ice Punch | 15 | 75 | 100 | An icy punch that may freeze the foe. |
 | Icicle Spear | 30 | 10 | 100 | Attacks the foe by firing 2 to 5 icicles in a row. |
 | Icy Wind | 15 | 55 | 95 | A chilling attack that lowers the foe's SPEED. |

@@ -373,6 +373,7 @@ gBattleAnims_Moves::
 	.4byte Move_PSYCHO_BOOST
 	.4byte Move_LEAF_TORNADO
 	.4byte Move_ICE_FANG
+	.4byte Move_SUCKER_PUNCH
 	.4byte Move_COUNT @ cannot be reached, because last move is Leaf Tornado
 
 	.align 2
@@ -6571,6 +6572,7 @@ TripleKickCenter:
 	goto TripleKickContinue
 
 Move_DYNAMIC_PUNCH:
+Move_SUCKER_PUNCH:
 	loadspritegfx ANIM_TAG_HANDS_AND_FEET
 	loadspritegfx ANIM_TAG_IMPACT
 	loadspritegfx ANIM_TAG_EXPLOSION

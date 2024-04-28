@@ -2848,6 +2848,14 @@ const struct ContestMove gContestMoves[MOVES_COUNT] =
         .comboStarterId = 0,
         .comboMoves = {COMBO_STARTER_SCARY_FACE},
     },
+
+    [MOVE_SUCKER_PUNCH] =
+    {
+        .effect = CONTEST_EFFECT_BADLY_STARTLE_FRONT_MON,
+        .contestCategory = CONTEST_CATEGORY_TOUGH,
+        .comboStarterId = 0,
+        .comboMoves = {COMBO_STARTER_SCARY_FACE},
+    },
 };
 
 const struct ContestEffect gContestEffects[] =
