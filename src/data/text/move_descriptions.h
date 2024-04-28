@@ -1433,6 +1433,18 @@ static const u8 sAirSlashDescription[] = _(
     "Attacks with a blade of air to \n"
     "slice the sky. May flinch.");
 
+static const u8 sNightSlashDescription[] = _(
+    "Slashes the foe the instant it \n"
+    "can. Has a high critical hit ratio.");
+
+static const u8 sEmbargoDescription[] = _(
+    "Prevents the foe or its trainer \n"
+    "from using items.");
+
+static const u8 sXScissorDescription[] = _(
+    "Slashes at the foe with a pair of \n"
+    "crossed scythes or claws.");
+
 // MOVE_NONE is ignored in this table. Make sure to always subtract 1 before getting the right pointer.
 const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
 {
@@ -1794,4 +1806,7 @@ const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
     [MOVE_ICE_FANG - 1] = sIceFangDescription,
     [MOVE_SUCKER_PUNCH -1] = sSuckerPunchDescription,
     [MOVE_AIR_SLASH -1] = sAirSlashDescription,
+    [MOVE_NIGHT_SLASH -1] = sNightSlashDescription,
+    [MOVE_EMBARGO -1] = sEmbargoDescription,
+    [MOVE_X_SCISSOR -1] = sXScissorDescription,
 };

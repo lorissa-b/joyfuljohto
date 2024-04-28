@@ -276,7 +276,10 @@ static const s8 sMindRatings[MOVES_COUNT] =
     [MOVE_LEAF_TORNADO] = 1,
     [MOVE_ICE_FANG] = 1,
     [MOVE_SUCKER_PUNCH] = 1,
-    [MOVE_AIR_SLASH] = 1
+    [MOVE_AIR_SLASH] = 1,
+    [MOVE_NIGHT_SLASH] = 1,
+    [MOVE_EMBARGO] = 1,
+    [MOVE_X_SCISSOR] = 1
 };
 
 static const struct OamData sOam_JudgmentIcon =

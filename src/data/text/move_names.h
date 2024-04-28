@@ -359,4 +359,7 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_ICE_FANG] = _("ICE FANG"),
     [MOVE_SUCKER_PUNCH] = _("SUCKER PUNCH"),
     [MOVE_AIR_SLASH] = _("AIR SLASH"),
+    [MOVE_NIGHT_SLASH] = _("NIGHT SLASH"),
+    [MOVE_EMBARGO] = _("EMBARGO"),
+    [MOVE_X_SCISSOR] = _("X-SCISSOR"),
 };

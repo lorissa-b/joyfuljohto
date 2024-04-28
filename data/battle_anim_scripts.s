@@ -375,6 +375,9 @@ gBattleAnims_Moves::
 	.4byte Move_ICE_FANG
 	.4byte Move_SUCKER_PUNCH
 	.4byte Move_AIR_SLASH
+	.4byte Move_NIGHT_SLASH
+	.4byte Move_EMBARGO
+	.4byte Move_X_SCISSOR
 	.4byte Move_COUNT @ cannot be reached, because last move is Leaf Tornado
 
 	.align 2
@@ -1197,6 +1200,7 @@ Move_STOMP:
 	end
 
 Move_TAIL_WHIP:
+Move_EMBARGO:
 	loopsewithpan SE_M_TAIL_WHIP, SOUND_PAN_ATTACKER, 24, 3
 	createvisualtask AnimTask_TranslateMonEllipticalRespectSide, 2, ANIM_ATTACKER, 12, 4, 2, 3
 	waitforvisualfinish
@@ -3036,6 +3040,8 @@ Move_SUPER_FANG:
 	end
 
 Move_SLASH:
+Move_NIGHT_SLASH:
+Move_X_SCISSOR:
 	loadspritegfx ANIM_TAG_SLASH
 	createsprite gSlashSliceSpriteTemplate, ANIM_TARGET, 2, 1, -8, 0
 	playsewithpan SE_M_RAZOR_WIND, SOUND_PAN_TARGET

@@ -360,8 +360,11 @@
 #define MOVE_ICE_FANG 356
 #define MOVE_SUCKER_PUNCH 357
 #define MOVE_AIR_SLASH 358
+#define MOVE_NIGHT_SLASH 359
+#define MOVE_EMBARGO 360
+#define MOVE_X_SCISSOR 361
 
-#define MOVES_COUNT 359
+#define MOVES_COUNT 362
 
 // Used for checks for moves affected by Disable, Mimic, etc.
 #define MOVE_UNAVAILABLE 0xFFFF

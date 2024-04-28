@@ -22,6 +22,7 @@ order: 2
 | String Shot | 40 |  | 95 | Binds the foe with string to reduce its SPEED. |
 | Tail Glow | 20 |  | 100 | Flashes a light that sharply raises SP. ATK. |
 | Twineedle | 20 | 25 | 100 | Stingers on the forelegs jab the foe twice. |
+| **X-Scissor**{: style="color: orange"} | 15 | 80 | 100 | Slashes at the foe with a pair of crossed scythes or claws. |
 
 ## Dark 🌑
 
@@ -30,13 +31,16 @@ order: 2
 | Beat Up | 10 | 10 | 100 | Summons party POKéMON to join in the attack. |
 | Bite | 25 | 60 | 100 | Bites with vicious fangs. May cause flinching. |
 | Crunch | 15 | 80 | 100 | Crunches with sharp fangs. May lower SP. DEF. |
+| **Embargo**{: style="color: orange"} | 15 |  |  | Prevents the foe or its trainer from using items. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Feint Attack | 20 | 60 |  | Draws the foe close, then strikes without fail. |
 | Fake Tears | 20 |  | 100 | Feigns crying to sharply lower the foe's SP. DEF. |
 | Flatter | 15 |  | 100 | Confuses the foe, but raises its SP. ATK |
 | Knock Off | 20 | 20 | 100 | Knocks down the foe's held item to prevent its use. |
 | Memento | 10 |  | 100 | The user faints and lowers the foe's abilities. |
+| **Night Slash**{: style="color: orange"} | 15 | 70 | 100 | Slashes the foe the instant it can. Has a high critical hit ratio. |
 | Pursuit | 20 | 40 | 100 | Inflicts bad damage if used on a foe switching out. |
 | Snatch | 10 |  | 100 | Steals the effects of the move the foe uses next. |
+| **Sucker Punch**{: style="color: orange"} | 5 | 80 | 100 | Lets the user attack first if the opponent is also attacking. <br /> **NOTE: ONLY HALF IMPLEMENTED** |
 | Taunt | 20 |  | 100 | Taunts the foe into only using attack moves. |
 | Thief | 10 | 40 | 100 | While attacking, it may steal the foe's held item. |
 | Torment | 15 |  | 100 | Torments the foe and stops successive use of a move. |
@@ -122,6 +126,7 @@ order: 2
 | Aerial Ace | 20 | 60 |  | An extremely speedy and unavoidable attack. |
 | Aeroblast | 5 | 100 | 95 | Launches a vacuumed blast. High critical-hit ratio. |
 | Air Cutter | 25 | 55 | 95 | Hacks with razorlike wind. High critical-hit ratio. |
+| **Air Slash**{: style="color: orange"} | 20 | 75 | 95 | Attacks with a blade of air to slice the sky. May flinch. |
 | Bounce | 5 | 85 | 85 | Bounces up, then down the next turn. May paralyze. |
 | Drill Peck | 20 | 80 | 100 | A corkscrewing attack with the beak acting as a drill. |
 | Featherdance | 15 |  | 100 | Envelops the foe with down to sharply reduce ATTACK. |
