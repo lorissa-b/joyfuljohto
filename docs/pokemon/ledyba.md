@@ -1,16 +1,20 @@
-# Ledyba and Ledian
-
+---
+unlisted: true
+title: Ledyba and Ledian
+---
 ## Ledyba
 Bug / Flying | Swarm & Early Bird | Evolves at 18
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 40 | 20 | 30 | 55 | 40 | 80 |
 
 ### Level Up Moves
+
 | Level | Move |
-|--|--|
+|---:|:---|
 | 1 | Fury Cutter |
 | 1 | Supersonic |
 | 5 | Swift |
@@ -59,14 +63,16 @@ Bug / Flying | Swarm & Early Bird | Evolves at 18
 Bug / Fighting | Swarm & Early Bird | Final Evolution
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 55 | 35 | 50 | 85 | 55 | 110 |
 | 55 | 75 | 50 | 85 | 55 | 70 |
 
 ### Level Up Moves
+
 | Level | Move |
-|--|--|
+|---:|:---|
 | 1 | Fury Cutter |
 | 1 | Supersonic |
 | 5 | Swift |

@@ -1,31 +1,37 @@
-# Route 31
-
+---
+category: Routes and Cities
+title: Route 31
+order: 20
+---
 ## Encounters
-| Pokemon | Location | Levels | Morning | Day | Evening | Night |
-|--|--|--|--|--|--|--|
-| Sunkern | Grass | 1-1 | 30% | 30% | 0% | 0% |
-| Pidgey | Grass | 1-1 | 20% | 15% | 0% | 0% |
-| Hoppip | Grass | 1-1 | 15% | 10% | 0% | 0% |
-| Phanpy | Grass | 1-1 | 10% | 0% | 10% | 0% |
-| Sentret | Grass | 1-1 | 15% | 30% | 5% | 0% |
-| Surskit | Grass | 1-1 | 5% | 5% | 5% | 5% |
-| Wooper | Grass | 1-1 | 5% | 0% | 10% | 30% |
-| Azurill | Grass | 1-1 | 0% | 10% | 30% | 0% |
-| Rattata | Grass | 1-1 | 0% | 0% | 30% | 10% |
-| Bellsprout | Grass | 1-1 | 0% | 0% | 10% | 20% |
-| Gastly | Grass | 1-1 | 0% | 10% | 5% | 15% |
-| Zubat | Grass | 1-1 | 0% | 10% | 5% | 20% |
+
+| Pokemon | Location | Levels | ⛅ Morning | ☀️ Day | 🌔 Evening | 🌑 Night |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sunkern | 🌱 Grass | 4 - 6 | 30% | 30% |  |  |
+| Pidgey | 🌱 Grass | 4 - 7 | 20% | 15% |  |  |
+| Hoppip | 🌱 Grass | 4 - 6 | 15% | 10% |  |  |
+| Phanpy | 🌱 Grass | 5 - 6 | 10% |  | 10% |  |
+| Sentret | 🌱 Grass | 4 - 6 | 15% | 30% |  |  |
+| Surskit | 🌱 Grass | 4 - 6 | 5% | 5% | 5% | 5% |
+| Wooper | 🌱 Grass | 4 - 6 | 5% |  |  | 30% |
+| Azurill | 🌱 Grass | 4 - 6 |  | 10% | 30% |  |
+| Bellsprout | 🌱 Grass | 4 - 6 |  |  | 10% | 20% |
+| Gastly | 🌱 Grass | 4 - 7 |  |  | 5% | 15% |
+| Zubat | 🌱 Grass | 4 - 6 |  |  | 5% | 20% |
 
 ## Items
+
 | Item | Location |
-|--|--|
+|---:|:---|
+| Cheri Berry | Berry Patch beside the Dark Cave |
 
 ## Trainers
 ### Bug Catcher Wade
+
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
-|--|--|--|--|--|--|--|
-| Start | Caterpie lv2 | Caterpie lv2 | Weedle lv2 | Caterpie lv2 | | |
-| Goldenrod | Metapod lv9 | Metapod lv9 | Kakuna lv9 | Metapod lv9 | | |
-| Mahogany | Butterfree lv14 | Butterfree lv14 | Beedrill lv14 | Butterfree lv14 | | |
-| Goldenrod Radio Tower | Butterfree lv24 | Butterfree lv24 | Beedrill lv24 | Butterfree lv24 | | |
-| Champion | Butterfree lv30 | Butterfree lv30 | Beedrill lv30 | Butterfree lv30 | | |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Start | **Surskit** <br /> lv4 | **Caterpie** <br /> lv4 | **Spinarak** <br /> lv5 | **Ledyba** <br /> lv5 | | |
+| Goldenrod | **Metapod** <br /> lv9 | **Metapod** <br /> lv9 | **Kakuna** <br /> lv9 | **Metapod** <br /> lv9 | | |
+| Mahogany | **Butterfree** <br /> lv14 | **Butterfre**e <br /> lv14 | **Beedrill** <br /> lv14 | **Butterfree** <br /> lv14 | | |
+| Goldenrod Radio Tower | **Butterfree** <br /> lv24 | **Butterfree** <br /> lv24 | **Beedrill** <br /> lv24 | **Butterfree** <br /> lv24 | | |
+| Champion | **Butterfree** <br /> lv30 | **Butterfree** <br /> lv30 | **Beedrill** <br /> lv30 | **Butterfree** <br /> lv30 | | |

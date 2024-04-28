@@ -1,16 +1,20 @@
-# Rattata and Raticate
-
+---
+unlisted: true
+title: Rattata and Raticate
+---
 ## Rattata
 Normal | Run Away & Guts | Evolves at 20
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 30 | 56 | 35 | 72 | 25 | 35 |
 
 ### Level Up Moves
+
 | Level | Move |
-|--|--|
+|---:|:---|
 | 1 | Tackle |
 | 1 | Tail Whip |
 | 6 | Quick Attack |
@@ -65,13 +69,15 @@ Normal | Run Away & Guts | Evolves at 20
 Normal | Run Away & Guts | Final Evolution
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 55 | 81 | 60 | 97 | 50 | 70 |
 
 ### Level Up Moves
+
 | Level | Move |
-|--|--|
+|---:|:---|
 | 1 | Tackle |
 | 1 | Tail Whip |
 | 6 | Quick Attack |

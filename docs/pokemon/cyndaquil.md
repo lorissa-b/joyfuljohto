@@ -1,16 +1,20 @@
-# Cyndaquil, Quilava, and Typhlosion
-
+---
+unlisted: true
+title: Cyndaquil, Quilava, and Typhlosion
+---
 ## Cyndaquil
 Fire | Blaze | Evolves at 14
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 39 | 52 | 43 | 65 | 60 | 50 |
 
 ### Level Up Moves
+
 | Level | Move |
-|--|--|
+|---:|:---|
 | 1 | Tackle |
 | 1 | Leer |
 | 7 | Ember |
@@ -59,13 +63,15 @@ Fire | Blaze | Evolves at 14
 Fire | Blaze | Evolves at 36
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 58 | 64 | 58 | 80 | 80 | 65 |
 
 ### Level Up Moves
+
 | Level | Move |
-|--|--|
+|---:|:---|
 | 1 | Tackle |
 | 1 | Leer |
 | 7 | Ember |
@@ -119,13 +125,15 @@ Fire | Blaze | Evolves at 36
 Fire | Blaze | Final Evolution
 
 ### Stats
+
 | HP | Attack | Defense | Speed | Sp. Attack | Sp. Def |
-|--|--|--|--|--|--|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 78 | 84 | 78 | 100 | 109 | 85 |
 
 ### Level Up Moves
+
 | Level | Move |
-|--|--|
+|---:|:---|
 | 1 | Tackle |
 | 1 | Leer |
 | 7 | Ember |

@@ -135,12 +135,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Don[] = {
     {
     .iv = 10,
     .lvl = 3,
-    .species = SPECIES_PELIPPER,
+    .species = SPECIES_CATERPIE,
     },
     {
-    .iv = 0,
-    .lvl = 30,
-    .species = SPECIES_XATU,
+    .iv = 10,
+    .lvl = 3,
+    .species = SPECIES_WEEDLE,
     }
 };
 
