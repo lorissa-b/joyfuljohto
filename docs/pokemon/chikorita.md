@@ -2,8 +2,8 @@
 unlisted: true
 title: Chikorita, Bayleef, and Meganium
 ---
-## Chikorita
-Grass | Overgrow | Evolves at 16
+## ![](https://serebii.net/emerald/pokemon/152.png) Chikorita
+🌱 Grass | Overgrow | Evolves at 16
 
 ### Stats
 
@@ -15,21 +15,21 @@ Grass | Overgrow | Evolves at 16
 
 | Level | Move |
 |---:|:---|
-| 1 | Tackle |
-| 1 | Growl |
-| 7 | Razor Leaf |
-| 9 | Poison Powder |
-| 9 | Stun Spore |
-| 13 | Nature Power |
-| 15 | Reflect |
-| 19 | Leaf Tornado |
-| 23 | Light Screen |
-| 27 | Sweet Scent |
-| 32 | Body Slam |
-| 35 | Leaf Blade |
-| 41 | Safeguard |
-| 45 | Synthesis |
-| 48 | Solarbeam |
+| **1** | Tackle |
+| **1** | Growl |
+| **7** | Razor Leaf |
+| **9** | Poison Powder |
+| **9** | Stun Spore |
+| **13** | Nature Power |
+| **15** | Reflect |
+| **19** | Leaf Tornado |
+| **23** | Light Screen |
+| **27** | Sweet Scent |
+| **32** | Body Slam |
+| **35** | Leaf Blade |
+| **41** | Safeguard |
+| **45** | Synthesis |
+| **48** | Solarbeam |
 
 ### Egg Moves
  - Vine Whip
@@ -42,29 +42,29 @@ Grass | Overgrow | Evolves at 16
  - Grasswhistle
 
 ### TMs / HMs
- - TM06 Toxic
- - TM09 Bullet Seed
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM16 Light Screen
- - TM17 Protect
- - TM19 Giga Drain
- - TM20 Safeguard
- - TM21 Frustration
- - TM22 Solarbeam
- - TM23 Iron Tail
- - TM27 Return
- - TM32 Double Team
- - TM33 Reflect
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - HM01 Cut
- - HM05 Flash
+ - **TM06** Toxic
+ - **TM09** Bullet Seed
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM16** Light Screen
+ - **TM17** Protect
+ - **TM19** Giga Drain
+ - **TM20** Safeguard
+ - **TM21** Frustration
+ - **TM22** Solarbeam
+ - **TM23** Iron Tail
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM33** Reflect
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **HM01** Cut
+ - **HM05** Flash
 
-## Bayleef
-Grass | Overgrow | Evolves at 32
+## ![](https://serebii.net/emerald/pokemon/153.png) Bayleef
+🌱 Grass | Overgrow | Evolves at 32
 
 ### Stats
 
@@ -76,21 +76,21 @@ Grass | Overgrow | Evolves at 32
 
 | Level | Move |
 |---:|:---|
-| 1 | Tackle |
-| 1 | Growl |
-| 7 | Razor Leaf |
-| 9 | Poison Powder |
-| 9 | Stun Spore |
-| 13 | Nature Power |
-| 15 | Reflect |
-| 21 | Leaf Tornado |
-| 25 | Light Screen |
-| 29 | Sweet Scent |
-| 34 | Body Slam |
-| 37 | Leaf Blade |
-| 43 | Safeguard |
-| 47 | Synthesis |
-| 50 | Solarbeam |
+| **1** | Tackle |
+| **1** | Growl |
+| **7** | Razor Leaf |
+| **9** | Poison Powder |
+| **9** | Stun Spore |
+| **13** | Nature Power |
+| **15** | Reflect |
+| **21** | Leaf Tornado |
+| **25** | Light Screen |
+| **29** | Sweet Scent |
+| **34** | Body Slam |
+| **37** | Leaf Blade |
+| **43** | Safeguard |
+| **47** | Synthesis |
+| **50** | Solarbeam |
 
 ### Egg Moves
  - Vine Whip
@@ -103,31 +103,31 @@ Grass | Overgrow | Evolves at 32
  - Grasswhistle
 
 ### TMs / HMs
- - TM06 Toxic
- - TM09 Bullet Seed
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM16 Light Screen
- - TM17 Protect
- - TM19 Giga Drain
- - TM20 Safeguard
- - TM21 Frustration
- - TM22 Solarbeam
- - TM23 Iron Tail
- - TM27 Return
- - TM32 Double Team
- - TM33 Reflect
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - HM01 Cut
- - HM04 Strength
- - HM05 Flash
- - HM06 Rock Smash
+ - **TM06** Toxic
+ - **TM09** Bullet Seed
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM16** Light Screen
+ - **TM17** Protect
+ - **TM19** Giga Drain
+ - **TM20** Safeguard
+ - **TM21** Frustration
+ - **TM22** Solarbeam
+ - **TM23** Iron Tail
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM33** Reflect
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **HM01** Cut
+ - **HM04** Strength
+ - **HM05** Flash
+ - **HM06** Rock Smash
 
-## Meganium
-Grass | Overgrow | Final Evolution
+## ![](https://serebii.net/emerald/pokemon/154.png) Meganium
+🌱 Grass | Overgrow | Final Evolution
 
 ### Stats
 
@@ -139,21 +139,21 @@ Grass | Overgrow | Final Evolution
 
 | Level | Move |
 |---:|:---|
-| 1 | Tackle |
-| 1 | Growl |
-| 7 | Razor Leaf |
-| 9 | Poison Powder |
-| 9 | Stun Spore |
-| 13 | Nature Power |
-| 15 | Reflect |
-| 21 | Leaf Tornado |
-| 25 | Light Screen |
-| 29 | Sweet Scent |
-| 36 | Body Slam |
-| 40 | Leaf Blade |
-| 46 | Safeguard |
-| 50 | Synthesis |
-| 53 | Solarbeam |
+| **1** | Tackle |
+| **1** | Growl |
+| **7** | Razor Leaf |
+| **9** | Poison Powder |
+| **9** | Stun Spore |
+| **13** | Nature Power |
+| **15** | Reflect |
+| **21** | Leaf Tornado |
+| **25** | Light Screen |
+| **29** | Sweet Scent |
+| **36** | Body Slam |
+| **40** | Leaf Blade |
+| **46** | Safeguard |
+| **50** | Synthesis |
+| **53** | Solarbeam |
 
 ### Egg Moves
  - Vine Whip
@@ -166,25 +166,25 @@ Grass | Overgrow | Final Evolution
  - Grasswhistle
 
 ### TMs / HMs
- - TM06 Toxic
- - TM09 Bullet Seed
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM16 Light Screen
- - TM17 Protect
- - TM19 Giga Drain
- - TM20 Safeguard
- - TM21 Frustration
- - TM22 Solarbeam
- - TM23 Iron Tail
- - TM27 Return
- - TM32 Double Team
- - TM33 Reflect
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - HM01 Cut
- - HM04 Strength
- - HM05 Flash
- - HM06 Rock Smash
+ - **TM06** Toxic
+ - **TM09** Bullet Seed
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM16** Light Screen
+ - **TM17** Protect
+ - **TM19** Giga Drain
+ - **TM20** Safeguard
+ - **TM21** Frustration
+ - **TM22** Solarbeam
+ - **TM23** Iron Tail
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM33** Reflect
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **HM01** Cut
+ - **HM04** Strength
+ - **HM05** Flash
+ - **HM06** Rock Smash

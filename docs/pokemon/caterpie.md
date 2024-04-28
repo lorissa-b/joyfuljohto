@@ -41,7 +41,7 @@ None
 |--:|:--|
 | **1** | Tackle |
 | **1** | String Shot |
-| **1**** | Harden |
+| **1** | Harden |
 | **12** | Struggle Bug |
 | **17** | Bug Bite |
 
