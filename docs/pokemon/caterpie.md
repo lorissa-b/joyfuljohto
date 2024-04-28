@@ -2,8 +2,7 @@
 unlisted: true
 title: Caterpie, Metapod, and Butterfree
 ---
-## Caterpie
-![](https://serebii.net/emerald/pokemon/010.png)  
+## ![](https://serebii.net/emerald/pokemon/010.png)  Caterpie 
 🪲 Bug | Shield Dust | Evolves at 7
 
 ### Stats
