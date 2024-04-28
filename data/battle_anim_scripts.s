@@ -374,6 +374,7 @@ gBattleAnims_Moves::
 	.4byte Move_LEAF_TORNADO
 	.4byte Move_ICE_FANG
 	.4byte Move_SUCKER_PUNCH
+	.4byte Move_AIR_SLASH
 	.4byte Move_COUNT @ cannot be reached, because last move is Leaf Tornado
 
 	.align 2
@@ -4194,6 +4195,7 @@ Move_FAKE_TEARS:
 	end
 
 Move_AIR_CUTTER:
+Move_AIR_SLASH:
 	loadspritegfx ANIM_TAG_AIR_WAVE
 	loadspritegfx ANIM_TAG_CUT
 	loadspritegfx ANIM_TAG_IMPACT

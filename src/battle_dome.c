@@ -526,6 +526,7 @@ static const u8 sBattleStyleMovePoints[MOVES_COUNT][NUM_MOVE_POINT_TYPES] =
     [MOVE_LEAF_TORNADO]  = {[MOVE_POINTS_DMG] = 1},
     [MOVE_ICE_FANG]      = {[MOVE_POINTS_DMG] = 1},
     [MOVE_SUCKER_PUNCH]  = {[MOVE_POINTS_DMG] = 1},
+    [MOVE_AIR_SLASH]     = {[MOVE_POINTS_DMG] = 1},
 };
 
 // This array is searched in-order to determine what battle style a tourney trainer uses.
