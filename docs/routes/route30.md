@@ -24,14 +24,14 @@ order: 19
 ## Items
 
 | Item | Location |
-|---:|:---|
-| ![](https://archives.bulbagarden.net/media/upload/e/ea/Bag_Antidote_Sprite.png) Antidote | Near the entrance to the route, on the eastern side |
-| ![](https://archives.bulbagarden.net/media/upload/e/ed/Bag_Potion_Sprite.png) Potion | East of the first grass patch (hidden) |
-| Wailmer Pail | From the Berry Master |
-| ![](https://archives.bulbagarden.net/media/upload/thumb/8/81/Bag_Pecha_Berry_SV_Sprite.png/24px-Bag_Pecha_Berry_SV_Sprite.png) Pecha Berry | Berry patch beside the Berry Master's house |
-| ![](https://archives.bulbagarden.net/media/upload/f/f9/Bag_Mystery_Egg_Sprite.png) Mysterious Egg | Given by Mr. Pokemon in his house |
-| ![](https://archives.bulbagarden.net/media/upload/0/00/Johto_Pok%C3%A9dex_Icon.png) Pokedex | Given by Professor Oak after obtaining the Mysterious Egg from Mr. Pokemon |
-| ![](https://archives.bulbagarden.net/media/upload/thumb/2/2d/Bag_Oran_Berry_SV_Sprite.png/24px-Bag_Oran_Berry_SV_Sprite.png) Oran Berry | Berry patch beside Mr. Pokemon's house |
+|:---:|---:|:---|
+|![](https://archives.bulbagarden.net/media/upload/e/ea/Bag_Antidote_Sprite.png)| Antidote | Near the entrance to the route, on the eastern side |
+|![](https://archives.bulbagarden.net/media/upload/e/ed/Bag_Potion_Sprite.png)| Potion | East of the first grass patch (hidden) |
+| | Wailmer Pail | From the Berry Master |
+|![](https://archives.bulbagarden.net/media/upload/thumb/8/81/Bag_Pecha_Berry_SV_Sprite.png/24px-Bag_Pecha_Berry_SV_Sprite.png)| Pecha Berry | Berry patch beside the Berry Master's house |
+|![](https://archives.bulbagarden.net/media/upload/f/f9/Bag_Mystery_Egg_Sprite.png)| Mysterious Egg | Given by Mr. Pokemon in his house |
+|![](https://archives.bulbagarden.net/media/upload/0/00/Johto_Pok%C3%A9dex_Icon.png)| Pokedex | Given by Professor Oak after obtaining the Mysterious Egg from Mr. Pokemon |
+|![](https://archives.bulbagarden.net/media/upload/thumb/2/2d/Bag_Oran_Berry_SV_Sprite.png/24px-Bag_Oran_Berry_SV_Sprite.png)| Oran Berry | Berry patch beside Mr. Pokemon's house |
 
 ## Trainers
 ### Youngster Joey

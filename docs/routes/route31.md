@@ -21,9 +21,9 @@ order: 20
 
 ## Items
 
-| Item | Location |
-|---:|:---|
-| ![](https://archives.bulbagarden.net/media/upload/thumb/0/08/Bag_Cheri_Berry_SV_Sprite.png/24px-Bag_Cheri_Berry_SV_Sprite.png) Cheri Berry | Berry Patch beside the Dark Cave |
+| | Item | Location |
+|:---:|---:|:---|
+|![](https://archives.bulbagarden.net/media/upload/thumb/0/08/Bag_Cheri_Berry_SV_Sprite.png/24px-Bag_Cheri_Berry_SV_Sprite.png)| Cheri Berry | Berry Patch beside the Dark Cave |
 
 ## Trainers
 ### Bug Catcher Wade
