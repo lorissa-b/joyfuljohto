@@ -22,9 +22,9 @@ order: 18
 
 | Item | Location |
 |---:|:---|
-| Potion | East of northeasternmost grass patch |
-| Pokeball x5 | From the catching tutorial boy |
-| Rawst Berry | Northwest of the northwesternmost grass patch, on a plateau |
+| ![](https://archives.bulbagarden.net/media/upload/e/ed/Bag_Potion_Sprite.png) Potion | East of northeasternmost grass patch |
+| ![](https://archives.bulbagarden.net/media/upload/9/93/Bag_Pok%C3%A9_Ball_Sprite.png) Pokeball x5 | From the catching tutorial boy |
+| ![](https://archives.bulbagarden.net/media/upload/thumb/b/bd/Bag_Rawst_Berry_SV_Sprite.png/24px-Bag_Rawst_Berry_SV_Sprite.png) Rawst Berry | Northwest of the northwesternmost grass patch, on a plateau |
 
 ## Trainers
 None

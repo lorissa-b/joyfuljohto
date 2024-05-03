@@ -25,33 +25,33 @@ order: 19
 
 | Item | Location |
 |---:|:---|
-| Antidote | Near the entrance to the route, on the eastern side |
-| Potion | East of the first grass patch (hidden) |
+| ![](https://archives.bulbagarden.net/media/upload/e/ea/Bag_Antidote_Sprite.png) Antidote | Near the entrance to the route, on the eastern side |
+| ![](https://archives.bulbagarden.net/media/upload/e/ed/Bag_Potion_Sprite.png) Potion | East of the first grass patch (hidden) |
 | Wailmer Pail | From the Berry Master |
-| Pecha Berry | Berry patch beside the Berry Master's house |
-| Mysterious Egg | Given by Mr. Pokemon in his house |
-| Pokedex | Given by Professor Oak after obtaining the Mysterious Egg from Mr. Pokemon |
-| Oran Berry | Berry patch beside Mr. Pokemon's house |
+| ![](https://archives.bulbagarden.net/media/upload/thumb/8/81/Bag_Pecha_Berry_SV_Sprite.png/24px-Bag_Pecha_Berry_SV_Sprite.png) Pecha Berry | Berry patch beside the Berry Master's house |
+| ![](https://archives.bulbagarden.net/media/upload/f/f9/Bag_Mystery_Egg_Sprite.png) Mysterious Egg | Given by Mr. Pokemon in his house |
+| ![](https://archives.bulbagarden.net/media/upload/0/00/Johto_Pok%C3%A9dex_Icon.png) Pokedex | Given by Professor Oak after obtaining the Mysterious Egg from Mr. Pokemon |
+| ![](https://archives.bulbagarden.net/media/upload/thumb/2/2d/Bag_Oran_Berry_SV_Sprite.png/24px-Bag_Oran_Berry_SV_Sprite.png) Oran Berry | Berry patch beside Mr. Pokemon's house |
 
 ## Trainers
 ### Youngster Joey
 
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Start | **Rattata** <br /> lv4 |  |  |  | | |
-| Goldenrod | **Rattata** <br /> lv15 |  |  |  | | |
-| Olivine | **Raticate** <br /> lv21 |   |   |   | | |
-| Goldenrod Radio Tower | **Raticate** <br /> lv30 |  |  |  | | |
-| Champion | **Raticate** <br /> lv37 |  |  |  | | |
+| Start | ![](https://serebii.net/pokedex-dp/icon/019.gif) **Rattata** <br /> lv4 |  |  |  | | |
+| Goldenrod | ![](https://serebii.net/pokedex-dp/icon/019.gif) **Rattata** <br /> lv15 |  |  |  | | |
+| Olivine | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv21 |   |   |   | | |
+| Goldenrod Radio Tower | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv30 |  |  |  | | |
+| Champion | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv37 |  |  |  | | |
 
 ### Bug Catcher Mikey
 
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Start | **Spinarak** <br /> lv2 | **Ledyba** <br /> lv4 |  |  | | |
+| Start | ![](https://serebii.net/pokedex-dp/icon/167.gif) **Spinarak** <br /> lv2 | ![](https://serebii.net/pokedex-dp/icon/165.gif) **Ledyba** <br /> lv4 |  |  | | |
 
 ### Bug Catcher Don
 
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Start | **Caterpie** <br /> lv3 | **Weedle** <br /> lv3 |  |  | | |
+| Start | ![](https://serebii.net/pokedex-dp/icon/010.gif) **Caterpie** <br /> lv3 | ![](https://serebii.net/pokedex-dp/icon/013.gif) **Weedle** <br /> lv3 |  |  | | |

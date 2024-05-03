@@ -23,15 +23,15 @@ order: 20
 
 | Item | Location |
 |---:|:---|
-| Cheri Berry | Berry Patch beside the Dark Cave |
+| ![](https://archives.bulbagarden.net/media/upload/thumb/0/08/Bag_Cheri_Berry_SV_Sprite.png/24px-Bag_Cheri_Berry_SV_Sprite.png) Cheri Berry | Berry Patch beside the Dark Cave |
 
 ## Trainers
 ### Bug Catcher Wade
 
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Start | **Surskit** <br /> lv4 | **Caterpie** <br /> lv4 | **Spinarak** <br /> lv5 | **Ledyba** <br /> lv5 | | |
-| Goldenrod | **Metapod** <br /> lv9 | **Metapod** <br /> lv9 | **Kakuna** <br /> lv9 | **Metapod** <br /> lv9 | | |
-| Mahogany | **Butterfree** <br /> lv14 | **Butterfre**e <br /> lv14 | **Beedrill** <br /> lv14 | **Butterfree** <br /> lv14 | | |
-| Goldenrod Radio Tower | **Butterfree** <br /> lv24 | **Butterfree** <br /> lv24 | **Beedrill** <br /> lv24 | **Butterfree** <br /> lv24 | | |
-| Champion | **Butterfree** <br /> lv30 | **Butterfree** <br /> lv30 | **Beedrill** <br /> lv30 | **Butterfree** <br /> lv30 | | |
+| Start | ![](https://serebii.net/pokedex-dp/icon/283.gif) **Surskit** <br /> lv4 | ![](https://serebii.net/pokedex-dp/icon/010.gif) **Caterpie** <br /> lv4 | ![](https://serebii.net/pokedex-dp/icon/167.gif) **Spinarak** <br /> lv5 | ![](https://serebii.net/pokedex-dp/icon/165.gif) **Ledyba** <br /> lv5 | | |
+| Goldenrod | ![](https://serebii.net/pokedex-dp/icon/011.gif) **Metapod** <br /> lv9 | ![](https://serebii.net/pokedex-dp/icon/011.gif) **Metapod** <br /> lv9 | ![](https://serebii.net/pokedex-dp/icon/014.gif) **Kakuna** <br /> lv9 | ![](https://serebii.net/pokedex-dp/icon/011.gif) **Metapod** <br /> lv9 | | |
+| Mahogany | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv14 | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfre**e <br /> lv14 | ![](https://serebii.net/pokedex-dp/icon/015.gif) **Beedrill** <br /> lv14 | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv14 | | |
+| Goldenrod Radio Tower | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv24 | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv24 | **Beedrill** <br /> lv24 | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv24 | | |
+| Champion | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv30 | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv30 | ![](https://serebii.net/pokedex-dp/icon/015.gif) **Beedrill** <br /> lv30 | ![](https://serebii.net/pokedex-dp/icon/012.gif) **Butterfree** <br /> lv30 | | |
