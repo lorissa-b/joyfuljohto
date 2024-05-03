@@ -148,6 +148,7 @@ order: 2
 | Lick | 30 | 20 | 100 | Licks with a long tongue to injure. May also paralyze. |
 | Night Shade | 15 |  | 100 | Inflicts damage identical to the user's level. |
 | Nightmare | 15 |  | 100 | Inflicts 1/4 damage on a sleeping foe every turn. |
+| **Phantom Force**{: style="color: orange"} | 10 | 90 | 100 | Vanishes, then appears elsewhere. Hits through Protect. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Shadow Ball | 15 | 80 | 100 | Hurls a black blob that may lower the foe's SP. DEF. |
 | Shadow Punch | 20 | 60 |  | An unavoidable punch that is thrown from shadows. |
 | Spite | 10 |  | 100 | Spitefully cuts the PP of the foe's last move. |
@@ -170,7 +171,7 @@ order: 2
 | Magical Leaf | 20 | 60 |  | Attacks with a strange leaf that cannot be evaded. |
 | Mega Drain | 10 | 40 | 100 | An attack that absorbs half the damage inflicted. |
 | Needle Arm | 15 | 60 | 100 | Attacks with thorny arms. May cause flinching. |
-| Petal Dance | 20 | 70 | 100 | A rampage of 2 to 3 turns that confuses the user. |
+| **Petal Dance**{: style="color: green"} | **10**{: style="color: red"} | **120**{: style="color: green"} | 100 | A rampage of 2 to 3 turns that confuses the user. |
 | Razor Leaf | 25 | 55 | 95 | Cuts the enemy with leaves. High critical-hit ratio. |
 | Sleep Powder | 15 |  | 75 | Scatters a powder that may cause the foe to sleep. |
 | Solarbeam | 10 | 120 | 100 | Absorbs light in one turn, then attacks next turn. |
@@ -223,6 +224,7 @@ order: 2
 |---:|:---:|:---:|:---:|---:|
 | Acid | 30 | 40 | 100 | Sprays a hide-melting acid. May lower DEFENSE. |
 | Acid Armor | 40 |  |  | Liquifies the user's body to sharply raise DEFENSE. |
+| **Cross Poison**{: style="color: orange"} | 20 | 70 | 100 | Slash with a poisonous blade. Critical hits land more easily. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Posion Fang | 15 | 50 | 100 | A sharp-fanged attack. May badly poison the foe. |
 | Poison Gas | 40 |  | 55 | Envelops the foe in a toxic gas that may poison. |
 | Poison Sting | 35 | 15 | 100 | A toxic attack with barbs, etc., that may poison. |
@@ -232,6 +234,7 @@ order: 2
 | Sludge Bomb | 10 | 90 | 100 | Sludge is hurled to inflict damage. May also poison. |
 | Smog | 20 | 20 | 70 | An exhaust-gas attack that may also poison. |
 | Toxic | 10 |  | 85 | Poisons the foe with an intensifying toxin. |
+| **Venoshock**{: style="color: orange"} | 10 | 65 | 100 | Drenches the target in poison. Stronger if the target is poisoned. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
 ## Psychic 🌸
 
@@ -263,6 +266,8 @@ order: 2
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
+| **Aqua Tail**{: style="color: orange"} | 10 | 90 | 90 | Attacks by swinging its tail like a wave in a storm. <br /> **NOTE: NOT IMPLEMENTED YET** |
+| **Bouncy Bubble**{: style="color: orange"} | 15 | 90 | 100 | Attacks by shooting water bubbles. Restores HP. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Bubble | 30 | 20 | 100 | An attack using bubbles. May lower the foe's SPEED. |
 | Bubblebeam | 20 | 65 | 100 | Forcefully sprays bubbles that may lower SPEED. |
 | Clamp | 10 | 35 | 75 | Traps and squeezes the foe for 2 to 5 turns. |
