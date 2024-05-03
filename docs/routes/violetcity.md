@@ -13,4 +13,9 @@ TBD
 | Placeholder | Placeholder |
 
 ## Trainers
-None
+### Violet Gym
+#### Falkner
+
+| Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Start | Hoothoot | Murkrow | | | | |

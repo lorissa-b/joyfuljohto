@@ -15,3 +15,37 @@ order: 1
 ✔️ Automatically switch to lower-case when naming  
 ✔️ Day/Night encounters  
 ☐ Survive overworld poison with 1HP
+
+<!-- My Notes: Level Curves
+FALKNER: 15
+BUGSY: 20
+WHITNEY: 26
+MORTY: 32
+CHUCK: 38
+PRYCE: 40
+JASMINE: 46
+CLAIRE: 52
+
+WILL: 60
+KOGA: 61
+BRUNO: 62
+KAREN: 63
+LANCE: 65
+
+SURGE:
+SABRINA:
+ERIKA:
+MISTY:
+JANINE:
+BROCK:
+BLAINE:
+BLUE:
+
+WILL: 80
+KOGA: 81
+BRUNO: 82
+KAREN: 83
+LANCE: 85
+
+RED: 100
+ -->
