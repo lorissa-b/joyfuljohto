@@ -7,7 +7,7 @@ order: 1
 ✔️ Make the bag able to hold 120 items instead of 30  
 ☐ Reset clock with the R button  
 ✔️ Fake RTC system with 4x speed  
-☐ Reusable TMs  
+✔️ Reusable TMs  
 ☐ 2-in-1 Bike  
 ☐ EXP All  
 ☐ Bag sorting  
