@@ -10,11 +10,12 @@ order: 1
 ✔️ Reusable TMs  
 ☐ 2-in-1 Bike  
 ☐ EXP All  
-☐ Bag sorting  
+✔️ Bag sorting  
 ☐ Colored stats in summary screen  
 ✔️ Automatically switch to lower-case when naming  
 ✔️ Day/Night encounters  
 ☐ Survive overworld poison with 1HP
+✔️ Mid-battle Evolution
 
 <!-- My Notes: Level Curves
 FALKNER: 15
