@@ -52,6 +52,11 @@ script Route30_WanderingGirl {
     release
 }
 
+script Route30_Lass {
+    msgbox(format("Watch out! If you lock eyes with another trainer you're obligated to battle!"))
+    release
+}
+
 script Route30_YoungsterJoeyTrainer {
     trainerbattle_single(TRAINER_JOEY_1, format("I just lost, so I'm trying to find more Pokemon. Wait! You look weak! Come on, let's battle!"), format("Darn it, I lost again!"))
 }

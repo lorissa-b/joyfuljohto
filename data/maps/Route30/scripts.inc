@@ -90,20 +90,28 @@ Route30_WanderingGirl::
 	return
 
 
-Route30_YoungsterJoeyTrainer::
+Route30_Lass::
 # 56 "data/maps/Route30/scripts.pory"
+	msgbox Route30_Lass_Text_0
+# 57 "data/maps/Route30/scripts.pory"
+	release
+	return
+
+
+Route30_YoungsterJoeyTrainer::
+# 61 "data/maps/Route30/scripts.pory"
 	trainerbattle_single TRAINER_JOEY_1, Route30_YoungsterJoeyTrainer_Text_0, Route30_YoungsterJoeyTrainer_Text_1
 	return
 
 
 Route30_BugCatcherMikeyTrainer::
-# 60 "data/maps/Route30/scripts.pory"
+# 65 "data/maps/Route30/scripts.pory"
 	trainerbattle_single TRAINER_MIKEY, Route30_BugCatcherMikeyTrainer_Text_0, Route30_BugCatcherMikeyTrainer_Text_1
 	return
 
 
 Route30_BugCatcherDonTrianer::
-# 64 "data/maps/Route30/scripts.pory"
+# 69 "data/maps/Route30/scripts.pory"
 	trainerbattle_single TRAINER_DON, Route30_BugCatcherDonTrianer_Text_0, Route30_BugCatcherDonTrianer_Text_1
 	return
 
@@ -151,29 +159,35 @@ Route30_WanderingGirl_Text_0:
 	.string "I've never been in a trainer battle\n"
 	.string "before... It sounds scary.$"
 
-Route30_YoungsterJoeyTrainer_Text_0:
+Route30_Lass_Text_0:
 # 56 "data/maps/Route30/scripts.pory"
+	.string "Watch out! If you lock eyes with\n"
+	.string "another trainer you're obligated to\l"
+	.string "battle!$"
+
+Route30_YoungsterJoeyTrainer_Text_0:
+# 61 "data/maps/Route30/scripts.pory"
 	.string "I just lost, so I'm trying to find more\n"
 	.string "Pokemon. Wait! You look weak! Come on,\l"
 	.string "let's battle!$"
 
 Route30_YoungsterJoeyTrainer_Text_1:
-# 56 "data/maps/Route30/scripts.pory"
+# 61 "data/maps/Route30/scripts.pory"
 	.string "Darn it, I lost again!$"
 
 Route30_BugCatcherMikeyTrainer_Text_0:
-# 60 "data/maps/Route30/scripts.pory"
+# 65 "data/maps/Route30/scripts.pory"
 	.string "Go, my beautiful bug Pokemon!$"
 
 Route30_BugCatcherMikeyTrainer_Text_1:
-# 60 "data/maps/Route30/scripts.pory"
+# 65 "data/maps/Route30/scripts.pory"
 	.string "My bugs weren't strong enough...$"
 
 Route30_BugCatcherDonTrianer_Text_0:
-# 64 "data/maps/Route30/scripts.pory"
+# 69 "data/maps/Route30/scripts.pory"
 	.string "The power of bugs is unbelievable!$"
 
 Route30_BugCatcherDonTrianer_Text_1:
-# 64 "data/maps/Route30/scripts.pory"
+# 69 "data/maps/Route30/scripts.pory"
 	.string "But your power is even more\n"
 	.string "unbelievable.$"

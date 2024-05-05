@@ -1098,3 +1098,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/VioletCity_SproutTower_2F/scripts.inc"
 
 	.include "data/maps/VioletCity_SproutTower_3F/scripts.inc"
+
+	.include "data/maps/VioletCity_FalknerGym/scripts.inc"
+
+	.include "data/maps/DarkCave_Route31/scripts.inc"

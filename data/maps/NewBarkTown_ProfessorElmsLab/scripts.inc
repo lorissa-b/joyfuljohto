@@ -145,10 +145,10 @@ TalkToElm::
 # 76 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	compare VAR_BIRCH_LAB_STATE, 3
 	goto_if_eq TalkToElm_2
-# 88 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 89 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	msgbox TalkToElm_Text_4
 TalkToElm_1:
-# 90 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 91 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	releaseall
 	return
 
@@ -172,93 +172,95 @@ TalkToElm_2:
 # 85 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	setvar VAR_BIRCH_LAB_STATE, 4
 # 86 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	setflag FLAG_ROUTE30_TRAINERS
+	clearflag FLAG_ROUTE30_TRAINERS
+# 87 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	setflag FLAG_BLOCK_ROUTE_31
 	goto TalkToElm_1
 
 
-# 93 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 EnterLab:
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
-# 94 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 95 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
 	step_end
 
-# 97 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-WalkToPC:
 # 98 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	walk_left
+WalkToPC:
 # 99 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	walk_down
-# 99 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	walk_down
-# 100 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_left
 # 100 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	walk_down
+# 100 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	walk_down
+# 101 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	walk_left
+# 101 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_left
 	step_end
 
-# 103 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 104 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 WalkToPokeballs:
-# 104 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	walk_right
-# 104 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	walk_right
-# 104 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 105 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_right
 # 105 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	walk_right
+# 105 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	walk_right
+# 106 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
 	step_end
 
-# 108 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-FacePlayer:
 # 109 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	lock
+FacePlayer:
 # 110 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	lock
+# 111 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	face_player
 	step_end
 
-# 113 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 PoliceExitLab:
-# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 115 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
-# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 115 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
-# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 115 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
-# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 115 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
-# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 115 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
-# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 115 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
-# 114 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 115 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
 	step_end
 
-# 117 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-ElmBackUp:
 # 118 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-	lock_facing_direction
+ElmBackUp:
 # 119 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+	lock_facing_direction
+# 120 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_up
 	step_end
 
-# 122 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
-ElmReturnToPlayer:
 # 123 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+ElmReturnToPlayer:
+# 124 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	walk_down
 	step_end
 
@@ -391,5 +393,5 @@ TalkToElm_Text_3:
 	.string "talk to your mom.$"
 
 TalkToElm_Text_4:
-# 88 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
+# 89 "data/maps/NewBarkTown_ProfessorElmsLab/scripts.pory"
 	.string "It's nice to see you again, {PLAYER}$"

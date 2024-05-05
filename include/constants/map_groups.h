@@ -88,6 +88,7 @@
 #define MAP_VIOLET_CITY_SPROUT_TOWER_1F   (3 | (3 << 8))
 #define MAP_VIOLET_CITY_SPROUT_TOWER_2F   (4 | (3 << 8))
 #define MAP_VIOLET_CITY_SPROUT_TOWER_3F   (5 | (3 << 8))
+#define MAP_VIOLET_CITY_FALKNER_GYM       (6 | (3 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (4 << 8))
@@ -431,6 +432,7 @@
 #define MAP_TERRA_CAVE_END                           (105 | (29 << 8))
 #define MAP_ALTERING_CAVE                            (106 | (29 << 8))
 #define MAP_METEOR_FALLS_STEVENS_CAVE                (107 | (29 << 8))
+#define MAP_DARK_CAVE_ROUTE31                        (108 | (29 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (30 << 8))

@@ -14,16 +14,16 @@ order: 1
 ☐ Colored stats in summary screen  
 ✔️ Automatically switch to lower-case when naming  
 ✔️ Day/Night encounters  
-☐ Survive overworld poison with 1HP
+☐ Survive overworld poison with 1HP  
 ✔️ Mid-battle Evolution
 
 <!-- My Notes: Level Curves
 FALKNER: 15
-BUGSY: 20
+BUGSY: 20 -- Consider 19 to be pre-Gyarados?
 WHITNEY: 26
 MORTY: 32
 CHUCK: 38
-PRYCE: 40
+PRYCE: 40 -- Should raise this because rocket hideout
 JASMINE: 46
 CLAIRE: 52
 

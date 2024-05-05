@@ -83,7 +83,8 @@ script TalkToElm {
         waitmovement(0)
         msgbox(format("But... Is it a Pokemon egg? If it is, it is a great discovery!\pWhat?!?\nProfessor Oak gave you a Pokedex? {PLAYER}, is that true? Th-that's incredible! He is superb at seeing the potential of people as trainers. Wow, {PLAYER}. You may have what it takes to become the Champion. You seem to be getting on great with Pokemon too. You should take the Pokemon Gym challenge. The closest gym would be the one in Violet City. ... {PLAYER}. The road to the championship will be a long one. Before you leave, make sure that you talk to your mom."))
         setvar(VAR_BIRCH_LAB_STATE, 4)
-        setflag(FLAG_ROUTE30_TRAINERS)
+        clearflag(FLAG_ROUTE30_TRAINERS)
+        setflag(FLAG_BLOCK_ROUTE_31)
     } else {
         msgbox(format("It's nice to see you again, {PLAYER}"))
     }

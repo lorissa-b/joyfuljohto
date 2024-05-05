@@ -4620,6 +4620,26 @@
       "secondary_tileset": "gTileset_TrickHousePuzzle",
       "border_filepath": "data/layouts/VioletCity_SproutTower_3F/border.bin",
       "blockdata_filepath": "data/layouts/VioletCity_SproutTower_3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_CITY_FALKNER_GYM",
+      "name": "VioletCity_FalknerGym_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_FortreeGym",
+      "border_filepath": "data/layouts/VioletCity_FalknerGym/border.bin",
+      "blockdata_filepath": "data/layouts/VioletCity_FalknerGym/map.bin"
+    },
+    {
+      "id": "LAYOUT_DARK_CAVE_ROUTE31",
+      "name": "DarkCave_Route31_Layout",
+      "width": 40,
+      "height": 35,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/DarkCave_Route31/border.bin",
+      "blockdata_filepath": "data/layouts/DarkCave_Route31/map.bin"
     }
   ]
 }
