@@ -24,17 +24,10 @@ order: 20
         <th>Pokemon</th>
         <th>Location</th>
         <th>Levels</th>
-        <th>
-            <tr>
-                <th>Rate</th>
-            </tr>
-            <tr>
-                <th>⛅ Morning</th>
-                <th>☀️ Day</th>
-                <th>🌔 Evening</th>
-                <th>🌑 Night</th>
-            </tr>
-        </th>
+        <th>⛅ Morning</th>
+        <th>☀️ Day</th>
+        <th>🌔 Evening</th>
+        <th>🌑 Night</th>
     </tr>
     <tr>
         <td>Sunkern</td>
