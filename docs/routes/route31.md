@@ -21,19 +21,19 @@ order: 20
 
 <table>
     <tr>
-        <th>Pokemon</th>
-        <th>Location</th>
-        <th>Levels</th>
-        <th>⛅ Morning</th>
-        <th>☀️ Day</th>
-        <th>🌔 Evening</th>
-        <th>🌑 Night</th>
+        <td>Pokemon</td>
+        <td>Location</td>
+        <td>Levels</td>
+        <td style="background-color: pink">⛅ Morning</td>
+        <td>☀️ Day</td>
+        <td>🌔 Evening</td>
+        <td>🌑 Night</td>
     </tr>
     <tr>
         <td>Sunkern</td>
         <td>🌱 Grass</td>
         <td>4 - 6</td>
-        <td>30%</td>
+        <td style="background-color: pink">30%</td>
         <td>30%</td>
         <td></td>
         <td></td>
