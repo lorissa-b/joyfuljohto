@@ -1,7 +1,7 @@
 ---
 category: Pokemon
 title: Hoenn
-order: 6
+order: 7
 ---
 Link hub for Hoenn Pokemon updates, in national dex order.
 

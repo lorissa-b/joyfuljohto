@@ -1,7 +1,7 @@
 ---
 category: Pokemon
 title: Johto
-order: 5
+order: 6
 ---
 Link hub for Johto Pokemon updates, in national dex order.
 

@@ -1,7 +1,1 @@
-# Joyful Johto
-Making Johto truly pleasant
-
-## Links to Sections
-[Moves](https://lorissa-b.github.io/joyfuljohto/moves/moves)  
-[Pokemon - Chikorita](https://lorissa-b.github.io/joyfuljohto/pokemon/chikorita)  
-[Routes - Route 31](https://lorissa-b.github.io/joyfuljohto/routes/route31)
+Joyful Johto is a Pokemon Emerald hack intended to bring you back to Johto - but better! With a variety of quality of life improvements, Pokemon changes, updated encounter tables, and modified gym leaders, you're sure to enjoy this trip back in time.

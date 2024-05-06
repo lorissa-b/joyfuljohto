@@ -3,7 +3,6 @@ category: Moves
 title: Move Updates
 order: 2
 ---
-{:toc}
 **Green Text**{: style="color: green"} shows that a value has been adjusted up.  
 **Red Text**{: style="color: red"} shows that a value has been adjusted down.  
 **Orange Text**{: style="color: orange"} shows that a value is newly added.  
