@@ -19,6 +19,34 @@ order: 20
 | Gastly | 🌱 Grass | 4 - 7 |  |  | 5% | 15% |
 | Zubat | 🌱 Grass | 4 - 6 |  |  | 5% | 20% |
 
+<table>
+    <tr>
+        <th>Pokemon</th>
+        <th>Location</th>
+        <th>Levels</th>
+        <th>
+            <tr>
+                <th>Rate</th>
+            </tr>
+            <tr>
+                <th>⛅ Morning</th>
+                <th>☀️ Day</th>
+                <th>🌔 Evening</th>
+                <th>🌑 Night</th>
+            </tr>
+        </th>
+    </tr>
+    <tr>
+        <td>Sunkern</td>
+        <td>🌱 Grass</td>
+        <td>4 - 6</td>
+        <td>30%</td>
+        <td>30%</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 ## Items
 
 | | Item | Location |
