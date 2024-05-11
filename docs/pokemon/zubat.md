@@ -61,7 +61,7 @@ title: Zubat, Golbat, and Crobat
  - **TM47** Steel Wing
  - **TM49** Snatch
 
-## ![](https://serebii.net/emerald/pokemon/043.png) Golbat
+## ![](https://serebii.net/emerald/pokemon/042.png) Golbat
 ☠️ Poison \ Flying 🪽 | Inner Focus | Evolves with Friendship
 
 ### Stats

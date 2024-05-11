@@ -13,6 +13,8 @@ Link hub for Johto Pokemon updates, in national dex order.
 ![](https://serebii.net/pokedex-dp/icon/165.gif)![](https://serebii.net/pokedex-dp/icon/166.gif) [Ledyba, Ledian](/joyfuljohto/pokemon/ledyba)  
 ![](https://serebii.net/pokedex-dp/icon/167.gif)![](https://serebii.net/pokedex-dp/icon/168.gif) [Spinarak, Ariados](/joyfuljohto/pokemon/spinarak)  
 ![](https://serebii.net/pokedex-dp/icon/041.gif)![](https://serebii.net/pokedex-dp/icon/042.gif)![](https://serebii.net/pokedex-dp/icon/169.gif) [Zubat, Golbat, Crobat](/joyfuljohto/pokemon/zubat)  
+![](https://serebii.net/pokedex-dp/icon/173.gif)![](https://serebii.net/pokedex-dp/icon/035.gif)![](https://serebii.net/pokedex-dp/icon/036.gif) [Cleffa, Clefairy, Clefable](/joyfuljohto/pokemon/cleffa)  
+![](https://serebii.net/pokedex-dp/icon/174.gif)![](https://serebii.net/pokedex-dp/icon/039.gif)![](https://serebii.net/pokedex-dp/icon/040.gif) [Igglybuff, Jigglypuff, Wigglytuff](/joyfuljohto/pokemon/igglybuff)  
 ![](https://serebii.net/pokedex-dp/icon/043.gif)![](https://serebii.net/pokedex-dp/icon/044.gif)![](https://serebii.net/pokedex-dp/icon/045.gif)![](https://serebii.net/pokedex-dp/icon/182.gif) [Oddish, Gloom, Vileplume, Bellossom](/joyfuljohto/pokemon/oddish)  
 ![](https://serebii.net/pokedex-dp/icon/298.gif)![](https://serebii.net/pokedex-dp/icon/183.gif)![](https://serebii.net/pokedex-dp/icon/184.gif) [Azurill, Marill, Azumarill](/joyfuljohto/pokemon/azurill)  
 ![](https://serebii.net/pokedex-dp/icon/060.gif)![](https://serebii.net/pokedex-dp/icon/061.gif)![](https://serebii.net/pokedex-dp/icon/062.gif)![](https://serebii.net/pokedex-dp/icon/186.gif) [Poliwag, Poliwhirl, Poliwrath, Politoed](/joyfuljohto/pokemon/poliwag)  

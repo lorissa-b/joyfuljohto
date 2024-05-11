@@ -63,7 +63,7 @@ title: Poliwag, Poliwhirl, Poliwrath, and Politoed
  - **HM07** Waterfall
  - **HM08** Dive
 
- ## ![](https://serebii.net/emerald/pokemon/061.png) Poliwhirl
+## ![](https://serebii.net/emerald/pokemon/061.png) Poliwhirl
 💧 Water | Damp / Water Absorb | Evolves with Water Stone / Evolves with King's Rock
 
 ### Stats

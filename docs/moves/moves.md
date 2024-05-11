@@ -11,14 +11,17 @@ order: 2
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
+| **Bug Bite**{: style="color: orange"} | 20 | 60 | 100 | Bites the target. Will eat the target's berry. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Fury Cutter | 20 | 10 | 95 | An attack that intensifies on each successive hit. |
 | Leech Life | 15 | 20 | 100 | An attack that steals half the damage inflicted. |
 | Megahorn | 10 | 120 | 85 | A brutal ramming attack using out-thrust horns. |
 | Pin Missile | 20 | 14 | 85 | Sharp pins are fired to strike 2 to 5 times. |
+| **Quiver Dance**{: style="color: orange"} | 20 | | | Performs a mystical dance. Boosts SP.ATK, SP.DEF, and SPD. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Signal Beam | 15 | 75 | 100 | A strange beam attack that may confuse the foe. |
 | Silver Wind | 5 | 60 | 100 | A powdery attack that may raise abilities. |
 | Spider Web | 10 |  | 100 | Ensnares the foe to stop it from fleeing or switching. |
 | String Shot | 40 |  | 95 | Binds the foe with string to reduce its SPEED. |
+| **Struggle Bug**{: style="color: orange"} | 20 | 50 | 100 | Attacks the opponent while resisting. Lowers SP. ATK. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Tail Glow | 20 |  | 100 | Flashes a light that sharply raises SP. ATK. |
 | Twineedle | 20 | 25 | 100 | Stingers on the forelegs jab the foe twice. |
 | **X-Scissor**{: style="color: orange"} | 15 | 80 | 100 | Slashes at the foe with a pair of crossed scythes or claws. |
@@ -132,8 +135,10 @@ order: 2
 | Featherdance | 15 |  | 100 | Envelops the foe with down to sharply reduce ATTACK. |
 | Fly | 15 | 70 | 95 | Flies up on the first turn, then strikes the next turn. |
 | Gust | 35 | 40 | 100 | Strikes the foe with a gust of wind whipped up by wings. |
+| **Hurricane** | 10 | 110 | 70 | Wraps the opponent in a fierce wind and flies up. May confuse. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Mirror Move | 20 |  |  | Counters the foe's attack with the same move. |
 | Peck | 35 | 35 | 100 | Attacks the foe with a jabbing beak, etc. |
+| **Roost**{: style="color: orange"} | 10 | | | The user lands and rests. Restores the user's HP. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Sky Attack | 5 | 140 | 90 | Searches out weak spots, then strikes the next turn. |
 | Wing Attack | 35 | 60 | 100 | Strikes the foe with wings spread wide. |
 
@@ -191,6 +196,7 @@ order: 2
 | Earthquake | 10 | 100 | 100 | A powerful quake, but has no effect on flying foes. |
 | Fissure | 5 |  | 30 | A one-hit KO move that drops the foe in a fissure. |
 | Magnitude | 30 |  | 100 | A ground-shaking attack of random intensity. |
+| **Mud Bomb**{: style="color: orange"} | 10 | 65 | 85 | Launches a hard-packed ball of mud. May lower ACC. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Mud Shot | 15 | 55 | 95 | Hurls mud at the foe and reduces SPEED. |
 | Mud Sport | 15 |  | 100 | Covers the user in mud to raise electrical resistance. |
 | Mud-Slap | 10 | 20 | 100 | Hurls mud in the foe's face to reduce its accuracy. |
@@ -255,6 +261,7 @@ order: 2
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
 | Doom Desire | 5 | 120 | 85 | Summons strong sunlight to attack 2 turns later. |
+| **Gyro Ball**{: style="color: orange"} | 5 |  | 100 | Attacks the target with a high-speed spin. The slower the user the stronger. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Iron Defense | 15 |  |  | Hardens the body's surface to sharply raise DEFENSE. |
 | Iron Tail | 15 | 100 | 75 | Attacks with a rock-hard tail. May lower DEFENSE. |
 | Metal Claw | 35 | 50 | 95 | A claw attack that may raise the user's ATTACK. |

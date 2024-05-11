@@ -159,7 +159,7 @@ title: Oddish, Gloom, Vileplume, and Bellossom
  - **HM01** Cut
  - **HM05** Flash
 
- ## ![](https://serebii.net/emerald/pokemon/182.png) Bellossom
+## ![](https://serebii.net/emerald/pokemon/182.png) Bellossom
 🌱 Grass | Chlorophyll | Final Evolution
 
 ### Stats
