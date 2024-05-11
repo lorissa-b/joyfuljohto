@@ -1,0 +1,14 @@
+mapscripts Route46_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: SetTimeEncounters
+    MAP_SCRIPT_ON_RESUME: SetTimeEncounters
+}
+
+script Route46_LowerSign {
+    msgbox(format("Route 46"))
+    release
+}
+
+script Route46_LowerWoman {
+    msgbox(format("I'm hunting for rare Pokemon!"))
+    release
+}

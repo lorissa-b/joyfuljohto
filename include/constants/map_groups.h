@@ -70,6 +70,7 @@
 #define MAP_UNDERWATER_ROUTE129 (61 | (0 << 8))
 #define MAP_UNDERWATER_ROUTE105 (62 | (0 << 8))
 #define MAP_UNDERWATER_ROUTE125 (63 | (0 << 8))
+#define MAP_ROUTE46             (64 | (0 << 8))
 
 // gMapGroup_IndoorNewBark
 #define MAP_PLAYER_HOUSE                     (0 | (1 << 8))

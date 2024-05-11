@@ -4640,6 +4640,16 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/DarkCave_Route31/border.bin",
       "blockdata_filepath": "data/layouts/DarkCave_Route31/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE46",
+      "name": "Route46_Layout",
+      "width": 28,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route46/border.bin",
+      "blockdata_filepath": "data/layouts/Route46/map.bin"
     }
   ]
 }

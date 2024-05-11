@@ -1102,3 +1102,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/VioletCity_FalknerGym/scripts.inc"
 
 	.include "data/maps/DarkCave_Route31/scripts.inc"
+
+	.include "data/maps/Route46/scripts.inc"
