@@ -26,7 +26,7 @@ order: 35
 
 | | Item | Location |
 |:---:|---:|:---|
-| Placeholder | Placeholder |
+| | Placeholder | Placeholder |
 
 ## Trainers
 None
