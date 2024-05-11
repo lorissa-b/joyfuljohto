@@ -127,6 +127,7 @@ order: 2
 | Air Cutter | 25 | 55 | 95 | Hacks with razorlike wind. High critical-hit ratio. |
 | **Air Slash**{: style="color: orange"} | 20 | 75 | 95 | Attacks with a blade of air to slice the sky. May flinch. |
 | Bounce | 5 | 85 | 85 | Bounces up, then down the next turn. May paralyze. |
+| **Brave Bird**{: style="color: orange"} | 15 | 120 | 100 | Tucks in its wings and charges from a low altitude. Damages the user. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Drill Peck | 20 | 80 | 100 | A corkscrewing attack with the beak acting as a drill. |
 | Featherdance | 15 |  | 100 | Envelops the foe with down to sharply reduce ATTACK. |
 | Fly | 15 | 70 | 95 | Flies up on the first turn, then strikes the next turn. |

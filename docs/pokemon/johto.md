@@ -18,5 +18,6 @@ Link hub for Johto Pokemon updates, in national dex order.
 ![](https://serebii.net/pokedex-dp/icon/060.gif)![](https://serebii.net/pokedex-dp/icon/061.gif)![](https://serebii.net/pokedex-dp/icon/062.gif)![](https://serebii.net/pokedex-dp/icon/186.gif) [Poliwag, Poliwhirl, Poliwrath, Politoed](/joyfuljohto/pokemon/poliwag)  
 ![](https://serebii.net/pokedex-dp/icon/187.gif)![](https://serebii.net/pokedex-dp/icon/188.gif)![](https://serebii.net/pokedex-dp/icon/189.gif) [Hoppip, Skiploom, Jumpluff](/joyfuljohto/pokemon/hoppip)  
 ![](https://serebii.net/pokedex-dp/icon/191.gif)![](https://serebii.net/pokedex-dp/icon/192.gif) [Sunkern, Sunflora](/joyfuljohto/pokemon/sunkern)  
-![](https://serebii.net/pokedex-dp/icon/194.gif)![](https://serebii.net/pokedex-dp/icon/1952.gif) [Wooper, Quagsire](/joyfuljohto/pokemon/wooper)  
+![](https://serebii.net/pokedex-dp/icon/194.gif)![](https://serebii.net/pokedex-dp/icon/195.gif) [Wooper, Quagsire](/joyfuljohto/pokemon/wooper)  
+![](https://serebii.net/pokedex-dp/icon/198.gif)![](https://serebii.net/pokedex-dp/icon/430.gif) [Murkrow, Honchkrow](/joyfuljohto/pokemon/murkrow)  
 ![](https://serebii.net/pokedex-dp/icon/231.gif)![](https://serebii.net/pokedex-dp/icon/232.gif) [Phanpy, Donphan](/joyfuljohto/pokemon/phanpy)

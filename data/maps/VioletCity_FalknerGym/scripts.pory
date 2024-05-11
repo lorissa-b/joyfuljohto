@@ -1,0 +1,61 @@
+mapscripts VioletCity_FalknerGym_MapScripts {}
+
+script Falkner_GymGuide {
+    if(!flag(FLAG_DEFEATED_VIOLET_GYM)) {
+        msgbox(format("Heya, champ in the making! This gym belongs to Falkner, the bird Pokemon master. He uses flying type Pokemon! Do you want a tip?"), MSGBOX_YESNO)
+        if(var(VAR_RESULT)) {
+            msgbox(format("Ice, electric, and rock moves are all good against flying type Pokemon. Avoid using ground type moves though, those can't hit at all!"))
+        }
+        if(flag(FLAG_FALKNER_GYM_POTION)) {
+            msgbox(format("Alright! Here, take a potion on me."))
+            giveitem(ITEM_POTION)
+            setflag(FLAG_FALKNER_GYM_POTION)
+        }
+    }
+    else {
+        msgbox(format("Well done! You're going to do great things!"))
+    }
+    releaseall
+}
+
+script Falkner_BirdKeeperAbe_Trainer {
+    if(!flag(FLAG_DEFEATED_VIOLET_GYM)) {
+        trainerbattle_single(TRAINER_ABE, format("You'll never be ready to face Falkner - not even in a thousand lightyears!"), format("Wait, light years measure distance, not time!"))
+    } else {
+        msgbox(format("Nicely done! Not many people could beat Falkner like that."))
+    }
+    releaseall
+}
+
+script Falkner_BirdKeeperRod_Trainer {
+    if(!flag(FLAG_DEFEATED_VIOLET_GYM)) {
+        trainerbattle_single(TRAINER_ROD, format("Get ready to face the strength of my bird Pokemon!"), format("We were completely overwhelmed..."))
+    } else {
+        msgbox(format("Wow! You're incredible!"))
+    }
+    releaseall
+}
+
+script Falkner_BirdKeeperFredrick_Trainer {
+    if(!flag(FLAG_DEFEATED_VIOLET_GYM)) {
+        trainerbattle_single(TRAINER_FREDRICK, format("If you want to face Falkner, you have to go through me!"), format("I wasn't as much of a block as I thought."))
+    } else {
+        msgbox(format("Falkner was no match for you either!"))
+    }
+    releaseall
+}
+
+script Falkner_GymLeaderFalkner_Trainer {
+    if(!flag(FLAG_DEFEATED_VIOLET_GYM)) {
+        trainerbattle_single(TRAINER_FALKNER_1, format("I'm Falkner, the Violet City Pokemon Gym Leader! People say you can clip Flying-type Pokemon's wings with a joly of electricity... I won't allow such insults to bird Pokemon! I'll show you the real power of the magnificent bird Pokemon!"), format("I understand... I'll bow out gracefully."))
+        msgbox(format("... For pity's sake! My dad's cherished bird Pokemon... But a defeat is a defeat. All right. Take this official Pokemon League Badge. This one is the Zephyr Badge. With that Badge, Pokemon, including traded Pokemon up to Lv. 20, will obey you without question. It also enables you to use the hidden move Rock Smash anytime outside of battle."))
+        msgbox(format("By using a TM, a Pokemon will instantly learn a new move. TMs can be used any number of times you want! TM40 contains Aerial Ace. It can never miss."))
+        giveitem(ITEM_TM40)
+        msgbox(format("There are Pokemon Gyms in cities and towns ahead. Make good use of them! As for your next move... I would suggest Azalea Town."))
+        setflag(FLAG_DEFEATED_VIOLET_GYM)
+    }
+    else {
+        msgbox(format("There are Pokemon Gyms in cities and towns ahead. Make good use of them! As for your next move... I would suggest Azalea Town. I'm going to train harder to become the greatest Bird Keeper of all!"))
+    }
+    releaseall
+}

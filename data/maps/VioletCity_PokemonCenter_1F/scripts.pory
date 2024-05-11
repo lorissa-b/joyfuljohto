@@ -1,0 +1,18 @@
+mapscripts VioletCity_PokemonCenter_1F_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION {
+        setrespawn(HEAL_LOCATION_VIOLET_CITY)
+    }
+}
+
+script VioletCity_PkmCenter_Nurse {
+    setvar(VAR_0x800B, 1)
+    call(Common_EventScript_PkmnCenterNurse)
+    waitmessage
+    waitbuttonpress
+    release
+}
+
+script VioletCity_PkmCenter_Lass {
+    msgbox(format("Have you checked out the gym yet? You have to walk on such a high platform, it's scary!"))
+    release
+}

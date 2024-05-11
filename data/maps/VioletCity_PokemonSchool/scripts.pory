@@ -1,0 +1,79 @@
+mapscripts VioletCity_PokemonSchool_MapScripts {}
+
+script PkmSchool_Teacher {
+    // give item lum berry
+    msgbox(format("I teach here at the Violet City Pokemon School. Feel free to read the blackboard, or talk with some of my students."))
+    if(!flag(FLAG_RECEIVED_LUM_BERRY)) {
+        msgbox(format("And here, have a berry to help you out! You can either plant it or use it."))
+        giveitem(ITEM_LUM_BERRY)
+        setflag(FLAG_RECEIVED_LUM_BERRY)
+    }
+    releaseall
+}
+
+script PkmSchool_GameboyKid {
+    msgbox(format("I'm from Hoenn, and trying to get more local Pokemon. Do you want to trade your Sentret for my Zigzagoon?"))
+    release
+}
+
+script PkmSchool_Schoolkid {
+    msgbox(format("Sssshhh! I'm trying to pay attention to the lesson!"))
+    release
+}
+
+script PkmSchool_Boy2 {
+    msgbox(format("School is so boring! I'd rather be outside playing with my Ledyba!"))
+    release
+}
+
+script PkmSchool_Girl {
+    msgbox(format("My book says that flying Pokemon are weak to electric, ground, and ice type moves! Did you know that?"))
+    release
+}
+
+script PkmSchool_Lass {
+    msgbox(format("My Teddiursa got lost in the Dark Cave, and I'm too scared to go find her! Can you help me?"))
+    release
+}
+
+script PkmSchool_Boy1 {
+    msgbox(format("You need a Pokemon with Flash or a flashlight to make it through the Dark Cave! It's spooky in there."))
+    release
+}
+
+script PkmSchool_Blackboard {
+    lockall
+    msgbox(format("The blackboard lists status changes that may affect a Pokemon in battle."))
+    call(PkmSchool_Blackboard_ChooseStatus)
+}
+
+script PkmSchool_Blackboard_ChooseStatus {
+    msgbox(format("Which status would you like to read about?"))
+    multichoicegrid(8, 1, MULTI_STATUS_INFO, 3, FALSE)
+    switch (var(VAR_RESULT)) {
+        case 0:
+            // poison
+            msgbox(format("If a Pokemon is poisoned, it will steadily lose HP. The effects of poison last outside of battle. A poisoned Pokemon will lose HP while traveling. Use an Antidote to heal poison."))
+            call(PkmSchool_Blackboard_ChooseStatus)
+        case 1:
+            // paralysis
+            msgbox(format("If a Pokemon becomes paralyzed, its speed drops. It may also not be able to move while it is in battle. Paralysis remains after battle. Use a Paralyze Heal to cure paralysis."))
+            call(PkmSchool_Blackboard_ChooseStatus)
+        case 2:
+            // sleep
+            msgbox(format("If a Pokemon falls asleep, it will be unable to attack. A Pokemon may wake up on its own, but if a battle ends while it is sleeping, it will stay sleeping. Cure sleep with an Awakening."))
+            call(PkmSchool_Blackboard_ChooseStatus)
+        case 3:
+            // burn
+            msgbox(format("A burn reduces attack power, as well as steadily reducing a Pokemon's health. A burn lingers after battle, but does not hurt a Pokemon during travel. Use a Burn Heal to cure a burn."))
+            call(PkmSchool_Blackboard_ChooseStatus)
+        case 4:
+            // freeze
+            msgbox(format("If a Pokemon is frozen, it becomes completely helpless. It will remain frozen after battle. Thaw it out using an Ice Heal."))
+            call(PkmSchool_Blackboard_ChooseStatus)
+        case 5:
+        case MULTI_B_PRESSED:
+            releaseall
+            // exit
+    }
+}

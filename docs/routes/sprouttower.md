@@ -11,6 +11,7 @@ order: 39
 | Gastly | 🪜 Floor 1-3 | 1 - 1 | 0% | 0% | 10% | 10% |
 | Meditite | 🪜 Floor 1-3 | 1 - 1 | 10% | 10% | 10% | 10% |
 | Hoothoot | 🪜 Floor 3 | 1 - 1 | 10% | 10% | 10% | 10% |
+| Chingling | 🪜 Floor 1-3 | 1 - 1 | 10% | 10% | 10% | 10% |
 | Cleffa | 🪜 Floor 1 - 3 | 1 - 1 | 1% | 1% | 1% | 1% |
 
 ## Items

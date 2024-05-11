@@ -16,7 +16,7 @@
 #define TRAINER_DON                          12 // route 30
 #define TRAINER_CHOW                         13 // sprout tower 2f
 #define TRAINER_GRUNT_SEAFLOOR_CAVERN_4      14
-#define TRAINER_DECLAN                       15
+#define TRAINER_ABE                          15 // falkner gym trainer 1
 #define TRAINER_GRUNT_RUSTURF_TUNNEL         16
 #define TRAINER_GRUNT_WEATHER_INST_1         17
 #define TRAINER_GRUNT_WEATHER_INST_2         18
@@ -30,7 +30,7 @@
 #define TRAINER_GRUNT_WEATHER_INST_4         26
 #define TRAINER_GRUNT_AQUA_HIDEOUT_5         27
 #define TRAINER_GRUNT_AQUA_HIDEOUT_6         28
-#define TRAINER_FREDRICK                     29
+#define TRAINER_FREDRICK                     29 // falkner gym trainer 3
 #define TRAINER_MATT                         30
 #define TRAINER_ZANDER                       31
 #define TRAINER_SHELLY_WEATHER_INSTITUTE     32
@@ -166,7 +166,7 @@
 #define TRAINER_STAN                        162
 #define TRAINER_BARRY                       163
 #define TRAINER_DEAN                        164
-#define TRAINER_RODNEY                      165
+#define TRAINER_ROD                         165 // falkner gym trainer 2
 #define TRAINER_RICHARD                     166
 #define TRAINER_HERMAN                      167
 #define TRAINER_SANTIAGO                    168
@@ -266,7 +266,7 @@
 #define TRAINER_PHOEBE                      262
 #define TRAINER_GLACIA                      263
 #define TRAINER_DRAKE                       264
-#define TRAINER_ROXANNE_1                   265
+#define TRAINER_FALKNER_1                   265 // falkner, obviously
 #define TRAINER_BRAWLY_1                    266
 #define TRAINER_WATTSON_1                   267
 #define TRAINER_FLANNERY_1                  268
@@ -771,10 +771,10 @@
 #define TRAINER_CRISTIN_1                   767
 #define TRAINER_MAY_RUSTBORO_TREECKO        768
 #define TRAINER_MAY_RUSTBORO_TORCHIC        769
-#define TRAINER_ROXANNE_2                   770
-#define TRAINER_ROXANNE_3                   771
-#define TRAINER_ROXANNE_4                   772
-#define TRAINER_ROXANNE_5                   773
+#define TRAINER_FALKNER_2                   770 // falkner rematch 1
+#define TRAINER_FALKNER_3                   771 // falkner rematch 2
+#define TRAINER_FALKNER_4                   772 // falkner rematch 3
+#define TRAINER_FALKNER_5                   773 // falkner rematch 4
 #define TRAINER_BRAWLY_2                    774
 #define TRAINER_BRAWLY_3                    775
 #define TRAINER_BRAWLY_4                    776
