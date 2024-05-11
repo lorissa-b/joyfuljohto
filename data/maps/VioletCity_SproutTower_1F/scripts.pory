@@ -3,7 +3,27 @@ mapscripts VioletCity_SproutTower_1F_MapScripts {
     MAP_SCRIPT_ON_RESUME: SetTimeEncounters
 }
 
+script SproutTower_1F_OldLady {
+    msgbox(format("Welcome to the Sprout Tower. This is a place of great significance in the Johto region."))
+    release
+}
+
+script SproutTower_1F_Tourist {
+    msgbox(format("They say the middle of this tower is made of a giant Bellsprout... Do you think it could be true?"))
+    release
+}
+
+script SproutTower_1F_OldMan1 {
+    msgbox(format("The tower is filled with wild Pokemon. Be careful!"))
+    release
+}
+
+script SproutTower_1F_OldMan2 {
+    msgbox(format("The monks use this tower to train. It's a good place for you to cultivate your own skills."))
+    release
+}
+
 script SproutTower_1F_NicoTrainer {
-    trainerbattle_single(TRAINER_NICO, format(""), format(""))
+    trainerbattle_single(TRAINER_NICO, format("You better watch out, child! The monks here are strong."), format("You may be strong enough after all."))
     release
 }

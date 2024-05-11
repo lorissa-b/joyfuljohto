@@ -13064,67 +13064,67 @@
           "map": "MAP_VIOLET_CITY_SPROUT_TOWER_2F",
           "base_label": "gVioletCity_SproutTower_2F_Day",
           "land_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 20,
             "mons": [
               {
                 "min_level": 6,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 6,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 6,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 6,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
+              },
+              {
+                "min_level": 7,
+                "max_level": 8,
+                "species": "SPECIES_BELLSPROUT"
+              },
+              {
+                "min_level": 6,
+                "max_level": 8,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 6,
+                "max_level": 8,
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_MEDITITE"
               },
               {
                 "min_level": 6,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 6,
-                "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CHIMECHO"
               },
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CLEFFA"
               }
             ]
           }
@@ -13133,67 +13133,67 @@
           "map": "MAP_VIOLET_CITY_SPROUT_TOWER_2F",
           "base_label": "gVioletCity_SproutTower_2F_Evening",
           "land_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 20,
             "mons": [
               {
                 "min_level": 6,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
-                "min_level": 7,
+                "min_level": 6,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 6,
-                "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 6,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 6,
-                "max_level": 6,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 6,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 7,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 6,
-                "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 6,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 6,
+                "max_level": 8,
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_MEDITITE"
+              },
+              {
+                "min_level": 6,
+                "max_level": 7,
+                "species": "SPECIES_CHIMECHO"
               },
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CLEFFA"
               }
             ]
           }
@@ -13202,67 +13202,67 @@
           "map": "MAP_VIOLET_CITY_SPROUT_TOWER_2F",
           "base_label": "gVioletCity_SproutTower_2F_Night",
           "land_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 20,
             "mons": [
               {
                 "min_level": 6,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 6,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 6,
-                "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 6,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 6,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
-                "min_level": 6,
-                "max_level": 6,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "min_level": 7,
+                "max_level": 8,
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 6,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 6,
+                "max_level": 8,
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_MEDITITE"
+              },
+              {
+                "min_level": 6,
+                "max_level": 7,
+                "species": "SPECIES_CHIMECHO"
               },
               {
                 "min_level": 6,
                 "max_level": 6,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CLEFFA"
               }
             ]
           }
@@ -13345,62 +13345,62 @@
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 7,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 9,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_HOOTHOOT"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 8,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
+              },
+              {
+                "min_level": 7,
+                "max_level": 8,
+                "species": "SPECIES_BELLSPROUT"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 7,
+                "max_level": 8,
+                "species": "SPECIES_MEDITITE"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 8,
+                "max_level": 8,
+                "species": "SPECIES_CHIMECHO"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CLEFFA"
               }
             ]
           }
@@ -13414,62 +13414,62 @@
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 7,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 8,
+                "max_level": 8,
+                "species": "SPECIES_HOOTHOOT"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 8,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 7,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 9,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 7,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_HOOTHOOT"
               },
               {
                 "min_level": 7,
-                "max_level": 7,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
+                "max_level": 8,
+                "species": "SPECIES_MEDITITE"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 8,
+                "max_level": 8,
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 7,
+                "max_level": 7,
+                "species": "SPECIES_CLEFFA"
               }
             ]
           }
@@ -13483,62 +13483,62 @@
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 7,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 9,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 8,
-                "species": "SPECIES_NONE"
-              },
-              {
-                "min_level": 7,
-                "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_RATTATA"
               },
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_HOOTHOOT"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
-                "min_level": 9,
+                "min_level": 8,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
               },
               {
                 "min_level": 7,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_GASTLY"
+              },
+              {
+                "min_level": 7,
+                "max_level": 9,
+                "species": "SPECIES_HOOTHOOT"
               },
               {
                 "min_level": 7,
                 "max_level": 8,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_MEDITITE"
               },
               {
                 "min_level": 7,
                 "max_level": 7,
-                "species": "SPECIES_NONE"
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 8,
+                "max_level": 8,
+                "species": "SPECIES_CHIMECHO"
+              },
+              {
+                "min_level": 7,
+                "max_level": 7,
+                "species": "SPECIES_CLEFFA"
               }
             ]
           }

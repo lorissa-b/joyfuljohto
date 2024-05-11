@@ -3,3 +3,22 @@ mapscripts VioletCity_SproutTower_3F_MapScripts {
     MAP_SCRIPT_ON_RESUME: SetTimeEncounters
 }
 
+script SproutTower_3F_JinTrainer {
+    trainerbattle_single(TRAINER_JIN, format("If you can get through us, you really are strong."), format("I'm the first to fall."))
+    release
+}
+
+script SproutTower_3F_NealTrainer {
+    trainerbattle_single(TRAINER_NEAL, format("We make sure only the best can meet the Sage."), format("You might just be the best."))
+    release
+}
+
+script SproutTower_3F_TroyTrainer {
+    trainerbattle_single(TRAINER_TROY, format("I'm your final obstacle!"), format("And I was the last to go."))
+    release
+}
+
+script SproutTower_3F_LiTrainer {
+    trainerbattle_single(TRAINER_LI, format("It takes a true friend of Pokemon to defeat me in battle."), format("You must cherish your Pokemon!"))
+    release
+}

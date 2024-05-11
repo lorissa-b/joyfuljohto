@@ -4,6 +4,11 @@ mapscripts VioletCity_SproutTower_2F_MapScripts {
 }
 
 script SproutTower_2F_ChowTrainer {
-    trainerbattle_single(TRAINER_CHOW, format(""), format(""))
+    trainerbattle_single(TRAINER_CHOW, format("My Pokemon are not to be trifled with!"), format("Perhaps I need more training..."))
+    release
+}
+
+script SproutTower_2F_EdmondTrainer {
+    trainerbattle_single(TRAINER_EDMOND, format("I've been training here for fifty years!"), format("Fifty wasn't long enough."))
     release
 }

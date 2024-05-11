@@ -36,11 +36,11 @@
 #define TRAINER_SHELLY_WEATHER_INSTITUTE     32
 #define TRAINER_SHELLY_SEAFLOOR_CAVERN       33
 #define TRAINER_ARCHIE                       34
-#define TRAINER_LEAH                         35
-#define TRAINER_DAISY                        36
+#define TRAINER_JIN                          35 // sprout tower 3f
+#define TRAINER_NEAL                         36 // sprout tower 3f
 #define TRAINER_ROSE_1                       37
-#define TRAINER_FELIX                        38
-#define TRAINER_VIOLET                       39
+#define TRAINER_TROY                         38 // sprout tower 3f
+#define TRAINER_LI                           39 // sprout tower 3f - boss
 #define TRAINER_ROSE_2                       40
 #define TRAINER_ROSE_3                       41
 #define TRAINER_ROSE_4                       42
@@ -492,7 +492,7 @@
 #define TRAINER_AMY_AND_LIV_5               488
 #define TRAINER_AMY_AND_LIV_6               489
 #define TRAINER_HUEY                        490
-#define TRAINER_EDMOND                      491
+#define TRAINER_EDMOND                      491 // sprout tower 2f
 #define TRAINER_ERNEST_1                    492
 #define TRAINER_DWAYNE                      493
 #define TRAINER_PHILLIP                     494
