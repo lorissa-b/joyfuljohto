@@ -54,6 +54,7 @@ order: 2
 | Dragon Claw | 15 | 80 | 100 | Slashes the foe with sharp claws. |
 | Dragon Dance | 20 |  |  | A mystical dance that ups ATTACK and SPEED. |
 | Dragon Rage | 10 |  | 100 | Launches shock waves that always inflict 40 HP damage. |
+| **Dragon Rush**{: style="color: orange"} | 10 | 100 | 75 | Tackles the target with overwhelming menace. May cause flinching. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Dragonbreath | 20 | 60 | 100 | Strikes the foe with an incredible blast of breath. |
 | Outrage | 15 | 90 | 100 | A rampage of 2 to 3 turns that confuses the user. |
 | Twister | 20 | 40 | 100 | Whips up a vicious twister to tear at the foe. |
@@ -86,6 +87,7 @@ order: 2
 | Double Kick | 30 | 30 | 100 | A double-kicking attack that strikes the foe twice. |
 | Dynamicpunch | 5 | 100 | 50 | Powerful and sure to cause confusion, but inaccurate. |
 | Focus Punch | 20 | 150| 100 | A powerful loyalty attack. The user flinches if hit. |
+| **Force Palm**{: style="color: orange"} | 10 | 60 | 100 | Attacks with a shock wave. May cause paralysis. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Hi Jump Kick | 20 | 85 | 90 | A jumping knee kick. If it misses, the user is hurt. |
 | Jump Kick | 25 | 70 | 95 | A strong jumping kick. May miss and hurt the kicker. |
 | Karate Chop | 25 | 50 | 100 | A chopping attack with a high critical-hit ratio.|
@@ -184,6 +186,7 @@ order: 2
 | Stun Spore | 30 |  | 75 | Scatters a powder that may paralyze the foe. |
 | Synthesis | 5 |  |  | Restores HP. The amount varies with the weather. |
 | Vine Whip | 10 | 35 | 100 | Strikes the foe with slender, whiplike vines. |
+| **Worry Seed**{: style="color: orange"} | 10 |  | 100 | A seed that causes worry is planted. Prevents sleep. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
 ## Ground ⛰️
 
@@ -224,6 +227,11 @@ order: 2
 
 ## Normal ⚪
 
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| **Natural Gift**{: style="color: orange"} | 15 |  | 100 | Draws power from the held berry. Berry determines type and power. <br /> **NOTE: NOT IMPLEMENTED YET** |
+| **Shell Smash**{: style="color: orange"} | 15 |  |  | User breaks its shell. Lowers DEF and SP.DEF, but raises ATK, SP.ATK, and SPD. <br /> **NOTE: NOT IMPLEMENTED YET** |
+
 ## Poison ☠️
 
 | Name | PP | Att. | Acc. | Effect |
@@ -243,6 +251,9 @@ order: 2
 | **Venoshock**{: style="color: orange"} | 10 | 65 | 100 | Drenches the target in poison. Stronger if the target is poisoned. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
 ## Psychic 🌸
+| Name | PP | Att. | Acc. | Effect |
+|---:|:---:|:---:|:---:|---:|
+| **Psystrike**{: style="color: orange"} | 10 | 100 | 100 | Materializes an odd psychic wave to attack. Does physical damage. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
 ## Rock 🪨
 
@@ -255,6 +266,7 @@ order: 2
 | Rock Tomb | 10 | 50 | 80 | Stops the foe from moving with rocks and cuts SPEED. |
 | Rollout | 20 | 30 | 90 | An attack lasting 5 turns with rising intensity. |
 | Sandstorm | 10 |  |  | Causes a sandstorm that rages for several turns. |
+| **Stone Edge**{: style="color: orange"} | 5 | 100 | 80 | Stabs the target from below with sharp stones. Crits easily. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
 ## Steel ⚙️
 

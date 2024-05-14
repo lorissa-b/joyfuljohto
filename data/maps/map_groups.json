@@ -105,7 +105,8 @@
     "Underwater_Route129",
     "Underwater_Route105",
     "Underwater_Route125",
-    "Route46"
+    "Route46",
+    "Route32"
   ],
   "gMapGroup_IndoorNewBark": [
     "PlayerHouse",
@@ -469,7 +470,10 @@
     "TerraCave_End",
     "AlteringCave",
     "MeteorFalls_StevensCave",
-    "DarkCave_Route31"
+    "DarkCave_Route31",
+    "UnionCave_1F",
+    "UnionCave_B1F",
+    "UnionCave_B2F"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

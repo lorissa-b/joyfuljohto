@@ -22,4 +22,6 @@ Link hub for Johto Pokemon updates, in national dex order.
 ![](https://serebii.net/pokedex-dp/icon/191.gif)![](https://serebii.net/pokedex-dp/icon/192.gif) [Sunkern, Sunflora](/joyfuljohto/pokemon/sunkern)  
 ![](https://serebii.net/pokedex-dp/icon/194.gif)![](https://serebii.net/pokedex-dp/icon/195.gif) [Wooper, Quagsire](/joyfuljohto/pokemon/wooper)  
 ![](https://serebii.net/pokedex-dp/icon/198.gif)![](https://serebii.net/pokedex-dp/icon/430.gif) [Murkrow, Honchkrow](/joyfuljohto/pokemon/murkrow)  
+![](https://serebii.net/pokedex-dp/icon/206.gif) [Dunsparce](/joyfuljohto/pokemon/dunsparce)  
+![](https://serebii.net/pokedex-dp/icon/213.gif) [Shuckle](/joyfuljohto/pokemon/shuckle)  
 ![](https://serebii.net/pokedex-dp/icon/231.gif)![](https://serebii.net/pokedex-dp/icon/232.gif) [Phanpy, Donphan](/joyfuljohto/pokemon/phanpy)

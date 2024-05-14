@@ -2,8 +2,8 @@
 unlisted: true
 title: Hoppip, Skiploom, and Jumpluff
 ---
-## Hoppip
-Grass / Flying | Chlorophyll | Evolves at 18
+## ![](https://serebii.net/emerald/pokemon/187.png) Hoppip
+🌱 Grass / Flying 🪽 | Chlorophyll | Evolves at 18
 
 ### Stats
 
@@ -15,21 +15,21 @@ Grass / Flying | Chlorophyll | Evolves at 18
 
 | Level | Move |
 |---:|:---|
-| 1 | Absorb |
-| 1 | Charm |
-| 6 | Gust |
-| 9 | Stun Spore |
-| 12 | Leech Seed |
-| 13 | Mega Drain |
-| 15 | Swift |
-| 20 | Poison Powder |
-| 22 | Cotton Spore |
-| 26 | Giga Drain |
-| 30 | Silver Wind |
-| 33 | Sleep Powder |
-| 38 | Synthesis |
-| 42 | Bounce |
-| 47 | Memento |
+| **1** | Absorb |
+| **1** | Charm |
+| **6** | Gust |
+| **9** | Stun Spore |
+| **12** | Leech Seed |
+| **13** | Mega Drain |
+| **15** | Swift |
+| **20** | Poison Powder |
+| **22** | Cotton Spore |
+| **26** | Giga Drain |
+| **30** | Silver Wind |
+| **33** | Sleep Powder |
+| **38** | Synthesis |
+| **42** | Bounce |
+| **47** | Memento |
 
 ### Egg Moves
  - Confusion
@@ -41,25 +41,25 @@ Grass / Flying | Chlorophyll | Evolves at 18
  - Psych Up
 
 ### TMs / HMs
- - TM06 Toxic
- - TM90 Bullet Seed
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM17 Protect
- - TM19 Giga Drain
- - TM21 Frustration
- - TM22 Solarbeam
- - TM27 Return
- - TM32 Double Team
- - TM40 Aerial Ace
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - HM05 Flash
+ - **TM06** Toxic
+ - **TM90** Bullet Seed
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM17** Protect
+ - **TM19** Giga Drain
+ - **TM21** Frustration
+ - **TM22** Solarbeam
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM40** Aerial Ace
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **HM05** Flash
 
-## Skiploom
-Grass / Flying | Chlorophyll | Evolves at 27
+## ![](https://serebii.net/emerald/pokemon/188.png) Skiploom
+🌱 Grass / Flying 🪽 | Chlorophyll | Evolves at 27
 
 ### Stats
 
@@ -71,21 +71,21 @@ Grass / Flying | Chlorophyll | Evolves at 27
 
 | Level | Move |
 |---:|:---|
-| 1 | Absorb |
-| 1 | Charm |
-| 6 | Gust |
-| 9 | Stun Spore |
-| 12 | Leech Seed |
-| 13 | Mega Drain |
-| 15 | Swift |
-| 21 | Poison Powder |
-| 24 | Cotton Spore |
-| 28 | Giga Drain |
-| 32 | Silver Wind |
-| 35 | Sleep Powder |
-| 40 | Synthesis |
-| 44 | Bounce |
-| 49 | Memento |
+| **1** | Absorb |
+| **1** | Charm |
+| **6** | Gust |
+| **9** | Stun Spore |
+| **12** | Leech Seed |
+| **13** | Mega Drain |
+| **15** | Swift |
+| **21** | Poison Powder |
+| **24** | Cotton Spore |
+| **28** | Giga Drain |
+| **32** | Silver Wind |
+| **35** | Sleep Powder |
+| **40** | Synthesis |
+| **44** | Bounce |
+| **49** | Memento |
 
 ### Egg Moves
  - Confusion
@@ -97,25 +97,25 @@ Grass / Flying | Chlorophyll | Evolves at 27
  - Psych Up
 
 ### TMs / HMs
- - TM06 Toxic
- - TM90 Bullet Seed
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM17 Protect
- - TM19 Giga Drain
- - TM21 Frustration
- - TM22 Solarbeam
- - TM27 Return
- - TM32 Double Team
- - TM40 Aerial Ace
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - HM05 Flash
+ - **TM06** Toxic
+ - **TM90** Bullet Seed
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM17** Protect
+ - **TM19** Giga Drain
+ - **TM21** Frustration
+ - **TM22** Solarbeam
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM40** Aerial Ace
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **HM05** Flash
 
-## Jumpluff
-Grass / Flying | Chlorophyll | Final Evolution
+## ![](https://serebii.net/emerald/pokemon/189.png) Jumpluff
+🌱 Grass / Flying 🪽 | Chlorophyll | Final Evolution
 
 ### Stats
 
@@ -127,21 +127,21 @@ Grass / Flying | Chlorophyll | Final Evolution
 
 | Level | Move |
 |---:|:---|
-| 1 | Absorb |
-| 1 | Charm |
-| 6 | Gust |
-| 9 | Stun Spore |
-| 12 | Leech Seed |
-| 13 | Mega Drain |
-| 15 | Swift |
-| 21 | Poison Powder |
-| 24 | Cotton Spore |
-| 30 | Giga Drain |
-| 34 | Silver Wind |
-| 37 | Sleep Powder |
-| 42 | Synthesis |
-| 46 | Bounce |
-| 51 | Memento |
+| **1** | Absorb |
+| **1** | Charm |
+| **6** | Gust |
+| **9** | Stun Spore |
+| **12** | Leech Seed |
+| **13** | Mega Drain |
+| **15** | Swift |
+| **21** | Poison Powder |
+| **24** | Cotton Spore |
+| **30** | Giga Drain |
+| **34** | Silver Wind |
+| **37** | Sleep Powder |
+| **42** | Synthesis |
+| **46** | Bounce |
+| **51** | Memento |
 
 ### Egg Moves
  - Confusion
@@ -153,19 +153,19 @@ Grass / Flying | Chlorophyll | Final Evolution
  - Psych Up
 
 ### TMs / HMs
- - TM06 Toxic
- - TM90 Bullet Seed
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM17 Protect
- - TM19 Giga Drain
- - TM21 Frustration
- - TM22 Solarbeam
- - TM27 Return
- - TM32 Double Team
- - TM40 Aerial Ace
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - HM05 Flash
+ - **TM06** Toxic
+ - **TM90** Bullet Seed
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM17** Protect
+ - **TM19** Giga Drain
+ - **TM21** Frustration
+ - **TM22** Solarbeam
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM40** Aerial Ace
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **HM05** Flash
