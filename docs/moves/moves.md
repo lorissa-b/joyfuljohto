@@ -26,7 +26,7 @@ order: 2
 | Twineedle | 20 | 25 | 100 | Stingers on the forelegs jab the foe twice. |
 | **X-Scissor**{: style="color: orange"} | 15 | 80 | 100 | Slashes at the foe with a pair of crossed scythes or claws. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/d/d5/Dark_icon_SwSh.png" width="50px" height="50px"> Dark
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/d/d5/Dark_icon_SwSh.png/64px-Dark_icon_SwSh.png" width="50px" height="50px"> Dark
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -47,7 +47,7 @@ order: 2
 | Thief | 10 | 40 | 100 | While attacking, it may steal the foe's held item. |
 | Torment | 15 |  | 100 | Torments the foe and stops successive use of a move. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/7/70/Dragon_icon_SwSh.png" width="50px" height="50px"> Dragon
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/7/70/Dragon_icon_SwSh.png/64px-Dragon_icon_SwSh.png" width="50px" height="50px"> Dragon
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -59,7 +59,7 @@ order: 2
 | Outrage | 15 | 90 | 100 | A rampage of 2 to 3 turns that confuses the user. |
 | Twister | 20 | 40 | 100 | Whips up a vicious twister to tear at the foe. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/7/7b/Electric_icon_SwSh.png" width="50px" height="50px"> Electric
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/7/7b/Electric_icon_SwSh.png/64px-Electric_icon_SwSh.png" width="50px" height="50px"> Electric
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -74,7 +74,7 @@ order: 2
 | Volt Tackle | 15 | 120 | 100 | A life-risking tackle that slightly hurts the user. |
 | Zap Cannon | 5 | 100 | 50 | Powerful and sure to cause paralysis, but inaccurate. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/3/3b/Fighting_icon_SwSh.png" width="50px" height="50px"> Fighting
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/3/3b/Fighting_icon_SwSh.png/64px-Fighting_icon_SwSh.png" width="50px" height="50px"> Fighting
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -104,7 +104,7 @@ order: 2
 | Triple Kick | 10 | 10 | 90 | Kicks the foe 3 times in a row with rising intensity. |
 | Vital Throw | 10 | 70 | 100 | Makes the user's move last, but it never misses. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/a/ab/Fire_icon_SwSh.png" width="50px" height="50px"> Fire
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/a/ab/Fire_icon_SwSh.png/64px-Fire_icon_SwSh.png" width="50px" height="50px"> Fire
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -123,7 +123,7 @@ order: 2
 | Sunny Day | 5 |  |  | Boosts the power of FIRE- type moves for 5 turns. |
 | Will-o-Wisp | 15 |  | 75 | Inflicts a burn on the foe with intense fire. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png" width="50px" height="50px"> Flying
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="50px" height="50px"> Flying
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -144,7 +144,7 @@ order: 2
 | Sky Attack | 5 | 140 | 90 | Searches out weak spots, then strikes the next turn. |
 | Wing Attack | 35 | 60 | 100 | Strikes the foe with wings spread wide. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/0/01/Ghost_icon_SwSh.png" width="50px" height="50px"> Ghost
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/0/01/Ghost_icon_SwSh.png/64px-Ghost_icon_SwSh.png" width="50px" height="50px"> Ghost
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -160,7 +160,7 @@ order: 2
 | Shadow Punch | 20 | 60 |  | An unavoidable punch that is thrown from shadows. |
 | Spite | 10 |  | 100 | Spitefully cuts the PP of the foe's last move. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png" width="50px" height="50px"> Grass
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="50px" height="50px"> Grass
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -188,7 +188,7 @@ order: 2
 | Vine Whip | 10 | 35 | 100 | Strikes the foe with slender, whiplike vines. |
 | **Worry Seed**{: style="color: orange"} | 10 |  | 100 | A seed that causes worry is planted. Prevents sleep. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png" width="50px" height="50px"> Ground
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="50px" height="50px"> Ground
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -207,7 +207,7 @@ order: 2
 | Sand-Attack | 15 |  | 100 | Reduces the foe's accuracy by hurling sand in its face. |
 | Spikes | 20 |  |  | Sets spikes that hurt a foe switching out. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/1/15/Ice_icon_SwSh.png" width="50px" height="50px"> Ice
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/1/15/Ice_icon_SwSh.png/64px-Ice_icon_SwSh.png" width="50px" height="50px"> Ice
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -225,14 +225,14 @@ order: 2
 | Powder Snow | 25 | 40 | 100 | Blasts the foe with a snowy gust. May cause freezing. |
 | Sheer Cold | 5 |  | 30 | A chilling attack that causes fainting if it hits. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png" width="50px" height="50px"> Normal
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="50px" height="50px"> Normal
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
 | **Natural Gift**{: style="color: orange"} | 15 |  | 100 | Draws power from the held berry. Berry determines type and power. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | **Shell Smash**{: style="color: orange"} | 15 |  |  | User breaks its shell. Lowers DEF and SP.DEF, but raises ATK, SP.ATK, and SPD. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
-## Poison ☠️
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="50px" height="50px"> Poison
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -250,13 +250,13 @@ order: 2
 | Toxic | 10 |  | 85 | Poisons the foe with an intensifying toxin. |
 | **Venoshock**{: style="color: orange"} | 10 | 65 | 100 | Drenches the target in poison. Stronger if the target is poisoned. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/7/73/Psychic_icon_SwSh.png" width="50px" height="50px"> Psychic
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/7/73/Psychic_icon_SwSh.png/64px-Psychic_icon_SwSh.png" width="50px" height="50px"> Psychic
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
 | **Psystrike**{: style="color: orange"} | 10 | 100 | 100 | Materializes an odd psychic wave to attack. Does physical damage. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png" width="50px" height="50px"> Rock
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png/64px-Rock_icon_SwSh.png" width="50px" height="50px"> Rock
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -269,7 +269,7 @@ order: 2
 | Sandstorm | 10 |  |  | Causes a sandstorm that rages for several turns. |
 | **Stone Edge**{: style="color: orange"} | 5 | 100 | 80 | Stabs the target from below with sharp stones. Crits easily. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/0/09/Steel_icon_SwSh.png" width="50px" height="50px"> Steel
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/0/09/Steel_icon_SwSh.png/64px-Steel_icon_SwSh.png" width="50px" height="50px"> Steel
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
