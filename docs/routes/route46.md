@@ -29,4 +29,22 @@ order: 35
 | | Placeholder | Placeholder |
 
 ## Trainers
-None
+### Camper Ted
+
+| Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Start | Mankey lv17 | | | | | |
+
+### Picnicker Erin
+
+| Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Start | Ponyta lv16 | Ponyta lv16 | | | | |
+| Champion | Ponyta lv32 | Ponyta lv32 | | | | |
+| Machine Part | Ponyta lv36 | Raichu lv34 | Ponyta lv36 | | | |
+
+### Hiker Bailey
+
+| Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Start | Geodude lv13 | Geodude lv13 | Geodude lv13 | Geodude lv13 | Geodude lv13 | |

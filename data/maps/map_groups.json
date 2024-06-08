@@ -106,7 +106,9 @@
     "Underwater_Route105",
     "Underwater_Route125",
     "Route46",
-    "Route32"
+    "Route32",
+    "Route33",
+    "AzaleaTown"
   ],
   "gMapGroup_IndoorNewBark": [
     "PlayerHouse",
@@ -473,7 +475,8 @@
     "DarkCave_Route31",
     "UnionCave_1F",
     "UnionCave_B1F",
-    "UnionCave_B2F"
+    "UnionCave_B2F",
+    "IlexForest"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

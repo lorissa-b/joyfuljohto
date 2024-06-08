@@ -4664,8 +4664,8 @@
     {
       "id": "LAYOUT_UNION_CAVE_1F",
       "name": "UnionCave_1F_Layout",
-      "width": 20,
-      "height": 40,
+      "width": 30,
+      "height": 44,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/UnionCave_1F/border.bin",
@@ -4674,8 +4674,8 @@
     {
       "id": "LAYOUT_UNION_CAVE_B1F",
       "name": "UnionCave_B1F_Layout",
-      "width": 20,
-      "height": 40,
+      "width": 30,
+      "height": 44,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/UnionCave_B1F/border.bin",
@@ -4690,6 +4690,36 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/UnionCave_B2F/border.bin",
       "blockdata_filepath": "data/layouts/UnionCave_B2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE33",
+      "name": "Route33_Layout",
+      "width": 26,
+      "height": 28,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route33/border.bin",
+      "blockdata_filepath": "data/layouts/Route33/map.bin"
+    },
+    {
+      "id": "LAYOUT_AZALEA_TOWN",
+      "name": "AzaleaTown_Layout",
+      "width": 34,
+      "height": 36,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/AzaleaTown/border.bin",
+      "blockdata_filepath": "data/layouts/AzaleaTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_ILEX_FOREST",
+      "name": "IlexForest_Layout",
+      "width": 44,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/IlexForest/border.bin",
+      "blockdata_filepath": "data/layouts/IlexForest/map.bin"
     }
   ]
 }

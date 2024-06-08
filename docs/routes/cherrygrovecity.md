@@ -4,7 +4,10 @@ title: Cherrygrove City
 order: 9
 ---
 ## Encounters
-TBD
+| Pokemon | Location | Levels | Morning | Day | Evening | Night |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://www.serebii.net/pokedex-dp/icon/129.gif) Magikarp | 🎣 Old Rod | 8 - 12 | 70% | 70% | 70% | 70% |
+| ![](https://www.serebii.net/pokedex-dp/icon/098.gif) Krabby | 🎣 Old Rod | 8 - 12 | 30% | 30% | 30% | 30% |
 
 ## Items
 

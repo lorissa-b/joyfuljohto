@@ -237,8 +237,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BREAKABLE_ROCK",
-      "x": 37,
-      "y": 26,
+      "x": 35,
+      "y": 31,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
@@ -263,7 +263,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BREAKABLE_ROCK",
-      "x": 32,
+      "x": 34,
       "y": 32,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
@@ -295,6 +295,13 @@
       "elevation": 0,
       "dest_map": "MAP_ROUTE31",
       "dest_warp_id": "2"
+    },
+    {
+      "x": 35,
+      "y": 32,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE46",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [

@@ -4,7 +4,10 @@ title: Violet City
 order: 10
 ---
 ## Encounters
-TBD
+| Pokemon | Location | Levels | Morning | Day | Evening | Night |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://www.serebii.net/pokedex-dp/icon/129.gif) Magikarp | 🎣 Old Rod | 8 - 12 | 70% | 70% | 70% | 70% |
+| ![](https://www.serebii.net/pokedex-dp/icon/060.gif) Poliwag | 🎣 Old Rod | 8 - 12 | 30% | 30% | 30% | 30% |
 
 ## Items
 

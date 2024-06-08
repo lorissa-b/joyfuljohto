@@ -72,6 +72,8 @@
 #define MAP_UNDERWATER_ROUTE125 (63 | (0 << 8))
 #define MAP_ROUTE46             (64 | (0 << 8))
 #define MAP_ROUTE32             (65 | (0 << 8))
+#define MAP_ROUTE33             (66 | (0 << 8))
+#define MAP_AZALEA_TOWN         (67 | (0 << 8))
 
 // gMapGroup_IndoorNewBark
 #define MAP_PLAYER_HOUSE                     (0 | (1 << 8))
@@ -438,6 +440,7 @@
 #define MAP_UNION_CAVE_1F                            (109 | (29 << 8))
 #define MAP_UNION_CAVE_B1F                           (110 | (29 << 8))
 #define MAP_UNION_CAVE_B2F                           (111 | (29 << 8))
+#define MAP_ILEX_FOREST                              (112 | (29 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (30 << 8))

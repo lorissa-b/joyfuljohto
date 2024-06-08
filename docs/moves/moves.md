@@ -7,7 +7,7 @@ order: 2
 **Red Text**{: style="color: red"} shows that a value has been adjusted down.  
 **Orange Text**{: style="color: orange"} shows that a value is newly added.  
 
-## Bug 🪲
+## Bug ![](https://archives.bulbagarden.net/media/upload/2/24/Bug_icon_Sleep.png)
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|

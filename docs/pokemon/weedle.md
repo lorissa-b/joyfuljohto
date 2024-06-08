@@ -42,6 +42,7 @@ Bug / Poison | Shed Skin | Evolves at 10
 | 1 | Poison Sting |
 | 1 | String Shot |
 | 1 | Harden |
+| **Evolution** | Harden |
 | 12 | Struggle Bug |
 | 17 | Poison Tail |
 
@@ -67,6 +68,7 @@ Bug / Poison | Swarm / Poison Point | Final Evolution
 | 1 | Poison Sting |
 | 1 | String Shot |
 | 1 | Fury Attack |
+| **Evolution** | Fury Attack |
 | 11 | Twineedle |
 | 15 | Focus Energy |
 | 19 | Pin Missile |

@@ -20,6 +20,8 @@ order: 19
 | ![](https://serebii.net/pokedex-dp/icon/043.gif) Oddish | 🌱 Grass | 3 - 5 |  |  | 10% | 10% |
 | ![](https://serebii.net/pokedex-dp/icon/041.gif) Zubat | 🌱 Grass | 3 - 5 |  |  | 5% | 15% |
 | ![](https://serebii.net/pokedex-dp/icon/060.gif) Poliwag | 🌱 Grass | 3 - 5 |  |  |  | 5% |
+| ![](https://www.serebii.net/pokedex-dp/icon/129.gif) Magikarp | 🎣 Old Rod | 8 - 12 | 70% | 70% | 70% | 70% |
+| ![](https://www.serebii.net/pokedex-dp/icon/183.gif) Marill | 🎣 Old Rod | 8 - 12 | 30% | 30% | 30% | 30% |
 
 ## Items
 

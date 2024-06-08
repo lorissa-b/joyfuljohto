@@ -18,6 +18,8 @@ order: 20
 | ![](https://serebii.net/pokedex-dp/icon/069.gif) Bellsprout | 🌱 Grass | 4 - 6 |  |  | 10% | 20% |
 | ![](https://serebii.net/pokedex-dp/icon/092.gif) Gastly | 🌱 Grass | 4 - 7 |  |  | 5% | 15% |
 | ![](https://serebii.net/pokedex-dp/icon/041.gif) Zubat | 🌱 Grass | 4 - 6 |  |  | 5% | 20% |
+| ![](https://www.serebii.net/pokedex-dp/icon/129.gif) Magikarp | 🎣 Old Rod | 8 - 12 | 70% | 70% | 70% | 70% |
+| ![](https://www.serebii.net/pokedex-dp/icon/060.gif) Poliwag | 🎣 Old Rod | 8 - 12 | 30% | 30% | 30% | 30% |
 
 ## Items
 

@@ -10,6 +10,8 @@ order: 8
 | ![](https://serebii.net/pokedex-dp/icon/152.gif) Chikorita | 🎁 Gift | 5 |  |  |  |  |
 | ![](https://serebii.net/pokedex-dp/icon/155.gif) Cyndaquil | 🎁 Gift | 5 |  |  |  |  |
 | ![](https://serebii.net/pokedex-dp/icon/158.gif) Totodile | 🎁 Gift | 5 |  |  |  |  |
+| ![](https://www.serebii.net/pokedex-dp/icon/129.gif) Magikarp | 🎣 Old Rod | 8 - 12 | 70% | 70% | 70% | 70% |
+| ![](https://www.serebii.net/pokedex-dp/icon/098.gif) Krabby | 🎣 Old Rod | 8 - 12 | 30% | 30% | 30% | 30% |
 
 ## Items
 

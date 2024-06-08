@@ -42,6 +42,7 @@ None
 | **1** | Tackle |
 | **1** | String Shot |
 | **1** | Harden |
+| **Evolution** | Harden |
 | **12** | Struggle Bug |
 | **17** | Bug Bite |
 
@@ -67,6 +68,7 @@ None
 | **1** | Tackle |
 | **1** | String Shot |
 | **1** | Gust |
+| **Evolution** | Confusion |
 | **11** | Confusion |
 | **15** | Poison Powder |
 | **19** | Silver Wind |
