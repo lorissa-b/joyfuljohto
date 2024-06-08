@@ -3,7 +3,7 @@ unlisted: true
 title: Sunkern and Sunflora
 ---
 ## ![](https://serebii.net/emerald/pokemon/191.png) Sunkern
-🌱 Grass | Chlorophyll | Evolves with Sun Stone
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass | Chlorophyll | Evolves with Sun Stone
 
 ### Stats
 
@@ -61,7 +61,7 @@ title: Sunkern and Sunflora
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/192.png) Sunflora
-🌱 Grass | Chlorophyll | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass | Chlorophyll | Final Evolution
 
 ### Stats
 

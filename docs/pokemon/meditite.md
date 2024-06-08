@@ -3,7 +3,7 @@ unlisted: true
 title: Meditite and Medicham
 ---
 ## ![](https://serebii.net/emerald/pokemon/307.png) Meditite
-💥 Fighting / Psychic 🌸 | Pure Power | Evolves at 37
+<img src="https://archives.bulbagarden.net/media/upload/thumb/3/3b/Fighting_icon_SwSh.png/64px-Fighting_icon_SwSh.png" width="20px" height="20px"> Fighting / Psychic <img src="https://archives.bulbagarden.net/media/upload/thumb/7/73/Psychic_icon_SwSh.png/64px-Psychic_icon_SwSh.png" width="20px" height="20px"> | Pure Power | Evolves at 37
 
 ### Stats
 
@@ -67,7 +67,7 @@ title: Meditite and Medicham
  - **HM06** Rock Smash
 
 ## ![](https://serebii.net/emerald/pokemon/308.png) Medicham
-💥 Fighting / Psychic 🌸 | Pure Power | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/3/3b/Fighting_icon_SwSh.png/64px-Fighting_icon_SwSh.png" width="20px" height="20px"> Fighting / Psychic <img src="https://archives.bulbagarden.net/media/upload/thumb/7/73/Psychic_icon_SwSh.png/64px-Psychic_icon_SwSh.png" width="20px" height="20px"> | Pure Power | Final Evolution
 
 ### Stats
 

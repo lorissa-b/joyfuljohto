@@ -3,7 +3,7 @@ unlisted: true
 title: Geodude, Graveler, and Golem
 ---
 ## ![](https://serebii.net/emerald/pokemon/074.png) Geodude
-🪨 Rock / Ground ⛰️ | Rock Head & Sturdy | Evolves at 25
+<img src="https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png/64px-Rock_icon_SwSh.png" width="20px" height="20px"> Rock / Ground <img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> | Rock Head & Sturdy | Evolves at 25
 
 ### Stats
 
@@ -59,7 +59,7 @@ title: Geodude, Graveler, and Golem
  - **HM06** Rock Smash
 
 ## ![](https://serebii.net/emerald/pokemon/075.png) Graveler
-🪨 Rock / Ground ⛰️ | Rock Head & Sturdy | Evolves with Link Cable
+<img src="https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png/64px-Rock_icon_SwSh.png" width="20px" height="20px"> Rock / Ground <img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> | Rock Head & Sturdy | Evolves with Link Cable
 
 ### Stats
 
@@ -115,7 +115,7 @@ title: Geodude, Graveler, and Golem
  - **HM06** Rock Smash
 
 ## ![](https://serebii.net/emerald/pokemon/076.png) Golem
-🪨 Rock / Ground ⛰️ | Rock Head & Sturdy | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png/64px-Rock_icon_SwSh.png" width="20px" height="20px"> Rock / Ground <img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> | Rock Head & Sturdy | Final Evolution
 
 ### Stats
 

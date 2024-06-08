@@ -3,7 +3,7 @@ unlisted: true
 title: Hoppip, Skiploom, and Jumpluff
 ---
 ## ![](https://serebii.net/emerald/pokemon/187.png) Hoppip
-🌱 Grass / Flying 🪽 | Chlorophyll | Evolves at 18
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Chlorophyll | Evolves at 18
 
 ### Stats
 
@@ -59,7 +59,7 @@ title: Hoppip, Skiploom, and Jumpluff
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/188.png) Skiploom
-🌱 Grass / Flying 🪽 | Chlorophyll | Evolves at 27
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Chlorophyll | Evolves at 27
 
 ### Stats
 
@@ -115,7 +115,7 @@ title: Hoppip, Skiploom, and Jumpluff
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/189.png) Jumpluff
-🌱 Grass / Flying 🪽 | Chlorophyll | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Chlorophyll | Final Evolution
 
 ### Stats
 

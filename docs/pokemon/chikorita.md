@@ -3,7 +3,7 @@ unlisted: true
 title: Chikorita, Bayleef, and Meganium
 ---
 ## ![](https://serebii.net/emerald/pokemon/152.png) Chikorita
-🌱 Grass | Overgrow | Evolves at 16
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass | Overgrow | Evolves at 16
 
 ### Stats
 
@@ -64,7 +64,7 @@ title: Chikorita, Bayleef, and Meganium
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/153.png) Bayleef
-🌱 Grass | Overgrow | Evolves at 32
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass | Overgrow | Evolves at 32
 
 ### Stats
 
@@ -127,7 +127,7 @@ title: Chikorita, Bayleef, and Meganium
  - **HM06** Rock Smash
 
 ## ![](https://serebii.net/emerald/pokemon/154.png) Meganium
-🌱 Grass | Overgrow | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass | Overgrow | Final Evolution
 
 ### Stats
 

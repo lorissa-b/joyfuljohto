@@ -3,7 +3,7 @@ unlisted: true
 title: Wooper and Quagsire
 ---
 ## ![](https://serebii.net/emerald/pokemon/194.png) Wooper
-💧 Water / Ground ⛰️ | Damp / Water Absorb | Evolves at 20
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> Water / Ground <img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> | Damp / Water Absorb | Evolves at 20
 
 ### Stats
 
@@ -70,7 +70,7 @@ title: Wooper and Quagsire
  - **HM08** Dive
 
 ## ![](https://serebii.net/emerald/pokemon/195.png) Quagsire
-💧 Water / Ground ⛰️ | Damp / Water Absorb | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> Water / Ground <img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> | Damp / Water Absorb | Final Evolution
 
 ### Stats
 

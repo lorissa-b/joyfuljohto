@@ -3,7 +3,7 @@ unlisted: true
 title: Surskit and Masquerain
 ---
 ## ![](https://serebii.net/emerald/pokemon/283.png) Surskit
-🪲 Bug / Water 💧 | Swift Swim | Evolves at 22
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug / Water <img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> | Swift Swim | Evolves at 22
 
 ### Stats
 
@@ -61,7 +61,7 @@ title: Surskit and Masquerain
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/284.png) Masquerain
-🪲 Bug / Water 💧 | Intimidate | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug / Water <img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> | Intimidate | Final Evolution
 
 ### Stats
 

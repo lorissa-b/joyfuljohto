@@ -3,7 +3,7 @@ unlisted: true
 title: Ekans and Arbok
 ---
 ## ![](https://serebii.net/emerald/pokemon/023.png) Ekans
-☠️ Poison | Shed Skin & Intimidate | Evolves at 22
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> Poison | Shed Skin & Intimidate | Evolves at 22
 
 ### Stats
 
@@ -64,7 +64,7 @@ title: Ekans and Arbok
  - **HM04** Strength
 
 ## ![](https://serebii.net/emerald/pokemon/024.png) Arbok
-☠️ Poison | Shed Skin & Intimidate | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> Poison | Shed Skin & Intimidate | Final Evolution
 
 ### Stats
 

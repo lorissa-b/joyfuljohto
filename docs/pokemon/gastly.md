@@ -3,7 +3,7 @@ unlisted: true
 title: Gastly, Haunter, and Gengar
 ---
 ## ![](https://serebii.net/emerald/pokemon/092.png) Gastly
-👻 Ghost / Poison ☠️ | Levitate | Evolves at 25
+<img src="https://archives.bulbagarden.net/media/upload/thumb/0/01/Ghost_icon_SwSh.png/64px-Ghost_icon_SwSh.png" width="20px" height="20px"> Ghost / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Levitate | Evolves at 25
 
 ### Stats
 
@@ -65,7 +65,7 @@ title: Gastly, Haunter, and Gengar
  - **TM49** Snatch
 
 ## ![](https://serebii.net/emerald/pokemon/093.png) Haunter
-👻 Ghost / Poison ☠️ | Levitate | Evolves with Link Cable
+<img src="https://archives.bulbagarden.net/media/upload/thumb/0/01/Ghost_icon_SwSh.png/64px-Ghost_icon_SwSh.png" width="20px" height="20px"> Ghost / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Levitate | Evolves with Link Cable
 
 ### Stats
 
@@ -127,7 +127,7 @@ title: Gastly, Haunter, and Gengar
  - **TM49** Snatch
 
 ## ![](https://serebii.net/emerald/pokemon/094.png) Gengar
-👻 Ghost / Poison ☠️ | Levitate | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/0/01/Ghost_icon_SwSh.png/64px-Ghost_icon_SwSh.png" width="20px" height="20px"> Ghost / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Levitate | Final Evolution
 
 ### Stats
 

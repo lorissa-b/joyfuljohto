@@ -2,8 +2,8 @@
 unlisted: true
 title: Weedle, Kakuna, and Beedrill
 ---
-## Weedle
-Bug / Poison | Poison Point | Evolves at 7
+## ![](https://serebii.net/emerald/pokemon/013.png) Weedle
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Poison Point | Evolves at 7
 
 ### Stats
 
@@ -15,10 +15,10 @@ Bug / Poison | Poison Point | Evolves at 7
 
 | Level | Move |
 |---:|:---|
-| 1 | Poison Sting |
-| 1 | String Shot |
-| 9 | Struggle Bug |
-| 15 | Poison Tail |
+| **1** | Poison Sting |
+| **1** | String Shot |
+| **9** | Struggle Bug |
+| **15** | Poison Tail |
 
 ### Egg Moves
 None
@@ -26,8 +26,8 @@ None
 ### TMs / HMs
 None
 
-## Kakuna
-Bug / Poison | Shed Skin | Evolves at 10
+## ![](https://serebii.net/emerald/pokemon/014.png) Kakuna
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Shed Skin | Evolves at 10
 
 ### Stats
 
@@ -39,12 +39,12 @@ Bug / Poison | Shed Skin | Evolves at 10
 
 | Level | Move |
 |---:|:---|
-| 1 | Poison Sting |
-| 1 | String Shot |
-| 1 | Harden |
+| **1** | Poison Sting |
+| **1** | String Shot |
+| **1** | Harden |
 | **Evolution** | Harden |
-| 12 | Struggle Bug |
-| 17 | Poison Tail |
+| **12** | Struggle Bug |
+| **17** | Poison Tail |
 
 ### Egg Moves
 None
@@ -52,8 +52,8 @@ None
 ### TMs / HMs
 None
 
-## Beedrill
-Bug / Poison | Swarm / Poison Point | Final Evolution
+## ![](https://serebii.net/emerald/pokemon/015.png) Beedrill
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Swarm / Poison Point | Final Evolution
 
 ### Stats
 
@@ -65,43 +65,43 @@ Bug / Poison | Swarm / Poison Point | Final Evolution
 
 | Level | Move |
 |---:|:---|
-| 1 | Poison Sting |
-| 1 | String Shot |
-| 1 | Fury Attack |
+| **1** | Poison Sting |
+| **1** | String Shot |
+| **1** | Fury Attack |
 | **Evolution** | Fury Attack |
-| 11 | Twineedle |
-| 15 | Focus Energy |
-| 19 | Pin Missile |
-| 23 | Sludge Bomb |
-| 27 | Rage |
-| 31 | Swagger |
-| 35 | Poison Tail |
-| 39 | Endeavor |
-| 42 | Agility |
-| 46 | Toxic |
+| **11** | Twineedle |
+| **15** | Focus Energy |
+| **19** | Pin Missile |
+| **23** | Sludge Bomb |
+| **27** | Rage |
+| **31** | Swagger |
+| **35** | Poison Tail |
+| **39** | Endeavor |
+| **42** | Agility |
+| **46** | Toxic |
 
 ### Egg Moves
 None
 
 ### TMs / HMs
- - TM06 Toxic
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM15 Hyper Beam
- - TM17 Protect
- - TM19 Giga Drain
- - TM21 Frustration
- - TM22 Solarbeam
- - TM27 Return
- - TM31 Brick Break
- - TM32 Double Team
- - TM36 Sludge Bomb
- - TM40 Aerial Ace
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - TM46 Thief
- - TM48 Skill Swap
- - HM01 Cut
- - HM06 Rock Smash
+ - **TM06** Toxic
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM15** Hyper Beam
+ - **TM17** Protect
+ - **TM19** Giga Drain
+ - **TM21** Frustration
+ - **TM22** Solarbeam
+ - **TM27** Return
+ - **TM31** Brick Break
+ - **TM32** Double Team
+ - **TM36** Sludge Bomb
+ - **TM40** Aerial Ace
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **TM46** Thief
+ - **TM48** Skill Swap
+ - **HM01** Cut
+ - **HM06** Rock Smash

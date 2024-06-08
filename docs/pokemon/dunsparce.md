@@ -3,7 +3,7 @@ unlisted: true
 title: Dunsparce
 ---
 ## ![](https://serebii.net/emerald/pokemon/206.png) Dunsparce
-⚪ Normal | Serene Grace & Run Away | Does Not Evolve
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px"> Normal | Serene Grace & Run Away | Does Not Evolve
 
 ### Stats
 

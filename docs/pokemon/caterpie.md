@@ -3,7 +3,7 @@ unlisted: true
 title: Caterpie, Metapod, and Butterfree
 ---
 ## ![](https://serebii.net/emerald/pokemon/010.png)  Caterpie 
-🪲 Bug | Shield Dust | Evolves at 7
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug | Shield Dust | Evolves at 7
 
 ### Stats
 
@@ -27,7 +27,7 @@ None
 None
 
 ## ![](https://serebii.net/emerald/pokemon/011.png) Metapod
-🪲 Bug | Shed Skin | Evolves at 10
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug | Shed Skin | Evolves at 10
 
 ### Stats
 
@@ -53,7 +53,7 @@ None
 None
 
 ## ![](https://serebii.net/emerald/pokemon/012.png) Butterfree
-🪲 Bug / 🪽 Flying | Compound Eyes | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Compound Eyes | Final Evolution
 
 ### Stats
 

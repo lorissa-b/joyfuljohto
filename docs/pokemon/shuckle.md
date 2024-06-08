@@ -3,7 +3,7 @@ unlisted: true
 title: Shuckle
 ---
 ## ![](https://serebii.net/emerald/pokemon/213.png) Shuckle
-🪲 Bug / Rock 🪨 | Sturdy | Does Not Evolve
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="20px" height="20px"> Bug / Rock <img src="https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png/64px-Rock_icon_SwSh.png" width="20px" height="20px"> | Sturdy | Does Not Evolve
 
 ### Stats
 

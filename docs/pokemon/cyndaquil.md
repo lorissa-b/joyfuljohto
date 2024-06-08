@@ -3,7 +3,7 @@ unlisted: true
 title: Cyndaquil, Quilava, and Typhlosion
 ---
 ## ![](https://serebii.net/emerald/pokemon/155.png) Cyndaquil
-🔥 Fire | Blaze | Evolves at 14
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/ab/Fire_icon_SwSh.png/64px-Fire_icon_SwSh.png" width="20px" height="20px"> Fire | Blaze | Evolves at 14
 
 ### Stats
 
@@ -60,7 +60,7 @@ title: Cyndaquil, Quilava, and Typhlosion
  - **HM01** Cut
 
 ## ![](https://serebii.net/emerald/pokemon/156.png) Quilava
-🔥 Fire | Blaze | Evolves at 36
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/ab/Fire_icon_SwSh.png/64px-Fire_icon_SwSh.png" width="20px" height="20px"> Fire | Blaze | Evolves at 36
 
 ### Stats
 
@@ -122,7 +122,7 @@ title: Cyndaquil, Quilava, and Typhlosion
  - **HM06** Rock Smash
 
 ## ![](https://serebii.net/emerald/pokemon/157.png) Typhlosion
-🔥 Fire | Blaze | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/ab/Fire_icon_SwSh.png/64px-Fire_icon_SwSh.png" width="20px" height="20px"> Fire | Blaze | Final Evolution
 
 ### Stats
 

@@ -3,7 +3,7 @@ unlisted: true
 title: Spearow and Fearow
 ---
 ## ![](https://serebii.net/emerald/pokemon/021.png) Spearow
-⚪ Normal / Flying 🪽 | Keen Eye | Evolves at 20
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px"> Normal / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Keen Eye | Evolves at 20
 
 ### Stats
 
@@ -59,7 +59,7 @@ title: Spearow and Fearow
  - **HM02** Fly
 
 ## ![](https://serebii.net/emerald/pokemon/022.png) Fearow
-⚪ Normal / Flying 🪽 | Keen Eye | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px"> Normal / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Keen Eye | Final Evolution
 
 ### Stats
 

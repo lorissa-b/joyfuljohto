@@ -3,7 +3,7 @@ unlisted: true
 title: Zubat, Golbat, and Crobat
 ---
 ## ![](https://serebii.net/emerald/pokemon/041.png) Zubat
-☠️ Poison \ Flying 🪽 | Inner Focus | Evolves at 22
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> Poison \ Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Inner Focus | Evolves at 22
 
 ### Stats
 
@@ -62,7 +62,7 @@ title: Zubat, Golbat, and Crobat
  - **TM49** Snatch
 
 ## ![](https://serebii.net/emerald/pokemon/042.png) Golbat
-☠️ Poison \ Flying 🪽 | Inner Focus | Evolves with Friendship
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> Poison \ Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Inner Focus | Evolves with Friendship
 
 ### Stats
 
@@ -123,7 +123,7 @@ title: Zubat, Golbat, and Crobat
  - **HM02** Fly
 
 ## ![](https://serebii.net/emerald/pokemon/169.png) Crobat
-☠️ Poison \ Flying 🪽 | Inner Focus | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> Poison \ Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Inner Focus | Final Evolution
 
 ### Stats
 

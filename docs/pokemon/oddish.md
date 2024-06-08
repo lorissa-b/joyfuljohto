@@ -3,7 +3,7 @@ unlisted: true
 title: Oddish, Gloom, Vileplume, and Bellossom
 ---
 ## ![](https://serebii.net/emerald/pokemon/043.png) Oddish
-🌱 Grass / Poison ☠️ | Chlorophyll | Evolves at 21
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Chlorophyll | Evolves at 21
 
 ### Stats
 
@@ -59,7 +59,7 @@ title: Oddish, Gloom, Vileplume, and Bellossom
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/044.png) Gloom
-🌱 Grass / Poison ☠️ | Chlorophyll | Evolves with Leaf Stone / Evolves with Sun Stone
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Chlorophyll | Evolves with Leaf Stone / Evolves with Sun Stone
 
 ### Stats
 
@@ -115,7 +115,7 @@ title: Oddish, Gloom, Vileplume, and Bellossom
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/048.png) Vileplume
-🌱 Grass / Poison ☠️ | Chlorophyll | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png" width="20px" height="20px"> Grass / Poison <img src="https://archives.bulbagarden.net/media/upload/thumb/8/8d/Poison_icon_SwSh.png/64px-Poison_icon_SwSh.png" width="20px" height="20px"> | Chlorophyll | Final Evolution
 
 ### Stats
 

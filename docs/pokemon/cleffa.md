@@ -3,7 +3,7 @@ unlisted: true
 title: Cleffa, Clefairy, and Clefable
 ---
 ## ![](https://serebii.net/emerald/pokemon/173.png) Cleffa
-⚪ Normal | Cute Charm | Evolves with Friendship
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px"> Normal | Cute Charm | Evolves with Friendship
 
 ### Stats
 
@@ -66,7 +66,7 @@ title: Cleffa, Clefairy, and Clefable
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/035.png) Clefairy
-⚪ Normal | Cute Charm | Evolves with Moon Stone
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px"> Normal | Cute Charm | Evolves with Moon Stone
 
 ### Stats
 
@@ -143,7 +143,7 @@ title: Cleffa, Clefairy, and Clefable
  - **HM05** Flash
 
 ## ![](https://serebii.net/emerald/pokemon/036.png) Clefable
-⚪ Normal | Cute Charm | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px"> Normal | Cute Charm | Final Evolution
 
 ### Stats
 

@@ -3,7 +3,7 @@ unlisted: true
 title: Sandshrew and Sandshlash
 ---
 ## ![](https://serebii.net/emerald/pokemon/027.png) Sandshrew
-⛰️ Ground | Sand Veil | Evolves at 22
+<img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> Ground | Sand Veil | Evolves at 22
 
 ### Stats
 
@@ -67,7 +67,7 @@ title: Sandshrew and Sandshlash
  - **HM06** Rock Smash
 
 ## ![](https://serebii.net/emerald/pokemon/028.png) Sandslash
-⛰️ Ground | Sand Veil | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> Ground | Sand Veil | Final Evolution
 
 ### Stats
 

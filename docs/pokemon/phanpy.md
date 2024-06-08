@@ -3,7 +3,7 @@ unlisted: true
 title: Phanpy and Donphan
 ---
 ## ![](https://serebii.net/emerald/pokemon/231.png) Phanpy
-⛰️ Ground | Pickup | Evolves at 25
+<img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> Ground | Pickup | Evolves at 25
 
 ### Stats
 
@@ -60,7 +60,7 @@ title: Phanpy and Donphan
  - **HM06** Rock Smash
 
 ## ![](https://serebii.net/emerald/pokemon/232.png) Donphan
-⛰️ Ground | Sturdy | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png" width="20px" height="20px"> Ground | Sturdy | Final Evolution
 
 ### Stats
 

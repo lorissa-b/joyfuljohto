@@ -2,8 +2,8 @@
 unlisted: true
 title: Pidgey, Pidgeotto, and Pidgeot
 ---
-## Pidgey
-Normal / Flying | Keen Eye | Evolves at 18
+## ![](https://serebii.net/emerald/pokemon/016.png) Pidgey
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px">  Normal / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Keen Eye | Evolves at 18
 
 ### Stats
 
@@ -15,19 +15,19 @@ Normal / Flying | Keen Eye | Evolves at 18
 
 | Level | Move |
 |---:|:---|
-| 1 | Scratch |
-| 1 | Sand Attack |
-| 5 | Gust |
-| 9 | Quick Attack |
-| 15 | Whirlwind |
-| 19 | Twister |
-| 23 | Featherdance |
-| 27 | Wing Attack |
-| 31 | Roost |
-| 34 | Agility |
-| 37 | Air Slash |
-| 40 | Screech |
-| 43 | Hurricane |
+| **1** | Scratch |
+| **1** | Sand Attack |
+| **5** | Gust |
+| **9** | Quick Attack |
+| **15** | Whirlwind |
+| **19** | Twister |
+| **23** | Featherdance |
+| **27** | Wing Attack |
+| **31** | Roost |
+| **34** | Agility |
+| **37** | Air Slash |
+| **40** | Screech |
+| **43** | Hurricane |
 
 ### Egg Moves
  - Pursuit
@@ -37,25 +37,25 @@ Normal / Flying | Keen Eye | Evolves at 18
  - Air Cutter
 
 ### TMs / HMs
- - TM06 Toxic
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM17 Protect
- - TM18 Rain Dance
- - TM21 Frustration
- - TM27 Return
- - TM32 Double Team
- - TM40 Aerial Ace
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - TM46 Thief
- - TM47 Steel Wing
- - HM02 Fly
+ - **TM06** Toxic
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM17** Protect
+ - **TM18** Rain Dance
+ - **TM21** Frustration
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM40** Aerial Ace
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **TM46** Thief
+ - **TM47** Steel Wing
+ - **HM02** Fly
 
-## Pidgeotto
-Normal / Flying | Keen Eye | Evolves at 36
+## ![](https://serebii.net/emerald/pokemon/017.png) Pidgeotto
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px">  Normal / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Keen Eye | Evolves at 36
 
 ### Stats
 
@@ -67,19 +67,19 @@ Normal / Flying | Keen Eye | Evolves at 36
 
 | Level | Move |
 |---:|:---|
-| 1 | Scratch |
-| 1 | Sand Attack |
-| 5 | Gust |
-| 9 | Quick Attack |
-| 15 | Whirlwind |
-| 21 | Twister |
-| 25 | Featherdance |
-| 29 | Wing Attack |
-| 33 | Roost |
-| 36 | Agility |
-| 39 | Air Slash |
-| 42 | Screech |
-| 45 | Hurricane |
+| **1** | Scratch |
+| **1** | Sand Attack |
+| **5** | Gust |
+| **9** | Quick Attack |
+| **15** | Whirlwind |
+| **21** | Twister |
+| **25** | Featherdance |
+| **29** | Wing Attack |
+| **33** | Roost |
+| **36** | Agility |
+| **39** | Air Slash |
+| **42** | Screech |
+| **45** | Hurricane |
 
 ### Egg Moves
  - Pursuit
@@ -89,25 +89,25 @@ Normal / Flying | Keen Eye | Evolves at 36
  - Air Cutter
 
 ### TMs / HMs
- - TM06 Toxic
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM17 Protect
- - TM18 Rain Dance
- - TM21 Frustration
- - TM27 Return
- - TM32 Double Team
- - TM40 Aerial Ace
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - TM46 Thief
- - TM47 Steel Wing
- - HM02 Fly
+ - **TM06** Toxic
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM17** Protect
+ - **TM18** Rain Dance
+ - **TM21** Frustration
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM40** Aerial Ace
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **TM46** Thief
+ - **TM47** Steel Wing
+ - **HM02** Fly
 
-## Pidgeot
-Normal / Flying | Keen Eye | Final Evolution
+## ![](https://serebii.net/emerald/pokemon/018.png) Pidgeot
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px">  Normal / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Keen Eye | Final Evolution
 
 ### Stats
 
@@ -119,19 +119,19 @@ Normal / Flying | Keen Eye | Final Evolution
 
 | Level | Move |
 |---:|:---|
-| 1 | Scratch |
-| 1 | Sand Attack |
-| 5 | Gust |
-| 9 | Quick Attack |
-| 15 | Whirlwind |
-| 21 | Twister |
-| 25 | Featherdance |
-| 29 | Wing Attack |
-| 33 | Roost |
-| 36 | Agility |
-| 42 | Air Slash |
-| 45 | Screech |
-| 48 | Hurricane |
+| **1** | Scratch |
+| **1** | Sand Attack |
+| **5** | Gust |
+| **9** | Quick Attack |
+| **15** | Whirlwind |
+| **21** | Twister |
+| **25** | Featherdance |
+| **29** | Wing Attack |
+| **33** | Roost |
+| **36** | Agility |
+| **42** | Air Slash |
+| **45** | Screech |
+| **48** | Hurricane |
 
 ### Egg Moves
  - Pursuit
@@ -141,19 +141,19 @@ Normal / Flying | Keen Eye | Final Evolution
  - Air Cutter
 
 ### TMs / HMs
- - TM06 Toxic
- - TM10 Hidden Power
- - TM11 Sunny Day
- - TM17 Protect
- - TM18 Rain Dance
- - TM21 Frustration
- - TM27 Return
- - TM32 Double Team
- - TM40 Aerial Ace
- - TM42 Facade
- - TM43 Secret Power
- - TM44 Rest
- - TM45 Attract
- - TM46 Thief
- - TM47 Steel Wing
- - HM02 Fly
+ - **TM06** Toxic
+ - **TM10** Hidden Power
+ - **TM11** Sunny Day
+ - **TM17** Protect
+ - **TM18** Rain Dance
+ - **TM21** Frustration
+ - **TM27** Return
+ - **TM32** Double Team
+ - **TM40** Aerial Ace
+ - **TM42** Facade
+ - **TM43** Secret Power
+ - **TM44** Rest
+ - **TM45** Attract
+ - **TM46** Thief
+ - **TM47** Steel Wing
+ - **HM02** Fly

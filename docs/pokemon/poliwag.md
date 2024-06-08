@@ -3,7 +3,7 @@ unlisted: true
 title: Poliwag, Poliwhirl, Poliwrath, and Politoed
 ---
 ## ![](https://serebii.net/emerald/pokemon/060.png) Poliwag
-💧 Water | Damp / Water Absorb | Evolves at 25
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> Water | Damp / Water Absorb | Evolves at 25
 
 ### Stats
 
@@ -64,7 +64,7 @@ title: Poliwag, Poliwhirl, Poliwrath, and Politoed
  - **HM08** Dive
 
 ## ![](https://serebii.net/emerald/pokemon/061.png) Poliwhirl
-💧 Water | Damp / Water Absorb | Evolves with Water Stone / Evolves with King's Rock
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> Water | Damp / Water Absorb | Evolves with Water Stone / Evolves with King's Rock
 
 ### Stats
 
@@ -129,7 +129,7 @@ title: Poliwag, Poliwhirl, Poliwrath, and Politoed
  - **HM08** Dive
 
 ## ![](https://serebii.net/emerald/pokemon/062.png) Poliwrath
-💧 Water / Fighting 💥 | Damp / Water Absorb | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> Water / Fighting <img src="https://archives.bulbagarden.net/media/upload/thumb/3/3b/Fighting_icon_SwSh.png/64px-Fighting_icon_SwSh.png" width="20px" height="20px"> | Damp / Water Absorb | Final Evolution
 
 ### Stats
 

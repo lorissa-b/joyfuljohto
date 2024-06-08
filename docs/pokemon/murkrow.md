@@ -3,7 +3,7 @@ unlisted: true
 title: Murkrow and Honchkrow
 ---
 ## ![](https://serebii.net/emerald/pokemon/198.png) Murkrow
-🌑 Dark / Flying 🪽 | Insomnia | Evolves with Dusk Stone
+<img src="https://archives.bulbagarden.net/media/upload/thumb/d/d5/Dark_icon_SwSh.png/64px-Dark_icon_SwSh.png" width="20px" height="20px"> Dark / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Insomnia | Evolves with Dusk Stone
 
 ### Stats
 
@@ -66,7 +66,7 @@ title: Murkrow and Honchkrow
  - **HM02** Fly
 
 ## ![](https://serebii.net/pokearth/sprites/dp/430.png) Honchkrow
-🌑 Dark / Flying 🪽 | Insomnia | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/d/d5/Dark_icon_SwSh.png/64px-Dark_icon_SwSh.png" width="20px" height="20px"> Dark / Flying <img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png" width="20px" height="20px"> | Insomnia | Final Evolution
 
 ### Stats
 

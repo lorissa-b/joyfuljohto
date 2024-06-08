@@ -3,7 +3,7 @@ unlisted: true
 title: Chimecho
 ---
 ## ![](https://serebii.net/emerald/pokemon/358.png) Chimecho
-🌸 Psychic | Levitate | Does Not Evolve
+<img src="https://archives.bulbagarden.net/media/upload/thumb/7/73/Psychic_icon_SwSh.png/64px-Psychic_icon_SwSh.png" width="20px" height="20px"> Psychic | Levitate | Does Not Evolve
 
 ### Stats
 
