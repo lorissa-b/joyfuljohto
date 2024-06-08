@@ -3,7 +3,7 @@ unlisted: true
 title: Azurill, Marill, and Azumarill
 ---
 ## ![](https://serebii.net/emerald/pokemon/298.png) Azurill
-⚪ Normal | Thick Fat / Guts | Evolves with Friendship
+<img src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Normal_icon_SwSh.png/64px-Normal_icon_SwSh.png" width="20px" height="20px"> Normal | Thick Fat / Guts | Evolves with Friendship
 
 ### Stats
 
@@ -55,7 +55,7 @@ title: Azurill, Marill, and Azumarill
  - **HM07** Waterfall
 
 ## ![](https://serebii.net/emerald/pokemon/183.png) Marill
-💧 Water | Thick Fat / Huge Power | Evolves at 18
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> Water | Thick Fat / Huge Power | Evolves at 18
 
 ### Stats
 
@@ -111,7 +111,7 @@ title: Azurill, Marill, and Azumarill
  - **HM07** Waterfall
 
 ## ![](https://serebii.net/emerald/pokemon/184.png) Azumarill
-💧 Water | Thick Fat / Huge Power | Final Evolution
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="20px" height="20px"> Water | Thick Fat / Huge Power | Final Evolution
 
 ### Stats
 
