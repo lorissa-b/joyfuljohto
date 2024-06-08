@@ -7,7 +7,7 @@ order: 2
 **Red Text**{: style="color: red"} shows that a value has been adjusted down.  
 **Orange Text**{: style="color: orange"} shows that a value is newly added.  
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png" width="50px" height="50px"> Bug
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png" width="50px" height="50px"> Bug
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
@@ -282,7 +282,7 @@ order: 2
 | Meteor Mash | 10 | 100 | 85 | Fires a meteor-like punch. May raise ATTACK. |
 | Steel Wing | 25 | 70 | 90 | Strikes the foe with hard wings spread wide. |
 
-## <img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png" width="50px" height="50px"> Water
+## <img src="https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png" width="50px" height="50px"> Water
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
