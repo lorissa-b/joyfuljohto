@@ -4,6 +4,7 @@ title: Violet City
 order: 10
 ---
 ## Encounters
+
 | Pokemon | Location | Levels | Morning | Day | Evening | Night |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | ![](https://www.serebii.net/pokedex-dp/icon/129.gif) Magikarp | 🎣 Old Rod | 8 - 12 | 70% | 70% | 70% | 70% |

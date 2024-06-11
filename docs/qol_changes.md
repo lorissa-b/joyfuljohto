@@ -18,14 +18,14 @@ order: 1
 ✔️ Mid-battle Evolution
 
 <!-- My Notes: Level Curves
-FALKNER: 15
-BUGSY: 20 -- Consider 19 to be pre-Gyarados?
-WHITNEY: 26
-MORTY: 32
-CHUCK: 38
-PRYCE: 40 -- Should raise this because rocket hideout
-JASMINE: 46
-CLAIRE: 52
+FALKNER: 15 (2)
+BUGSY: 19 (3)
+WHITNEY: 26 (3)
+MORTY: 32 (4)
+CHUCK: 38 (4)
+PRYCE: 40 (5) -- Should raise this because rocket hideout
+JASMINE: 46 (5)
+CLAIRE: 52 (6)
 
 WILL: 60
 KOGA: 61

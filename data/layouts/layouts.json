@@ -4564,7 +4564,7 @@
     {
       "id": "LAYOUT_VIOLET_CITY_POKEMON_CENTER_1F",
       "name": "VioletCity_PokemonCenter_1F_Layout",
-      "width": 20,
+      "width": 26,
       "height": 20,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_PokemonCenter",
@@ -4574,7 +4574,7 @@
     {
       "id": "LAYOUT_VIOLET_CITY_MART",
       "name": "VioletCity_Mart_Layout",
-      "width": 20,
+      "width": 26,
       "height": 20,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_Shop",
@@ -4584,7 +4584,7 @@
     {
       "id": "LAYOUT_VIOLET_CITY_POKEMON_SCHOOL",
       "name": "VioletCity_PokemonSchool_Layout",
-      "width": 20,
+      "width": 26,
       "height": 20,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_PokemonSchool",
@@ -4594,8 +4594,8 @@
     {
       "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_1F",
       "name": "VioletCity_SproutTower_1F_Layout",
-      "width": 20,
-      "height": 20,
+      "width": 30,
+      "height": 26,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_TrickHousePuzzle",
       "border_filepath": "data/layouts/VioletCity_SproutTower_1F/border.bin",
@@ -4604,8 +4604,8 @@
     {
       "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_2F",
       "name": "VioletCity_SproutTower_2F_Layout",
-      "width": 20,
-      "height": 20,
+      "width": 30,
+      "height": 26,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_TrickHousePuzzle",
       "border_filepath": "data/layouts/VioletCity_SproutTower_2F/border.bin",
@@ -4614,8 +4614,8 @@
     {
       "id": "LAYOUT_VIOLET_CITY_SPROUT_TOWER_3F",
       "name": "VioletCity_SproutTower_3F_Layout",
-      "width": 20,
-      "height": 20,
+      "width": 30,
+      "height": 26,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_TrickHousePuzzle",
       "border_filepath": "data/layouts/VioletCity_SproutTower_3F/border.bin",
@@ -4624,8 +4624,8 @@
     {
       "id": "LAYOUT_VIOLET_CITY_FALKNER_GYM",
       "name": "VioletCity_FalknerGym_Layout",
-      "width": 20,
-      "height": 20,
+      "width": 22,
+      "height": 28,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_FortreeGym",
       "border_filepath": "data/layouts/VioletCity_FalknerGym/border.bin",

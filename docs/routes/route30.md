@@ -40,11 +40,11 @@ order: 19
 
 | Condition | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Start | ![](https://serebii.net/pokedex-dp/icon/019.gif) **Rattata** <br /> lv4 |  |  |  | | |
-| Goldenrod | ![](https://serebii.net/pokedex-dp/icon/019.gif) **Rattata** <br /> lv15 |  |  |  | | |
-| Olivine | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv21 |   |   |   | | |
-| Goldenrod Radio Tower | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv30 |  |  |  | | |
-| Champion | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv37 |  |  |  | | |
+| Start | ![](https://serebii.net/pokedex-dp/icon/019.gif) **Rattata** <br /> lv6 |  |  |  | | |
+| Goldenrod | ![](https://serebii.net/pokedex-dp/icon/019.gif) **Rattata** <br /> lv?? |  |  |  | | |
+| Olivine | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv?? |   |   |   | | |
+| Goldenrod Radio Tower | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv?? |  |  |  | | |
+| Champion | ![](https://serebii.net/pokedex-dp/icon/020.gif) **Raticate** <br /> lv?? |  |  |  | | |
 
 ### Bug Catcher Mikey
 
