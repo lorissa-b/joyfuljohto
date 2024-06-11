@@ -137,7 +137,7 @@ order: 2
 | Featherdance | 15 |  | 100 | Envelops the foe with down to sharply reduce ATTACK. |
 | Fly | 15 | 70 | 95 | Flies up on the first turn, then strikes the next turn. |
 | Gust | 35 | 40 | 100 | Strikes the foe with a gust of wind whipped up by wings. |
-| **Hurricane** | 10 | 110 | 70 | Wraps the opponent in a fierce wind and flies up. May confuse. <br /> **NOTE: NOT IMPLEMENTED YET** |
+| **Hurricane**{: style="color: orange"} | 10 | 110 | 70 | Wraps the opponent in a fierce wind and flies up. May confuse. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Mirror Move | 20 |  |  | Counters the foe's attack with the same move. |
 | Peck | 35 | 35 | 100 | Attacks the foe with a jabbing beak, etc. |
 | **Roost**{: style="color: orange"} | 10 | | | The user lands and rests. Restores the user's HP. <br /> **NOTE: NOT IMPLEMENTED YET** |
@@ -260,6 +260,7 @@ order: 2
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
+| **Accelerock**{: style="color: orange"} | 20 | 40 | 100 | Smashes into the target at high speed. Always goes first. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Ancientpower | 5 | 60 | 100 | An attack that may raise all stats. |
 | Rock Blast | 10 | 25 | 80 | Hurls boulders at the foe 2 to 5 times in a row. |
 | Rock Slide | 10 | 75 | 90 | Large boulders are hurled. May cause flinching. |
@@ -273,9 +274,11 @@ order: 2
 
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
+| **Bullet Punch**{: style="color: orange"} | 30 | 40 | 100 | Strikes the target with fast punches. Always goes first. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Doom Desire | 5 | 120 | 85 | Summons strong sunlight to attack 2 turns later. |
 | **Gyro Ball**{: style="color: orange"} | 5 |  | 100 | Attacks the target with a high-speed spin. The slower the user the stronger. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Iron Defense | 15 |  |  | Hardens the body's surface to sharply raise DEFENSE. |
+| **Iron Head**{: style="color: orange"} | 15 | 80 | 100 | Slams the target with its steel-hard head. May cause flinching. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Iron Tail | 15 | 100 | 75 | Attacks with a rock-hard tail. May lower DEFENSE. |
 | Metal Claw | 35 | 50 | 95 | A claw attack that may raise the user's ATTACK. |
 | Metal Sound | 40 |  | 85 | Emits a horrible screech that sharply lowers SP. DEF. |
