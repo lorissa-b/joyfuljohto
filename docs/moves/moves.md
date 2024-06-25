@@ -168,6 +168,7 @@ order: 2
 | Aromatherapy | 5 |  |  | Heals all status problems with a soothing scent. |
 | Bullet Seed | 30 | 10 | 100 | Shoots 2 to 5 seeds in a row to strike the foe. |
 | Cotton Spore | 40 |  | 85 | Spores cling to the foe, sharply reducing SPEED. |
+| **Energy Ball**{: style="color: orange"} | 10 | 90 | 100 | Draws power from nature and fires. May lower Sp. Def. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Frenzy Plant | 5 | 150 | 90 | Powerful, but leaves the user immobile the next turn. |
 | Giga Drain | 5 | 60 | 100 | An attack that steals half the damage inflicted. |
 | Grasswhistle | 15 |  | 55 | Lulls the foe into sleep with a pleasant melody. |
@@ -255,6 +256,7 @@ order: 2
 | Name | PP | Att. | Acc. | Effect |
 |---:|:---:|:---:|:---:|---:|
 | **Psystrike**{: style="color: orange"} | 10 | 100 | 100 | Materializes an odd psychic wave to attack. Does physical damage. <br /> **NOTE: NOT IMPLEMENTED YET** |
+| **Zen Headbutt**{: style="color: orange"} | 15 | 80 | 90 | Focuses its willpower and attacks the target. May flinch. <br /> **NOTE: NOT IMPLEMENTED YET** |
 
 ## <img src="https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png/64px-Rock_icon_SwSh.png" width="50px" height="50px"> Rock
 
@@ -301,6 +303,7 @@ order: 2
 | Muddy Water | 10 | 95 | 85 | Attacks with muddy water. May lower accuracy. |
 | Octazooka | 10 | 65 | 85 | Fires a lump of ink to damage and cut accuracy. |
 | Rain Dance | 5 |  |  | Boosts the power of WATER- type moves for 5 turns. |
+| **Scald**{: style="color: orange"} | 15 | 80 | 100 | Shoots boiling hot water at the target. May burn. <br /> **NOTE: NOT IMPLEMENTED YET** |
 | Surf | 15 | 95 | 100 | Creates a huge wave, then crashes it down on the foe. |
 | Water Gun | 25 | 40 | 100 | Squirts water to attack the foe. |
 | Water Pulse | 20 | 60 | 100 | Attacks with ultrasonic waves. May confuse the foe |

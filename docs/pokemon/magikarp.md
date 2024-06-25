@@ -38,11 +38,11 @@ None
 
 | Level | Move |
 |---:|:---|
-| **1** | Outrage |
+| **1** | Thrash |
 | **1** | Bite |
 | **1** | Leer |
 | **1** | Twister |
-| **Evolution** | Outrage |
+| **Evolution** | Thrash |
 | **Evolution** | Bite |
 | **22** | Dive |
 | **26** | Scary Face |
